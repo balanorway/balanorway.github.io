@@ -3010,7 +3010,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"en.html#extHeader13-2m\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" href=\"en.html#extHeader13-2n\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x33715.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x33718.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3407,7 +3407,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5716.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5719.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3755,7 +3755,7 @@
             "showButtons": true
           },
           "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Norges-turné Desember 2017</span><br></div><div><br>Møt en verdenskjent</div><div>ekspert i yoga-vitenskapen</div>",
-          "text": "<span style=\"font-style: normal;\"><b>Vi inviterer deg til en unik forelesning - den handler om deg!<br></b>Er det mulig å leve et liv uten ensomhet, angst og stress? <br>Møt den verdenskjente yogien, foreleseren, og meditasjonsmesteren Balakhilya das - han reiser rundt i verden for å løse konflikter og hjelpe oss finne sann og varig lykke.&nbsp;</span>Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, og ikke bare et som ser bra ut på utsiden.<br><span style=\"font-style: normal;\">Dette kan utgjøre en virkelig forskjell i livet ditt!</span><br><span style=\"font-style: normal;\"><b><br>RESERVER DIN GRATISBILLETT NÅ:</b></span>",
+          "text": "<span style=\"font-style: normal;\"><b>Vi inviterer deg til en unik forelesning - den handler om deg!<br></b>Er det mulig å leve et liv uten ensomhet, angst og stress? <br>Møt den verdenskjente yogien, foreleseren, og meditasjonsmesteren Balakhilya das - han reiser rundt i verden for å løse konflikter og hjelpe oss finne sann og varig lykke.</span><br><span style=\"font-style: normal;\">Dette kan utgjøre en virkelig forskjell i livet ditt!</span><br><span style=\"font-style: normal;\"><b><br>RESERVER DIN GRATISBILLETT NÅ:</b></span>",
           "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html\">OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html\">TRONDHEIM</a>",
           "media": {
             "image": {
@@ -4123,7 +4123,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33717.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33720.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
