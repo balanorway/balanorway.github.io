@@ -1463,6 +1463,9 @@ h6,
 
 
 
+
+
+
 #header3-5 .mbr-section-title,
 #header3-5 .mbr-section-subtitle {
   text-align: center;
@@ -1470,7 +1473,7 @@ h6,
 #extHeader6-2s DIV {
   color: #475577;
   font-family: 'Ubuntu', sans-serif;
-  font-size: 30px;
+  font-size: 25px;
 }
 #extHeader6-2s H3 {
   font-family: 'Open Sans Condensed', sans-serif;
@@ -1504,7 +1507,7 @@ h6,
   font-size: 17px;
 }
 #extFeatures13-3o .etl-icon {
-  color: #666666;
+  color: #ffffff;
 }
 #extFeatures13-3o .mbr-section-title {
   font-family: 'Open Sans Condensed', sans-serif;
@@ -1526,7 +1529,7 @@ h6,
   color: #f3c649;
 }
 #extFeatures13-3o .date SPAN {
-  font-size: 19px;
+  font-size: 23px;
 }
 #features3-2r H4 {
   font-size: 30px;
@@ -1537,6 +1540,19 @@ h6,
 }
 #features3-2r .btn {
   font-size: 14px;
+}
+#extHeader13-42 H3 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #ffffff;
+}
+#extHeader13-42 P {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 22px;
+  color: #fac51c;
+}
+#extHeader13-42 H4 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #ffffff;
 }
 #extForm1-3q P {
   font-size: 16px;
