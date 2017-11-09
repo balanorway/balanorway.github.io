@@ -3012,7 +3012,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"en.html#extHeader13-2m\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" href=\"en.html#extHeader13-2n\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x33730.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x33733.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3409,7 +3409,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5731.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5734.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3901,10 +3901,10 @@
             }
           },
           "title1": "<a href=\"oslo.html\">Yoga Day Retreat</a>",
-          "text1": "<span style=\"font-style: normal;\">Yogaretreat med Balakhilya das</span>.<br>12:00 Rådhusgata 12<br>Oslo<br>",
+          "text1": "<span style=\"font-style: normal;\">Yogaretreat med Balakhilya das</span>.<br><span style=\"font-style: normal;\">12:00 Rådhusgata 12<br>Oslo</span><br>",
           "date2": "<span style=\"font-style: normal;\">5 desember<br></span><br>",
           "title2": "<a href=\"oslo.html\">Seminar: Lost in the World</a>",
-          "text2": "Hvorfor dårlige ting skjer med gode mennesker og hvordan vi kan leve i denne verden uten å skape karma.&nbsp;<span style=\"font-style: normal;\">Gratis inngang.</span><br><span style=\"font-style: normal;\">18:00 Litteraturhuset<br>Wergelandsveien</span> <span style=\"font-style: normal;\">29</span><br><span style=\"font-style: normal;\">Oslo</span><br>",
+          "text2": "<span style=\"font-style: normal;\">Hvorfor dårlige ting skjer med gode mennesker og hvordan vi kan leve i denne verden uten å skape karma.&nbsp;Gratis inngang.<br>18:00 Litteraturhuset<br>Wergelandsveien</span> <span style=\"font-style: normal;\">29</span><br><span style=\"font-style: normal;\">Oslo</span><br>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -3929,10 +3929,10 @@
             }
           },
           "title3": "<a href=\"trondheim.html\">Seminar: Lost in the World</a>",
-          "text3": "<span style=\"font-style: normal;\">Folk liker å ha folk rundt seg, ting som skjer hele tiden. Men hva gjør man hvis man selv i en gruppe med venner eller på fest opplever ensomhet? Finnes det en løsning på denne gnagende tomheten?</span><br>Gratis inngang.<br>",
+          "text3": "<span style=\"font-style: normal;\">Folk liker å ha folk rundt seg, ting som skjer hele tiden. Men hva gjør man hvis man selv i en gruppe med venner eller på fest opplever ensomhet? Finnes det en løsning på denne gnagende tomheten?</span><br><span style=\"font-style: normal;\">Gratis inngang.</span><br>",
           "date4": "<span style=\"font-style: normal;\">9 desember</span><br>",
           "title4": "Seminar: Lost in the World",
-          "text4": "<span style=\"font-style: normal;\">Folk liker å ha folk rundt seg, ting som skjer hele tiden. Men hva gjør man hvis man selv i en gruppe med venner eller på fest opplever ensomhet? Finnes det en løsning på denne gnagende tomheten?&nbsp;Gratis inngang.</span><br>18:00 Kjøpmannsgata 12<br>Trondheim<span style=\"font-style: normal;\"><br></span>",
+          "text4": "<span style=\"font-style: normal;\">Folk liker å ha folk rundt seg, ting som skjer hele tiden. Men hva gjør man hvis man selv i en gruppe med venner eller på fest opplever ensomhet? Finnes det en løsning på denne gnagende tomheten? Gratis inngang.</span><br><span style=\"font-style: normal;\">18:00 Kjøpmannsgata 12<br>Trondheim<br></span>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -3957,7 +3957,7 @@
             }
           },
           "title5": "<a href=\"trondheim.html\">Pop-up Yoga Café</a>",
-          "text5": "<span style=\"font-style: normal;\">Møt andre yoga-entusiaster til seminar og spørsmål med internasjonal yogamester og foredragsholder Balakhilya das om \"Living a Yoga Lifestyle\". Muligheter til å kjøpe smakfull vegetarmat på eventen.&nbsp;Gratis inngang.<br></span>14:00 Kongens gate 55<br>Trondheim<br>",
+          "text5": "<span style=\"font-style: normal;\">Møt andre yoga-entusiaster til seminar og spørsmål med internasjonal yogamester og foredragsholder Balakhilya das om \"Living a Yoga Lifestyle\". Muligheter til å kjøpe smakfull vegetarmat på eventen. Gratis inngang.<br>14:00 Kongens gate 55<br>Trondheim</span><br>",
           "date6": "6 June 2016",
           "title6": "6. Multi Homepages",
           "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
@@ -4126,7 +4126,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33732.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33735.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
