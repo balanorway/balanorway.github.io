@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "index.html",
+    "currentPage": "en.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3010,7 +3010,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"en.html#extHeader13-2m\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" href=\"en.html#extHeader13-2n\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x33730.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x33733.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3226,7 +3226,7 @@
             }
           },
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SIGN ME UP IN OSLO<br></a>",
-          "title": "OSLO",
+          "title": "SEMINARS IN OSLO",
           "text": "<span style=\"font-style: normal;\">5 DECEMBER - KARMA<br>6 DECEMBER - LOST IN THE WORLD<br><br>18:00 LITTERATURHUSET<br>WERGELANDSVEIEN 29, OSLO<br>TEL. 98041818</span><br>"
         },
         {
@@ -3305,7 +3305,7 @@
             }
           },
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SIGN ME UP IN TRONDHEIM</a>",
-          "title": "TRONDHEIM<br>",
+          "title": "EVENTS IN TRONDHEIM<br>",
           "text": "<span style=\"line-height: 1.5;\"><b style=\"font-style: normal;\">SEMINAR - LOST IN THE WORLD<br></b><span style=\"font-style: normal;\">9 DECEMBER&nbsp;18:00</span></span><span style=\"font-style: normal;\"><br>KJØPMANNSGATA 12<br></span><br><b style=\"font-style: normal;\">POP-UP YOGA CAFE<br></b><span style=\"font-style: normal;\">10 DECEMBER 14:00<br>KONGENS GATE 55</span>"
         },
         {
@@ -3407,7 +3407,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5731.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5734.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -4123,7 +4123,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33732.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33735.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
