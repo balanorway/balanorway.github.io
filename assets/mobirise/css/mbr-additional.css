@@ -1255,6 +1255,7 @@ h6,
 
 
 
+
 #header3-15 .mbr-section-title,
 #header3-15 .mbr-section-subtitle {
   text-align: center;
@@ -1262,7 +1263,7 @@ h6,
 #extHeader6-2y DIV {
   color: #475577;
   font-family: 'Ubuntu', sans-serif;
-  font-size: 30px;
+  font-size: 23px;
 }
 #extHeader6-2y H3 {
   font-family: 'Open Sans Condensed', sans-serif;
@@ -1274,6 +1275,7 @@ h6,
 #extHeader6-2y SPAN {
   font-size: 20px;
   color: #414141;
+  font-family: 'Oxygen', sans-serif;
 }
 #extHeader6-2y B {
   color: #414141;

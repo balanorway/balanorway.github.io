@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "en.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2620,7 +2620,7 @@
               "color": "#475577",
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "30px"
+              "font-size": "23px"
             },
             "H3": {
               "font-family": "'Open Sans Condensed', sans-serif",
@@ -2633,7 +2633,9 @@
             },
             "SPAN": {
               "font-size": "20px",
-              "color": "#414141"
+              "color": "#414141",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "B": {
               "color": "#414141"
@@ -2658,8 +2660,8 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Touring Norway Desember 2017</span><br></div><div><br>Meet a world-known</div><div>expert in the Wisdom of Yoga</div>",
-          "text": "<b><span style=\"font-style: normal;\">We invite you to a different lecture: This is about you!<br>A life without loneliness, anxiety, and stress - is it even possible?&nbsp;</span></b><span style=\"font-weight: bold; font-style: normal;\"><br></span>",
+          "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Touring Norway Desember 2017</span><br></div><div><br>OSLO</div><div>2.12 Yoga Day Retreat</div><div>5.12 Seminar om Karma</div><div>6.12 Foredrag 'Lost in the World'</div><div><br></div><div>TRONDHEIM</div><div>9.12 Foredrag 'Lost in the World'</div><div>10.12 Pop-up Yoga Café</div><div>16.12 Yoga Day Retreat</div>",
+          "text": "<span style=\"font-style: normal;\">Meet a world-known&nbsp;expert in the Wisdom of Yoga.<br>We invite you to a different lecture: This is about you!<br>A life without loneliness, anxiety, and stress - is it even possible?&nbsp;</span><br><span style=\"font-style: normal;\"><br><b>BOOK YOUR FREE SEATS:</b></span>",
           "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"index-en.html#extHeader13-2m\">OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"index-en.html#extHeader13-2n\">TRONDHEIM</a>",
           "media": {
             "image": {
@@ -3010,7 +3012,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"en.html#extHeader13-2m\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" href=\"en.html#extHeader13-2n\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x33727.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x33730.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3407,7 +3409,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5728.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5731.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3755,7 +3757,7 @@
             "showButtons": true
           },
           "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Norges-turné Desember 2017</span></div><div><br>OSLO<br>2.12 Yoga Day Retreat</div><div>5.12 Seminar om Karma</div><div>6.12 Foredrag 'Lost in the World'</div><div><br></div><div>TRONDHEIM</div><div>9.12 Foredrag 'Lost in the World'</div><div>10.12 Pop-up Yoga Café<br>16.12 Yoga Day Retreat</div>",
-          "text": "<span style=\"font-style: normal;\">Møt Balakhilya das, verdenskjent ekspert i yoga-vitenskapen.<br>Vi inviterer deg til en unik forelesning - den handler om deg!</span><span style=\"font-style: normal;\"><b><br></b></span>",
+          "text": "<span style=\"font-style: normal;\">Møt Balakhilya das, verdenskjent ekspert i yoga-vitenskapen.<br>Vi inviterer deg til en unik forelesning - den handler om deg!</span><br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\"><b>BOKE GRATIS BILLETT:</b></span>",
           "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html\">OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html\">TRONDHEIM</a>",
           "media": {
             "image": {
@@ -4124,7 +4126,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33729.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33732.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
