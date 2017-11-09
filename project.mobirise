@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "hjem.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -726,7 +726,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"hjem.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">PÅMELDING FOR SEMINAR</a></li>"
         }
       ]
@@ -847,7 +847,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"hjem.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">PÅMELDING FOR SEMINAR</a></li>"
         },
         {
@@ -1717,7 +1717,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"hjem.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">PÅMELDING FOR SEMINAR</a></li>"
         }
       ]
@@ -2572,7 +2572,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"hjem.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">PÅMELDING FOR SEMINAR</a></li>"
         }
       ]
@@ -3010,7 +3010,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"en.html#extHeader13-2m\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" href=\"en.html#extHeader13-2n\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x33727.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x33730.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3407,7 +3407,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5728.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5731.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3664,12 +3664,12 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"hjem.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">PÅMELDING FOR SEMINAR</a></li>"
         }
       ]
     },
-    "hjem.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Gratis seminarer fra Yoga-vitenskapen av Balakhilya das | yogavisdom.no",
@@ -4123,7 +4123,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33729.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33732.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4372,7 +4372,7 @@
               "src": "@PROJECT_PATH@/assets/images/lotus-flower-white-132x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "hjem.html",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -4382,7 +4382,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"hjem.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">PÅMELDING FOR SEMINAR</a></li>"
         }
       ]
