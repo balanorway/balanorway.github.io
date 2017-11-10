@@ -1256,6 +1256,7 @@ h6,
 
 
 
+
 #header3-15 .mbr-section-title,
 #header3-15 .mbr-section-subtitle {
   text-align: center;
@@ -1294,30 +1295,33 @@ h6,
   font-family: 'Open Sans', sans-serif;
   font-size: 17px;
 }
-#extFeatures13-3s .etl-icon {
-  color: #666666;
+#extFeatures13-46 .etl-icon {
+  color: #ffffff;
 }
-#extFeatures13-3s .mbr-section-title {
+#extFeatures13-46 .mbr-section-title {
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 36px;
   color: #ffffff;
 }
-#extFeatures13-3s .mbr-section-title SPAN {
+#extFeatures13-46 .mbr-section-title SPAN {
   color: #ffffff;
 }
-#extFeatures13-3s SPAN {
+#extFeatures13-46 SPAN {
   color: #ffffff;
 }
-#extFeatures13-3s P {
+#extFeatures13-46 P {
   color: #ffffff;
   font-family: 'Lato', sans-serif;
   font-size: 18px;
 }
-#extFeatures13-3s H4 {
+#extFeatures13-46 H4 {
   color: #f3c649;
 }
-#extFeatures13-3s .date SPAN {
-  font-size: 19px;
+#extFeatures13-46 .date SPAN {
+  font-size: 23px;
+}
+#extFeatures13-46 .date P {
+  font-size: 23px;
 }
 #features3-41 H4 {
   font-size: 30px;
@@ -1329,21 +1333,15 @@ h6,
 #features3-41 .btn {
   font-size: 14px;
 }
-#msg-box5-40 P {
-  text-align: right;
-  font-size: 20px;
+#features3-41 H5 {
+  font-family: 'Lato', sans-serif;
+  font-size: 17px;
 }
-#msg-box5-40 SPAN {
-  text-align: center;
-  font-size: 30px;
-  font-family: 'Slabo 27px', serif;
+#msg-box4-47 H3 {
+  font-family: 'Open Sans Condensed', sans-serif;
 }
-#msg-box5-40 H3 {
-  font-family: 'Indie Flower', cursive;
-  font-size: 60px;
-}
-#msg-box5-40 DIV {
-  font-size: 36px;
+#msg-box4-48 H3 {
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #extHeader13-2m H3 {
   font-family: 'Open Sans Condensed', sans-serif;
@@ -1468,6 +1466,8 @@ h6,
 
 
 
+
+
 #header3-5 .mbr-section-title,
 #header3-5 .mbr-section-subtitle {
   text-align: center;
@@ -1533,15 +1533,26 @@ h6,
 #extFeatures13-3o .date SPAN {
   font-size: 23px;
 }
+#extFeatures13-3o .date P {
+  font-size: 23px;
+}
 #features3-2r H4 {
   font-size: 30px;
 }
 #features3-2r P {
   font-size: 18px;
   font-family: 'Lato', sans-serif;
+  text-align: center;
 }
 #features3-2r .btn {
   font-size: 14px;
+}
+#features3-2r H5 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 17px;
+}
+#msg-box4-45 H3 {
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #extHeader13-42 H3 {
   font-family: 'Open Sans Condensed', sans-serif;
