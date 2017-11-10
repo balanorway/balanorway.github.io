@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "oslo.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -568,7 +568,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BOOK DIN GRATIS PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
           },
           "media": {
             "image": {
@@ -900,7 +900,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BOOK DIN GRATIS PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
           },
           "media": {
             "image": {
@@ -1291,7 +1291,7 @@
               "message": {
                 "title": "Message",
                 "visible": true,
-                "customTitle": "HVILKET EVENT?*"
+                "customTitle": "HVILKEN EVENT?*"
               }
             }
           },
@@ -1570,7 +1570,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BOOK DIN GRATIS PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
           },
           "media": {
             "image": {
@@ -2114,7 +2114,7 @@
             "countdown": "2017/12/09 18:00",
             "showArrow": false
           },
-          "title2": "BOKE GRATIS BILLETTER<br>",
+          "title2": "BOOK GRATIS PLASS",
           "form": {
             "action": "info@tmy.no",
             "alerts": {
@@ -2144,7 +2144,7 @@
             }
           },
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">MELD MEG PÅ</a>",
-          "title": "EVENTS I TRONDHEIM<br>",
+          "title": "EVENTER I TRONDHEIM<br>",
           "text": "&nbsp;SAT 9 DEC - LECTURE 'LOST IN THE WORLD'<br>SUN 10 DEC - POP-UP YOGA CAFE<br>SAT 16 DEC - YOGA DAY RETREAT<br>"
         },
         {
@@ -2418,7 +2418,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BOOK DIN GRATIS PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
           },
           "media": {
             "image": {
@@ -3031,7 +3031,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"en.html#extHeader13-2m\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" href=\"en.html#extHeader13-2n\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x33730.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x33733.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3475,7 +3475,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5731.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5734.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3569,7 +3569,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BOOK DIN GRATIS PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
           },
           "media": {
             "image": {
@@ -4203,7 +4203,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33732.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33735.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4438,7 +4438,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BOOK DIN GRATIS PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
           },
           "media": {
             "image": {
