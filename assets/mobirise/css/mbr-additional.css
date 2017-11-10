@@ -718,30 +718,33 @@ h6,
 #buttons1-s .btn {
   font-size: 16px;
 }
-#extFeatures13-3y .etl-icon {
-  color: #666666;
+#extFeatures13-4b .etl-icon {
+  color: #ffffff;
 }
-#extFeatures13-3y .mbr-section-title {
+#extFeatures13-4b .mbr-section-title {
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 36px;
   color: #ffffff;
 }
-#extFeatures13-3y .mbr-section-title SPAN {
+#extFeatures13-4b .mbr-section-title SPAN {
   color: #ffffff;
 }
-#extFeatures13-3y SPAN {
+#extFeatures13-4b SPAN {
   color: #ffffff;
 }
-#extFeatures13-3y P {
+#extFeatures13-4b P {
   color: #ffffff;
   font-family: 'Lato', sans-serif;
   font-size: 18px;
 }
-#extFeatures13-3y H4 {
+#extFeatures13-4b H4 {
   color: #f3c649;
 }
-#extFeatures13-3y .date SPAN {
-  font-size: 19px;
+#extFeatures13-4b .date SPAN {
+  font-size: 23px;
+}
+#extFeatures13-4b .date P {
+  font-size: 23px;
 }
 #extForm1-3z P {
   font-size: 16px;

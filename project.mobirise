@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "oslo.html",
+    "currentPage": "kontakt.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 155,
+    "uniqCompNum": 156,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -305,7 +305,7 @@
           "_name": "extFeatures13",
           "_styles": {
             ".etl-icon": {
-              "color": "#666666"
+              "color": "#ffffff"
             },
             ".mbr-section-title": {
               "font-family": "'Open Sans Condensed', sans-serif",
@@ -329,18 +329,21 @@
               "color": "#f3c649"
             },
             ".date SPAN": {
-              "font-size": "19px"
+              "font-size": "23px"
+            },
+            ".date P": {
+              "font-size": "23px"
             }
           },
-          "_anchor": "extFeatures13-3y",
+          "_anchor": "extFeatures13-4b",
           "_params": {
-            "iconsColor": "#666666",
-            "blocks": "4",
+            "iconsColor": "#ffffff",
+            "blocks": "6",
             "paddingTop": 2,
             "paddingBottom": 2,
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader14-bg-16.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader14-bg-19.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -354,25 +357,25 @@
             "showSubtitle": false,
             "showDates": true
           },
-          "mainTitle": "<span style=\"font-weight: normal;\">BALAKHILYA DAS I NORGE</span>",
+          "mainTitle": "<span style=\"font-weight: normal;\">BALAKHILYA DAS I NORGE 2017</span>",
           "mainSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-          "date1": "<b style=\"font-style: normal;\"><a href=\"oslo.html\" class=\"text-warning\">5. desember 2017</a><br></b><span style=\"font-style: normal;\">18:00 Litteraturhuset</span><br><span style=\"font-style: normal;\">Wergelandsveien 29</span><br><span style=\"font-style: normal;\">Oslo</span><br>",
+          "date1": "<span style=\"font-style: normal;\">2 desember</span><br>",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont-extFeatures2",
               "linkInNewWindow": false,
-              "name": "arrow-cross",
-              "family": "iconsMind",
+              "name": "leaf-1",
+              "family": "icon54",
               "active": true,
-              "size": 0,
+              "size": "1",
               "color": "#41a85f"
             }
           },
-          "title1": "<a href=\"oslo.html\">Seminar: Karma</a>",
-          "text1": "<span style=\"font-style: normal;\">Hvorfor dårlige ting skjer med gode mennesker og hvordan vi kan leve i denne verden uten å skape karma.</span><br>Gratis inngang.",
-          "date2": "<span style=\"font-style: normal;\"><b><a href=\"oslo.html\" class=\"text-warning\">6. desember 2017</a><br></b>18:00 Litteraturhuset<br>Wergelandsveien 29<br>Oslo</span><br>",
-          "title2": "<a href=\"oslo.html\">Seminar: Lost in the World</a>",
-          "text2": "<span style=\"font-style: normal;\">Folk liker å ha folk rundt seg, ting som skjer hele tiden. Men hva gjør man hvis man selv i en gruppe med venner eller på fest opplever ensomhet? Finnes det en løsning på denne gnagende tomheten?<br></span>Gratis inngang.<br>",
+          "title1": "<a href=\"oslo.html\">Yoga Day Retreat</a>",
+          "text1": "<span style=\"font-style: normal;\">Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Med yoga, meditasjon, live musikk, vegetarmat, og seminar med&nbsp;Balakhilya das.<br>12:00 Rådhusgata 12<br>Oslo</span><br>",
+          "date2": "<span style=\"font-style: normal;\">5 desember<br></span><br>",
+          "title2": "<a href=\"oslo.html\">Seminar om Karma</a>",
+          "text2": "<span style=\"font-style: normal;\">Hvorfor forferdelige ting skjer med gode eller uskyldige mennesker,&nbsp;og hvordan vi kan leve i denne verden uten å skape karma.&nbsp;Gratis inngang.</span><br><span style=\"font-style: normal;\">18:00 Litteraturhuset</span><br><span style=\"font-style: normal;\">Wergelandsveien</span> <span style=\"font-style: normal;\">29</span><br><span style=\"font-style: normal;\">Oslo</span><br>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -380,11 +383,11 @@
               "name": "three-arrowfork",
               "family": "iconsMind",
               "active": true,
-              "size": 0,
+              "size": "1",
               "color": "#41a85f"
             }
           },
-          "date3": "<span style=\"font-style: normal;\"><b><a href=\"trondheim.html\" class=\"text-warning\">9. desember 2017</a><br></b>18:00 Kjøpmannsgata 12<br>Trondheim</span><br>",
+          "date3": "<span style=\"font-style: normal;\">6 desember</span><br>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -392,15 +395,15 @@
               "name": "question",
               "family": "MobiriseIcons",
               "active": true,
-              "size": 0,
+              "size": "1",
               "color": "#41a85f"
             }
           },
-          "title3": "<a href=\"trondheim.html\">Seminar: Lost in the World</a>",
-          "text3": "<span style=\"font-style: normal;\">Folk liker å ha folk rundt seg, ting som skjer hele tiden. Men hva gjør man hvis man selv i en gruppe med venner eller på fest opplever ensomhet? Finnes det en løsning på denne gnagende tomheten?</span><br>Gratis inngang.<br>",
-          "date4": "<span style=\"font-style: normal;\"><b><a href=\"trondheim.html\" class=\"text-warning\">10. desember 2017</a><br></b>14:00 Kongens gate 55<br>Trondheim</span>&nbsp;<br>",
-          "title4": "<a href=\"trondheim.html\">Pop-up Yoga Café</a>",
-          "text4": "<span style=\"font-style: normal;\">Møt andre yoga-entusiaster til seminar og spørsmål med internasjonal yogamester og foredragsholder Balakhilya das om \"Living a Yoga Lifestyle\". Muligheter til å kjøpe smakfull vegetarmat på eventen.<br></span>Gratis inngang.",
+          "title3": "<a href=\"oslo.html\">Foredrag: Lost in the World</a>",
+          "text3": "<span style=\"font-style: normal;\">Folk liker å ha folk rundt seg, ting som skjer hele tiden. Men hvorfor opplever mange ensomhet - selv i en gruppe med venner eller familie? <br></span>Velkommen til et foredrag om deg!<br><span style=\"font-style: normal;\">Gratis inngang. <br>18:00 Litteraturhuset<br></span>Wergelandsveien 29<br>Oslo&nbsp;<br>",
+          "date4": "<span style=\"font-style: normal;\">9 desember</span><br>",
+          "title4": "<a href=\"trondheim.html\">Foredrag: Lost in the World</a>",
+          "text4": "<span style=\"font-style: normal;\">Folk liker å ha folk rundt seg, ting som skjer hele tiden. Men hvorfor opplever mange ensomhet - selv i en gruppe med venner eller familie?<br></span>Velkommen til et foredrag om deg!<br><span style=\"font-style: normal;\">Gratis inngang.</span><br><span style=\"font-style: normal;\">18:00 Kjøpmannsgata 12<br>Trondheim<br></span>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -408,34 +411,36 @@
               "name": "people-oncloud",
               "family": "iconsMind",
               "active": true,
-              "size": 0,
+              "size": "1",
               "color": "#41a85f"
             }
           },
-          "date5": "5 May 2016",
+          "date5": "<span style=\"font-style: normal;\">10 desember</span>",
           "media5": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-features6",
-              "name": "pencil",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
+              "linkInNewWindow": false,
+              "name": "laptop",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": "1",
+              "color": "#efefef"
             }
           },
-          "title5": "5. Awesome Reports",
-          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "date6": "6 June 2016",
-          "title6": "6. Multi Homepages",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "title5": "<a href=\"trondheim.html\">Pop-up Yoga Café</a>",
+          "text5": "Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta! Enten du er kjent med Yoga eller aldri har gjort det før, - du er velkommen. Det blir blant annet seminar med yoga- og meditasjonsmester Balakhilya das.&nbsp;<span style=\"font-style: normal;\">Muligheter til å kjøpe delig hjemmelaget vegetarmat på eventen.<br>Gratis inngang.<br>14:00 Kongens gate 55<br>Trondheim</span><br>",
+          "date6": "<span style=\"font-style: normal;\">16 desember</span>",
+          "title6": "<a href=\"http://tmy.no/retreat\">Yoga Day Retreat</a>",
+          "text6": "<span style=\"font-style: normal;\">Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Med yoga, meditasjon, live musikk, vegetarmat, og seminar med Balakhilya das.<br></span>10:00 - 16:00 Storbuan Økosamfunn<br>Trondheim",
           "media6": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-extFeatures2",
-              "name": "layers",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
+              "linkInNewWindow": false,
+              "name": "question",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": "1",
+              "color": "#efefef"
             }
           },
           "date7": "7 July 2016",
@@ -563,7 +568,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BOOK DIN GRATIS PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND TIL OSS</a>"
           },
           "media": {
             "image": {
@@ -595,7 +600,7 @@
           },
           "title1": "Oslo",
           "subTitle1": "Ready for offers & cooperation",
-          "text1": "Oslo Meditasjonsskole<br>Tel. 980 41 818<br><a href=\"mailto:oslomeditasjon@gmail.com\">oslomeditasjon@gmail.com</a><br><a href=\"http://www.oslomeditasjon.no\" target=\"_blank\">www.oslomeditasjon.no</a><br>",
+          "text1": "Oslo Meditasjonsskole<br>Tel. 980 41 818<br><a href=\"mailto:oslomeditasjon@gmail.com\" class=\"text-black\">oslomeditasjon@gmail.com</a><br><a href=\"http://www.oslomeditasjon.no\" target=\"_blank\" class=\"text-black\">www.oslomeditasjon.no</a><br>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-form1",
@@ -609,32 +614,32 @@
           },
           "title2": "Trondheim",
           "subTitle2": "Glad to meet new people",
-          "text2": "Trondheim Meditasjon &amp; Yoga<br>Tel. 410 75 816<br><a href=\"mailto:info@tmy.no\">info@tmy.no</a><br><a href=\"http://www.tmy.no\" target=\"_blank\">www.tmy.no</a>",
+          "text2": "Trondheim Meditasjon &amp; Yoga<br>Tel. 410 75 816<br><a href=\"mailto:info@tmy.no\" class=\"text-black\">info@tmy.no</a><br><a href=\"http://www.tmy.no\" target=\"_blank\" class=\"text-black\">www.tmy.no</a>",
           "form": {
             "action": "info@trondheimmeditasjon.no",
             "alerts": {
-              "success": "Thanks for the message!"
+              "success": "Takk for meldingen!"
             },
             "fields": {
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": "Navn*"
               },
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "Phone"
+                "customTitle": "Telefon"
               },
               "email": {
                 "title": "Email",
                 "visible": true,
-                "customTitle": "Email*"
+                "customTitle": "Epost*"
               },
               "message": {
                 "title": "Message",
                 "visible": true,
-                "customTitle": "Message"
+                "customTitle": "Melding"
               }
             }
           },
@@ -895,7 +900,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BOOK DIN GRATIS PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND TIL OSS</a>"
           },
           "media": {
             "image": {
@@ -1565,7 +1570,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BOOK DIN GRATIS PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND TIL OSS</a>"
           },
           "media": {
             "image": {
@@ -1597,7 +1602,7 @@
           },
           "title1": "Oslo",
           "subTitle1": "Ready for offers & cooperation",
-          "text1": "Oslo Meditasjonsskole<br>Tel. 980 41 818<br><a href=\"mailto:oslomeditasjon@gmail.com\">oslomeditasjon@gmail.com</a><br><a href=\"http://www.oslomeditasjon.no\" target=\"_blank\">www.oslomeditasjon.no</a><br>",
+          "text1": "Oslo Meditasjonsskole<br>Tel. 980 41 818<br><a href=\"mailto:oslomeditasjon@gmail.com\" class=\"text-black\">oslomeditasjon@gmail.com</a><br><a href=\"http://www.oslomeditasjon.no\" target=\"_blank\" class=\"text-black\">www.oslomeditasjon.no</a><br>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-form1",
@@ -1611,7 +1616,7 @@
           },
           "title2": "Trondheim",
           "subTitle2": "Glad to meet new people",
-          "text2": "Trondheim Meditasjon &amp; Yoga<br>Tel. 410 75 816<br><a href=\"mailto:info@tmy.no\">info@tmy.no</a><br><a href=\"http://www.tmy.no\" target=\"_blank\">www.tmy.no</a>",
+          "text2": "Trondheim Meditasjon &amp; Yoga<br>Tel. 410 75 816<br><a href=\"mailto:info@tmy.no\" class=\"text-black\">info@tmy.no</a><br><a href=\"http://www.tmy.no\" target=\"_blank\" class=\"text-black\">www.tmy.no</a>",
           "form": {
             "action": "info@trondheimmeditasjon.no",
             "alerts": {
@@ -2431,7 +2436,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BOOK DIN GRATIS PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND TIL OSS</a>"
           },
           "media": {
             "image": {
@@ -2463,7 +2468,7 @@
           },
           "title1": "Oslo",
           "subTitle1": "Ready for offers & cooperation",
-          "text1": "Oslo Meditasjonsskole<br>Tel. 980 41 818<br><a href=\"mailto:oslomeditasjon@gmail.com\">oslomeditasjon@gmail.com</a><br><a href=\"http://www.oslomeditasjon.no\" target=\"_blank\">www.oslomeditasjon.no</a><br>",
+          "text1": "Oslo Meditasjonsskole<br>Tel. 980 41 818<br><a href=\"mailto:oslomeditasjon@gmail.com\" class=\"text-black\">oslomeditasjon@gmail.com</a><br><a href=\"http://www.oslomeditasjon.no\" target=\"_blank\" class=\"text-black\">www.oslomeditasjon.no</a><br>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-form1",
@@ -2477,7 +2482,7 @@
           },
           "title2": "Trondheim",
           "subTitle2": "Glad to meet new people",
-          "text2": "Trondheim Meditasjon &amp; Yoga<br>Tel. 410 75 816<br><a href=\"mailto:info@tmy.no\">info@tmy.no</a><br><a href=\"http://www.tmy.no\" target=\"_blank\">www.tmy.no</a>",
+          "text2": "Trondheim Meditasjon &amp; Yoga<br>Tel. 410 75 816<br><a href=\"mailto:info@tmy.no\" class=\"text-black\">info@tmy.no</a><br><a href=\"http://www.tmy.no\" target=\"_blank\" class=\"text-black\">www.tmy.no</a>",
           "form": {
             "action": "info@trondheimmeditasjon.no",
             "alerts": {
@@ -3044,7 +3049,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"en.html#extHeader13-2m\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" href=\"en.html#extHeader13-2n\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x3379.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x33712.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3488,7 +3493,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5710.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5713.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3582,7 +3587,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BOOK DIN GRATIS PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND TIL OSS</a>"
           },
           "media": {
             "image": {
@@ -3614,7 +3619,7 @@
           },
           "title1": "Oslo",
           "subTitle1": "Ready for offers & cooperation",
-          "text1": "Oslo Meditasjonsskole<br>Tel. 980 41 818<br><a href=\"mailto:oslomeditasjon@gmail.com\">oslomeditasjon@gmail.com</a><br><a href=\"http://www.oslomeditasjon.no\" target=\"_blank\">www.oslomeditasjon.no</a><br>",
+          "text1": "Oslo Meditasjonsskole<br>Tel. 980 41 818<br><a href=\"mailto:oslomeditasjon@gmail.com\" class=\"text-black\">oslomeditasjon@gmail.com</a><br><a href=\"http://www.oslomeditasjon.no\" target=\"_blank\" class=\"text-black\">www.oslomeditasjon.no</a><br>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-form1",
@@ -3628,7 +3633,7 @@
           },
           "title2": "Trondheim",
           "subTitle2": "Glad to meet new people",
-          "text2": "Trondheim Meditasjon &amp; Yoga<br>Tel. 410 75 816<br><a href=\"mailto:info@tmy.no\">info@tmy.no</a><br><a href=\"http://www.tmy.no\" target=\"_blank\">www.tmy.no</a>",
+          "text2": "Trondheim Meditasjon &amp; Yoga<br>Tel. 410 75 816<br><a href=\"mailto:info@tmy.no\" class=\"text-black\">info@tmy.no</a><br><a href=\"http://www.tmy.no\" target=\"_blank\" class=\"text-black\">www.tmy.no</a>",
           "form": {
             "action": "info@trondheimmeditasjon.no",
             "alerts": {
@@ -4216,7 +4221,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33711.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33714.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4451,7 +4456,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BOOK DIN GRATIS PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND TIL OSS</a>"
           },
           "media": {
             "image": {
@@ -4483,7 +4488,7 @@
           },
           "title1": "Oslo",
           "subTitle1": "Ready for offers & cooperation",
-          "text1": "Oslo Meditasjonsskole<br>Tel. 980 41 818<br><a href=\"mailto:oslomeditasjon@gmail.com\">oslomeditasjon@gmail.com</a><br><a href=\"http://www.oslomeditasjon.no\" target=\"_blank\">www.oslomeditasjon.no</a><br>",
+          "text1": "Oslo Meditasjonsskole<br>Tel. 980 41 818<br><a href=\"mailto:oslomeditasjon@gmail.com\" class=\"text-black\">oslomeditasjon@gmail.com</a><br><a href=\"http://www.oslomeditasjon.no\" target=\"_blank\" class=\"text-black\">www.oslomeditasjon.no</a><br>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-form1",
@@ -4497,7 +4502,7 @@
           },
           "title2": "Trondheim",
           "subTitle2": "Glad to meet new people",
-          "text2": "Trondheim Meditasjon &amp; Yoga<br>Tel. 410 75 816<br><a href=\"mailto:info@tmy.no\">info@tmy.no</a><br><a href=\"http://www.tmy.no\" target=\"_blank\">www.tmy.no</a>",
+          "text2": "Trondheim Meditasjon &amp; Yoga<br>Tel. 410 75 816<br><a href=\"mailto:info@tmy.no\" class=\"text-black\">info@tmy.no</a><br><a href=\"http://www.tmy.no\" target=\"_blank\" class=\"text-black\">www.tmy.no</a>",
           "form": {
             "action": "info@trondheimmeditasjon.no",
             "alerts": {
