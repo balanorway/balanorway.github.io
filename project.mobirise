@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "index.html",
+    "currentPage": "oslo.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 156,
+    "uniqCompNum": 160,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -568,7 +568,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BOOK DIN GRATIS PLASS</a>"
           },
           "media": {
             "image": {
@@ -900,7 +900,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BOOK DIN GRATIS PLASS</a>"
           },
           "media": {
             "image": {
@@ -1047,7 +1047,7 @@
             "imageSize": "71",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1498.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1570,7 +1570,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BOOK DIN GRATIS PLASS</a>"
           },
           "media": {
             "image": {
@@ -1776,37 +1776,12 @@
             "Extension"
           ],
           "_name": "extHeader6",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff",
-              "font-size": "48px",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            },
-            "SPAN": {
-              "color": "#ffffff",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "font-size": "32px"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            },
-            "DIV": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "24px",
-              "color": "#f3c649"
-            }
-          },
-          "_anchor": "extHeader6-27",
+          "_anchor": "extHeader6-4f",
           "_params": {
-            "imageSize": "71",
+            "imageSize": "64",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1032.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1814,22 +1789,18 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#000000",
+            "overlayOpacity": "0.5",
+            "overlayColor": "#ffffff",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
-          "title": "<br>9 DES - FOREDRAG 'LOST IN THE WORLD'<br><span style=\"font-weight: normal;\">───</span><div><span style=\"font-weight: normal;\">10 DES - POP-UP YOGA CAFE<br>16 DES - YOGA DAY RETREAT</span></div>",
-          "text": "<b style=\"font-style: normal;\">Er det mulig å leve et liv uten ensomhet, angst og stress? <br></b><b style=\"font-style: normal;\">Balakhilyda das, verdenskjent ekspert i yoga-vitenskap, &nbsp;reiser rundt i verden for å hjelpe hver og en av oss å finne sann og varig lykke. Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, og ikke bare et som ser bra ut på utsiden.<br></b><b style=\"font-style: normal;\">Dette kan virkelig utgjøre en forskjell i livet ditt!</b><br>",
-          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html#extHeader13-2f\">BOOK GRATIS PLASS</a> <a data-app-btn=\"true\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html#features3-2j\">MER INFO</a> ",
+          "title": "<span style=\"font-weight: normal;\">9 DES - FOREDRAG 'LOST IN THE WORLD'</span><div>───</div><div><span style=\"font-weight: normal;\">10 DES - POP-UP YOGA CAFE</span></div><div><span style=\"font-weight: normal;\">16 DES - YOGA DAY RETREAT</span></div>",
+          "text": "Er det mulig å leve et liv uten ensomhet, angst og stress?<br>Møt den verdenskjente eksperten i yoga-vitenskap, Balakhilya das!<br>Balakhilya das reiser rundt i verden for å hjelpe hver og en av oss å finne sann og varig lykke.<br>Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, og ikke bare et som ser bra ut på utsiden.<br>Dette kan virkelig utgjøre en forskjell i livet ditt!",
+          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html#extHeader13-2f\">BOOK DIN GRATIS PLASS</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html#features3-2j\">MER INFO</a>",
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/imageedit_23-920x673.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader6.png"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -1840,11 +1811,22 @@
               "family": "et-line"
             },
             "video": {
+              "active": true,
               "src": "https://vimeo.com/241264771",
               "aspectratio": "16:9",
               "autoplay": false,
-              "loop": false,
-              "active": true
+              "loop": false
+            }
+          },
+          "_styles": {
+            "H3": {
+              "font-size": "46px",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           }
         },
@@ -2436,7 +2418,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BOOK DIN GRATIS PLASS</a>"
           },
           "media": {
             "image": {
@@ -3049,7 +3031,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"en.html#extHeader13-2m\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" href=\"en.html#extHeader13-2n\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x33727.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x33730.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3307,7 +3289,7 @@
               "message": {
                 "title": "Message",
                 "visible": true,
-                "customTitle": "WHICH SEMINAR (KARMA OR LOST?)*"
+                "customTitle": "WHICH EVENT?*"
               }
             }
           },
@@ -3363,7 +3345,7 @@
           },
           "title2": "BOOK FREE SEAT - &nbsp;TRONDHEIM<br>",
           "form": {
-            "action": "info@trondheimmeditasjon.no",
+            "action": "info@tmy.no",
             "alerts": {
               "success": "Thanks - you are signed up!"
             },
@@ -3493,7 +3475,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5728.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5731.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3587,7 +3569,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BOOK DIN GRATIS PLASS</a>"
           },
           "media": {
             "image": {
@@ -4221,7 +4203,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33729.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33732.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4456,7 +4438,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BOOK DIN GRATIS PLASS</a>"
           },
           "media": {
             "image": {
