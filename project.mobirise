@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "kontakt.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -568,7 +568,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND TIL OSS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
           },
           "media": {
             "image": {
@@ -900,7 +900,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND TIL OSS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
           },
           "media": {
             "image": {
@@ -923,8 +923,8 @@
             "iconFont": {
               "class": "mbr-iconfont-form1",
               "linkInNewWindow": false,
-              "name": "flower",
-              "family": "icon54",
+              "name": "the-whitehouse",
+              "family": "iconsMind",
               "active": true,
               "size": 0,
               "color": "#666666"
@@ -1268,7 +1268,7 @@
           },
           "title2": "BOOK GRATIS PLASS",
           "form": {
-            "action": "info@trondheimmeditasjon.no",
+            "action": "info@tmy.no",
             "alerts": {
               "success": "Takk - du er påmeldt!"
             },
@@ -1570,7 +1570,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND TIL OSS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
           },
           "media": {
             "image": {
@@ -1821,7 +1821,7 @@
             "showButtons": true
           },
           "title": "<br>9 DES - FOREDRAG 'LOST IN THE WORLD'<br><span style=\"font-weight: normal;\">───</span><div><span style=\"font-weight: normal;\">10 DES - POP-UP YOGA CAFE<br>16 DES - YOGA DAY RETREAT</span></div>",
-          "text": "Er det mulig å leve et liv uten ensomhet, angst og stress? <br>Balakhilyda das, verdenskjent ekspert i yoga-vitenskap, &nbsp;reiser rundt i verden for å hjelpe hver og en av oss å finne sann og varig lykke. Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, og ikke bare et som ser bra ut på utsiden.<br>Dette kan virkelig utgjøre en forskjell i livet ditt!<br>",
+          "text": "<b style=\"font-style: normal;\">Er det mulig å leve et liv uten ensomhet, angst og stress? <br></b><b style=\"font-style: normal;\">Balakhilyda das, verdenskjent ekspert i yoga-vitenskap, &nbsp;reiser rundt i verden for å hjelpe hver og en av oss å finne sann og varig lykke. Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, og ikke bare et som ser bra ut på utsiden.<br></b><b style=\"font-style: normal;\">Dette kan virkelig utgjøre en forskjell i livet ditt!</b><br>",
           "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html#extHeader13-2f\">BOOK GRATIS PLASS</a> <a data-app-btn=\"true\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html#features3-2j\">MER INFO</a> ",
           "media": {
             "image": {
@@ -2134,7 +2134,7 @@
           },
           "title2": "BOKE GRATIS BILLETTER<br>",
           "form": {
-            "action": "info@trondheimmeditasjon.no",
+            "action": "info@tmy.no",
             "alerts": {
               "success": "Takk - du er påmeldt!"
             },
@@ -2436,7 +2436,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND TIL OSS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
           },
           "media": {
             "image": {
@@ -2687,8 +2687,8 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Touring Norway Desember 2017</span><br></div><div><br>OSLO</div><div>2.12 Yoga Day Retreat</div><div>5.12 Seminar about Karma</div><div>6.12 Lecture 'Lost in the World'</div><div><br></div><div>TRONDHEIM</div><div>9.12 Lecture 'Lost in the World'</div><div>10.12 Pop-up Yoga Café</div><div>16.12 Yoga Day Retreat</div>",
-          "text": "<span style=\"font-style: normal;\">Meet a world-known&nbsp;expert in the Wisdom of Yoga.<br>We invite you to a different lecture: This is about you!<br>A life without loneliness, anxiety, and stress - is it even possible?&nbsp;</span><br><span style=\"font-style: normal;\"><br><b>BOOK YOUR FREE SEATS:</b></span>",
+          "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Touring Norway December 2017</span><br></div><div><br>OSLO</div><div>2.12 Yoga Day Retreat</div><div>5.12 Seminar about Karma</div><div>6.12 Lecture 'Lost in the World'</div><div><br></div><div>TRONDHEIM</div><div>9.12 Lecture 'Lost in the World'</div><div>10.12 Pop-up Yoga Café</div><div>16.12 Yoga Day Retreat</div>",
+          "text": "<span style=\"font-style: normal;\">Meet a world-known&nbsp;expert in the Wisdom of Yoga.<br>We invite you to a different lecture: This is about you!<br>A life without loneliness, anxiety, and stress - is it even possible?&nbsp;</span><br><span style=\"font-style: normal;\"><br><b>BOOK YOUR FREE SEAT:</b></span>",
           "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"index-en.html#extHeader13-2m\">OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"index-en.html#extHeader13-2n\">TRONDHEIM</a>",
           "media": {
             "image": {
@@ -3049,7 +3049,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"en.html#extHeader13-2m\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" href=\"en.html#extHeader13-2n\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x33712.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x33727.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3493,7 +3493,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5713.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5728.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3587,7 +3587,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND TIL OSS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
           },
           "media": {
             "image": {
@@ -4221,7 +4221,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33714.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33729.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4380,7 +4380,7 @@
           },
           "title2": "BOOK DIN GRATIS PLASS<br>",
           "form": {
-            "action": "info@trondheimmeditasjon.no",
+            "action": "info@tmy.no",
             "alerts": {
               "success": "Takk - du er påmeldt!"
             },
@@ -4456,7 +4456,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND TIL OSS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
           },
           "media": {
             "image": {
