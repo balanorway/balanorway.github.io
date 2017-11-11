@@ -591,8 +591,8 @@
             "iconFont": {
               "class": "mbr-iconfont-form1",
               "linkInNewWindow": false,
-              "name": "flower",
-              "family": "icon54",
+              "name": "opera-house",
+              "family": "iconsMind",
               "active": true,
               "size": 0,
               "color": "#666666"
@@ -1153,7 +1153,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK DIN GRATIS PLASS</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x337.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-4-600x337.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1593,8 +1593,8 @@
             "iconFont": {
               "class": "mbr-iconfont-form1",
               "linkInNewWindow": false,
-              "name": "flower",
-              "family": "icon54",
+              "name": "opera-house",
+              "family": "iconsMind",
               "active": true,
               "size": 0,
               "color": "#666666"
@@ -2441,8 +2441,8 @@
             "iconFont": {
               "class": "mbr-iconfont-form1",
               "linkInNewWindow": false,
-              "name": "flower",
-              "family": "icon54",
+              "name": "opera-house",
+              "family": "iconsMind",
               "active": true,
               "size": 0,
               "color": "#666666"
@@ -3031,7 +3031,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"en.html#extHeader13-2m\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" href=\"en.html#extHeader13-2n\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x33733.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-4-600x337.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3475,7 +3475,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5734.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5736.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3592,8 +3592,8 @@
             "iconFont": {
               "class": "mbr-iconfont-form1",
               "linkInNewWindow": false,
-              "name": "flower",
-              "family": "icon54",
+              "name": "opera-house",
+              "family": "iconsMind",
               "active": true,
               "size": 0,
               "color": "#666666"
@@ -4187,7 +4187,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-3-600x337.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-4-600x337.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4203,7 +4203,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33735.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33737.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4461,8 +4461,8 @@
             "iconFont": {
               "class": "mbr-iconfont-form1",
               "linkInNewWindow": false,
-              "name": "flower",
-              "family": "icon54",
+              "name": "opera-house",
+              "family": "iconsMind",
               "active": true,
               "size": 0,
               "color": "#666666"
