@@ -1091,6 +1091,13 @@ h6,
 }
 #extHeader6-4f P {
   font-family: 'Lato', sans-serif;
+  color: #ffffff;
+}
+#extHeader6-4f DIV {
+  color: #ffffff;
+}
+#extHeader6-4f SPAN {
+  color: #fac51c;
 }
 #features3-2j H4 {
   font-size: 30px;
