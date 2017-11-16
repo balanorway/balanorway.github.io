@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "index.html",
+    "currentPage": "videoer.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -134,7 +134,7 @@
             "showButtons": false
           },
           "title": "YOGA-VITENSKAP",
-          "text": "<span style=\"font-style: normal;\"><b>Hvem er jeg? Hva er meningen med mitt liv? Hvor kan jeg finne sann lykke?</b><br>Vi ønsker alle å være lykkelige, og yoga-systemet lærer oss at vi må gå inn på en reise innover for å finne ekte lykke. Du kan selv starte dette eventyret i dag ved å engasjere deg i mantrameditasjon, og ved å låne ørene dine til desse opplysende seminarene fra yoga-vitenskapen.<br></span><span style=\"font-style: normal;\"><br><b>OBS: &nbsp;PÅ ENGELSK</b></span><br>",
+          "text": "<span style=\"font-style: normal;\"><b>Hvem er jeg? Hva er meningen med mitt liv? Hvor kan jeg finne sann lykke?</b><br>Vi ønsker alle å være lykkelige, og yoga-systemet lærer oss at vi må gå på en reise innover for å finne ekte lykke. Du kan selv starte dette eventyret i dag ved å engasjere deg i mantrameditasjon, og ved å låne ørene dine til disse opplysende seminarene fra yoga-vitenskapen.<br></span><span style=\"font-style: normal;\"><br><b>OBS: &nbsp;PÅ ENGELSK</b></span><br>",
           "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-info\">DOWNLOAD FOR MAC</a>",
           "media": {
             "image": {
@@ -568,7 +568,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "media": {
             "image": {
@@ -900,7 +900,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "media": {
             "image": {
@@ -1570,7 +1570,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "media": {
             "image": {
@@ -2425,7 +2425,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "media": {
             "image": {
@@ -3482,7 +3482,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-574.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-572.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3576,7 +3576,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "media": {
             "image": {
@@ -4210,7 +4210,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x3375.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x3373.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4445,7 +4445,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "media": {
             "image": {
