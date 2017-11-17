@@ -4,12 +4,11 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
-
 
 
 
@@ -746,18 +745,6 @@ h6,
 #extFeatures13-4b .date P {
   font-size: 23px;
 }
-#extForm1-3z P {
-  font-size: 16px;
-  color: #232323;
-}
-#extForm1-3z H2 {
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 60px;
-  color: #28324e;
-}
-#extForm1-3z .intro-box h4 {
-  color: #28324e;
-}
 #menu-m .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -822,7 +809,12 @@ h6,
 #menu-m .btn {
   font-size: 15px;
 }
-
+#extForm1-4t H2 {
+  color: #475577;
+}
+#extForm1-4t P {
+  color: #000000;
+}
 #header3-t .mbr-section-title,
 #header3-t .mbr-section-subtitle {
   text-align: center;
@@ -891,24 +883,12 @@ h6,
 #menu-z .btn {
   font-size: 15px;
 }
-#extForm1-3x P {
-  font-size: 16px;
-  color: #232323;
+#extForm1-4u H2 {
+  color: #475577;
 }
-#extForm1-3x H2 {
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 60px;
-  color: #28324e;
+#extForm1-4u P {
+  color: #000000;
 }
-#extForm1-3x .intro-box h4 {
-  color: #28324e;
-}
-
-
-
-
-
-
 
 
 
@@ -923,56 +903,20 @@ h6,
 #header3-1s .mbr-section-subtitle {
   text-align: center;
 }
-#extHeader6-4i H3 {
-  font-size: 30px;
-  font-family: 'Open Sans Condensed', sans-serif;
-  color: #f7da64;
-}
-#extHeader6-4i P {
+#extHeader6-4k P {
   font-family: 'Lato', sans-serif;
-  color: #ffffff;
 }
-#extHeader6-4i DIV {
-  color: #f7da64;
-  font-size: 32px;
-}
-#extHeader6-4i SPAN {
-  color: #ffffff;
-  font-size: 18px;
-}
-#msg-box5-4j P {
-  text-align: right;
-  font-size: 20px;
-}
-#msg-box5-4j SPAN {
-  text-align: center;
-  font-size: 30px;
-  font-family: 'Slabo 27px', serif;
-}
-#msg-box5-4j H3 {
-  font-family: 'Indie Flower', cursive;
-  font-size: 60px;
-}
-#msg-box5-4j DIV {
-  font-size: 36px;
+#extHeader6-4k DIV {
+  color: #414141;
   font-family: 'Open Sans Condensed', sans-serif;
 }
-#msg-box5-4h P {
-  text-align: right;
-  font-size: 20px;
-}
-#msg-box5-4h SPAN {
-  text-align: center;
-  font-size: 30px;
-  font-family: 'Slabo 27px', serif;
-}
-#msg-box5-4h H3 {
-  font-family: 'Indie Flower', cursive;
-  font-size: 60px;
-}
-#msg-box5-4h DIV {
-  font-size: 36px;
+#extHeader6-4k H3 {
   font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 30px;
+  color: #414141;
+}
+#extHeader6-4k SPAN {
+  font-size: 19px;
 }
 #features3-2h H4 {
   font-size: 30px;
@@ -1028,18 +972,6 @@ h6,
 }
 #extFeatures13-49 .date P {
   font-size: 23px;
-}
-#extForm1-3d P {
-  font-size: 16px;
-  color: #232323;
-}
-#extForm1-3d H2 {
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 60px;
-  color: #28324e;
-}
-#extForm1-3d .intro-box h4 {
-  color: #28324e;
 }
 #menu-24 .hide-buttons .nav-btn {
   display: none !important;
@@ -1105,7 +1037,12 @@ h6,
 #menu-24 .btn {
   font-size: 15px;
 }
-
+#extForm1-4r H2 {
+  color: #475577;
+}
+#extForm1-4r P {
+  color: #000000;
+}
 
 
 
@@ -1213,18 +1150,6 @@ h6,
 #extFeatures13-4a .date P {
   font-size: 23px;
 }
-#extForm1-3p P {
-  font-size: 16px;
-  color: #232323;
-}
-#extForm1-3p H2 {
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 60px;
-  color: #28324e;
-}
-#extForm1-3p .intro-box h4 {
-  color: #28324e;
-}
 #menu-2d .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1288,6 +1213,12 @@ h6,
 }
 #menu-2d .btn {
   font-size: 15px;
+}
+#extForm1-4s H2 {
+  color: #475577;
+}
+#extForm1-4s P {
+  color: #000000;
 }
 
 
@@ -1520,7 +1451,6 @@ h6,
 
 
 
-
 #header3-5 .mbr-section-title,
 #header3-5 .mbr-section-subtitle {
   text-align: center;
@@ -1540,7 +1470,7 @@ h6,
 }
 #extHeader6-2s SPAN {
   font-size: 21px;
-  color: #414141;
+  color: #000000;
   font-family: 'Oxygen', sans-serif;
 }
 #extHeader6-2s B {
@@ -1621,18 +1551,6 @@ h6,
   font-family: 'Open Sans Condensed', sans-serif;
   color: #ffffff;
 }
-#extForm1-3q P {
-  font-size: 16px;
-  color: #232323;
-}
-#extForm1-3q H2 {
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 60px;
-  color: #28324e;
-}
-#extForm1-3q .intro-box h4 {
-  color: #28324e;
-}
 #menu-f .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1696,4 +1614,10 @@ h6,
 }
 #menu-f .btn {
   font-size: 15px;
+}
+#extForm1-4q H2 {
+  color: #475577;
+}
+#extForm1-4q P {
+  color: #000000;
 }
