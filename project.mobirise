@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "index.html",
+    "currentPage": "trondheim.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -631,7 +631,7 @@
             "paddingTop": 1,
             "paddingBottom": 1,
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>",
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN GRATIS PLASS</a>",
             "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg-8.jpg",
@@ -867,7 +867,7 @@
             "paddingTop": 1,
             "paddingBottom": 1,
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>",
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN GRATIS PLASS</a>",
             "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg-8.jpg",
@@ -1151,7 +1151,7 @@
             },
             "video": {
               "active": true,
-              "src": "http://vimeo.com/241264771",
+              "src": "https://vimeo.com/241270229",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -1710,7 +1710,7 @@
             "paddingTop": 1,
             "paddingBottom": 1,
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>",
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN GRATIS PLASS</a>",
             "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg-8.jpg",
@@ -2110,7 +2110,7 @@
               "size": 0
             }
           },
-          "title": "<div style=\"text-align: right;\"><span style=\"color: inherit; font-size: 60px; line-height: 66px;\"><font face=\"Indie Flower, cursive\">Trailer:<br></font></span><span style=\"color: inherit; font-weight: normal; line-height: 1.1;\">Lost in the World</span></div>",
+          "title": "<div style=\"text-align: right;\"><span style=\"color: inherit; font-size: 60px; line-height: 66px;\"><font face=\"Indie Flower, cursive\">3min Trailer:<br></font></span><span style=\"color: inherit; font-weight: normal; line-height: 1.1;\">Lost in the World</span></div>",
           "text": "<b>fe</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"yoga-challenge.html#content2-2u\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>"
         },
@@ -2177,7 +2177,7 @@
           "_params": {
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x160010.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x160013.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2561,7 +2561,7 @@
             "paddingTop": 1,
             "paddingBottom": 1,
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>",
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN GRATIS PLASS</a>",
             "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg-8.jpg",
@@ -3548,7 +3548,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5711.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5714.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3642,7 +3642,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN GRATIS PLASS</a>"
           },
           "media": {
             "image": {
@@ -4276,7 +4276,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33712.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33715.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4574,7 +4574,7 @@
             "paddingTop": 1,
             "paddingBottom": 1,
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">OSLO</a>",
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN GRATIS PLASS</a>",
             "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-extform1-bg-7.jpg",
