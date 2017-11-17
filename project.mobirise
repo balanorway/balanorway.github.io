@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "trondheim.html",
+    "currentPage": "oslo.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1019,9 +1019,10 @@
           "_name": "extHeader6",
           "_styles": {
             "H3": {
-              "font-size": "46px",
+              "font-size": "30px",
               "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "color": "#f7da64"
             },
             "P": {
               "font-family": "'Lato', sans-serif",
@@ -1033,8 +1034,8 @@
               "font-size": "32px"
             },
             "SPAN": {
-              "color": "#f7da64",
-              "font-size": "32px"
+              "color": "#ffffff",
+              "font-size": "18px"
             }
           },
           "_anchor": "extHeader6-4i",
@@ -1056,8 +1057,8 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"font-weight: normal;\">2 DES - YOGA DAY RETREAT</span><div><span style=\"font-weight: normal; line-height: 1.1;\">5 DES - SEMINAR OM KARMA</span><br></div><div><span style=\"font-weight: normal;\">6 DES - FOREDRAG 'LOST IN THE WORLD'<br></span></div>",
-          "text": "Er det mulig å leve et liv uten ensomhet, angst og stress?<br>Møt den verdenskjente eksperten i yoga-vitenskap, Balakhilya das!<br>Balakhilya das reiser rundt i verden for å hjelpe hver og en av oss å finne sann og varig lykke.<br>Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, og ikke bare et som ser bra ut på utsiden.<br>Dette kan virkelig utgjøre en forskjell i livet ditt!",
+          "title": "2 DES - YOGA DAY RETREAT<br>5 DES - SEMINAR OM KARMA<br>&nbsp;6 DES - FOREDRAG 'LOST IN THE WORLD'",
+          "text": "<span style=\"font-style: normal;\">Er det mulig å leve et liv uten ensomhet, angst og stress?<br>Møt den verdenskjente eksperten i yoga-vitenskap, Balakhilya das!<br>Balakhilya das reiser rundt i verden for å hjelpe hver og en av oss å finne sann og varig lykke.<br>Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, og ikke bare et som ser bra ut på utsiden.<br>Dette kan virkelig utgjøre en forskjell i livet ditt!</span>",
           "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html#extHeader13-21\">BOOK DIN GRATIS PLASS</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html#features3-2j\">MER INFO</a>",
           "media": {
             "image": {
@@ -1919,9 +1920,10 @@
           "_name": "extHeader6",
           "_styles": {
             "H3": {
-              "font-size": "46px",
+              "font-size": "30px",
               "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "color": "#f7da64"
             },
             "P": {
               "font-family": "'Lato', sans-serif",
@@ -1933,8 +1935,8 @@
               "font-size": "32px"
             },
             "SPAN": {
-              "color": "#fac51c",
-              "font-size": "32px"
+              "color": "#ffffff",
+              "font-size": "19px"
             }
           },
           "_anchor": "extHeader6-4f",
@@ -1956,8 +1958,8 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"font-weight: normal;\">9 DES - FOREDRAG 'LOST IN THE WORLD'</span><div>───</div><div><span style=\"font-weight: normal;\">10 DES - POP-UP YOGA CAFE</span></div><div><span style=\"font-weight: normal;\">16 DES - YOGA DAY RETREAT</span></div>",
-          "text": "Er det mulig å leve et liv uten ensomhet, angst og stress?<br>Møt den verdenskjente eksperten i yoga-vitenskap, Balakhilya das!<br>Balakhilya das reiser rundt i verden for å hjelpe hver og en av oss å finne sann og varig lykke.<br>Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, og ikke bare et som ser bra ut på utsiden.<br>Dette kan virkelig utgjøre en forskjell i livet ditt!",
+          "title": "9 DES - FOREDRAG 'LOST IN THE WORLD'<br>───<br>10 DES - POP-UP YOGA CAFE<br>16 DES - YOGA DAY RETREAT",
+          "text": "<span style=\"font-style: normal;\">Er det mulig å leve et liv uten ensomhet, angst og stress?<br>Møt den verdenskjente eksperten i yoga-vitenskap, Balakhilya das!<br>Balakhilya das reiser rundt i verden for å hjelpe hver og en av oss å finne sann og varig lykke.<br>Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, og ikke bare et som ser bra ut på utsiden.<br>Dette kan virkelig utgjøre en forskjell i livet ditt!</span>",
           "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html#extHeader13-2f\">BOOK DIN GRATIS PLASS</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html#features3-2j\">MER INFO</a>",
           "media": {
             "image": {
@@ -3625,7 +3627,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-572.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-574.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -4353,7 +4355,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x3373.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x3375.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
