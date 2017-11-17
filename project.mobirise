@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "videoer.html",
+    "currentPage": "trondheim.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 160,
+    "uniqCompNum": 164,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -568,7 +568,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN GRATIS PLASS</a>"
           },
           "media": {
             "image": {
@@ -900,7 +900,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN GRATIS PLASS</a>"
           },
           "media": {
             "image": {
@@ -1019,35 +1019,30 @@
           "_name": "extHeader6",
           "_styles": {
             "H3": {
-              "color": "#ffffff",
-              "font-size": "48px",
+              "font-size": "46px",
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             },
-            "SPAN": {
-              "color": "#ffffff",
+            "P": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "30px"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+              "color": "#ffffff"
             },
             "DIV": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "font-size": "32px",
-              "color": "#f3c649"
+              "color": "#f7da64",
+              "font-size": "32px"
+            },
+            "SPAN": {
+              "color": "#f7da64",
+              "font-size": "32px"
             }
           },
-          "_anchor": "extHeader6-1z",
+          "_anchor": "extHeader6-4i",
           "_params": {
-            "imageSize": "71",
+            "imageSize": "64",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1498.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333-1.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1055,22 +1050,18 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.5",
             "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
-          "title": "<br><span style=\"font-weight: normal;\">2 DES - YOGA DAY RETREAT<br>5 DES - FOREDRAG 'LOST IN THE WORLD'<br></span><span style=\"font-weight: normal;\">6 DES - SEMINAR OM KARMA<br>───</span><div><div><span style=\"color: rgb(243, 198, 73); line-height: 1.1; font-weight: normal;\">Møt den verdenskjente eksperten&nbsp;i yoga-vitenskap,</span></div><div><span style=\"color: rgb(243, 198, 73); line-height: 1.1; font-weight: normal;\">Balakhilya das</span><br></div></div>",
-          "text": "Er det mulig å leve et liv uten ensomhet, angst og stress? <br>Balakhilya das reiser rundt i verden for å hjelpe hver og en av oss å finne sann og varig lykke.<br>Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, og ikke bare et som ser bra ut på utsiden.<br>Dette kan virkelig utgjøre en forskjell i livet ditt!<br>",
-          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html#extHeader13-21\">BOOK DIN GRATIS PLASS</a> <a data-app-btn=\"true\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html#features3-2h\">FÅ MER INFO</a> ",
+          "title": "<span style=\"font-weight: normal;\">2 DES - YOGA DAY RETREAT</span><div><span style=\"font-weight: normal; line-height: 1.1;\">5 DES - SEMINAR OM KARMA</span><br></div><div><span style=\"font-weight: normal;\">6 DES - FOREDRAG 'LOST IN THE WORLD'<br></span></div>",
+          "text": "Er det mulig å leve et liv uten ensomhet, angst og stress?<br>Møt den verdenskjente eksperten i yoga-vitenskap, Balakhilya das!<br>Balakhilya das reiser rundt i verden for å hjelpe hver og en av oss å finne sann og varig lykke.<br>Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, og ikke bare et som ser bra ut på utsiden.<br>Dette kan virkelig utgjøre en forskjell i livet ditt!",
+          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html#extHeader13-21\">BOOK DIN GRATIS PLASS</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html#features3-2j\">MER INFO</a>",
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/imageedit_23-920x673.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "src": "file:///Users/missionharibol/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader6_5.png"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -1081,13 +1072,163 @@
               "family": "et-line"
             },
             "video": {
+              "active": true,
               "src": "https://vimeo.com/241264771",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "font-size": "20px"
+            },
+            "SPAN": {
+              "text-align": "center",
+              "font-size": "30px",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "H3": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "60px"
+            },
+            "DIV": {
+              "font-size": "36px",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          },
+          "_anchor": "msg-box5-4j",
+          "_params": {
+            "imageSize": "55",
+            "paddingTop": "2",
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "file:///Users/missionharibol/Library/Application%20Support/Mobirise.com/Mobirise/projectData/_dsc0011-1400x999_2.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "vimeo.com/241264771",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false,
               "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
             }
-          }
+          },
+          "title": "<div style=\"text-align: right;\"><span style=\"color: inherit; line-height: 66px; font-size: 60px;\"><font face=\"Indie Flower, cursive\">5. Des:<br>KARMA<br></font></span><span style=\"color: inherit; font-weight: normal; line-height: 1.1;\">Why Bad Things Happen to Good People&nbsp;</span></div>",
+          "text": "<b>fe</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"yoga-challenge.html#content2-2u\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "font-size": "20px"
+            },
+            "SPAN": {
+              "text-align": "center",
+              "font-size": "30px",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "H3": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "60px"
+            },
+            "DIV": {
+              "font-size": "36px",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          },
+          "_anchor": "msg-box5-4h",
+          "_params": {
+            "imageSize": "55",
+            "paddingTop": "2",
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "file:///Users/missionharibol/Library/Application%20Support/Mobirise.com/Mobirise/projectData/_dsc0011-1400x999_2.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "vimeo.com/241264771",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<div style=\"text-align: right;\"><span style=\"color: inherit; font-size: 60px; line-height: 66px;\"><font face=\"Indie Flower, cursive\">6. Des:<br>LOST IN THE WORLD<br></font></span><span style=\"color: inherit; font-weight: normal; line-height: 1.1;\">Om ensomhet</span></div>",
+          "text": "Vårt samfunn utvikler seg raskere enn noensinne, alltid med ny teknologi og gadgets, og stiller stadig nye forventninger. Og vi er konstant tilgjengelig både online og offline - men fortsatt så opplever 4 av 10 nordmenn ensomhet (SSB 2015). Selv når du er sammen med nær familie eller gode venner kan du fortsatt føle deg tom og ensom innvendig.<br><br>Så hva er det vi lengter etter, og hvor kan det bli funnet?<br>Hør den verdenskjente eksperten i den yoga-vitenskapen, Balakhilya das, snakke om temaet \"Fortapt i verden\". Kom og opplev selv hvordan denne gamle og dype visdommen kan hjelpe deg å løse dine personlige problemer. Med en dyp innsikt og kunnskap kan Balakhilya das hjelpe deg på veien mot et liv fullt av glede, fred og harmoni. Dette kan virkelig forandre livet ditt!<b>e</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"yoga-challenge.html#content2-2u\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>"
         },
         {
           "_tags": [
@@ -1570,7 +1711,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN GRATIS PLASS</a>"
           },
           "media": {
             "image": {
@@ -1788,10 +1929,12 @@
               "color": "#ffffff"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "32px"
             },
             "SPAN": {
-              "color": "#fac51c"
+              "color": "#fac51c",
+              "font-size": "32px"
             }
           },
           "_anchor": "extHeader6-4f",
@@ -2425,7 +2568,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN GRATIS PLASS</a>"
           },
           "media": {
             "image": {
@@ -3482,7 +3625,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-574.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-570.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3576,7 +3719,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN GRATIS PLASS</a>"
           },
           "media": {
             "image": {
@@ -4210,7 +4353,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x3375.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x3371.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4445,7 +4588,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN GRATIS PLASS</a>"
           },
           "media": {
             "image": {
