@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "kontakt.html",
+    "currentPage": "en.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -650,7 +650,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">SEND MELDING</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
           },
           "media": {
             "image": {
@@ -886,7 +886,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">SEND MELDING</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
           },
           "media": {
             "image": {
@@ -1720,7 +1720,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">SEND MELDING</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
           },
           "media": {
             "image": {
@@ -2341,7 +2341,7 @@
           "title3": "<a href=\"oslo.html\">Foredrag: Lost in the World</a>",
           "text3": "<span style=\"font-style: normal;\">Folk liker å ha folk rundt seg, ting som skjer hele tiden. Men hvorfor opplever mange ensomhet - selv i en gruppe med venner eller familie? <br></span>Velkommen til et foredrag om deg!<br><span style=\"font-style: normal;\">Gratis inngang. <br><b>18:00 Litteraturhuset,&nbsp;Wergelandsveien 29,&nbsp;Oslo</b></span><br>",
           "date4": "<span style=\"font-style: normal;\">9 desember</span><br>",
-          "title4": "<a href=\"trondheim.html#extHeader13-2f\">Foredrag: Lost in the World</a>",
+          "title4": "<a href=\"pamelding-signup.html\">Foredrag: Lost in the World</a>",
           "text4": "<span style=\"font-style: normal;\">Folk liker å ha folk rundt seg, ting som skjer hele tiden. Men hvorfor opplever mange ensomhet - selv i en gruppe med venner eller familie?<br></span>Velkommen til et foredrag om deg!<br><span style=\"font-style: normal;\">Gratis inngang.</span><br><span style=\"font-style: normal;\"><b>18:00 Kjøpmannsgata 12,&nbsp;Trondheim</b><br></span>",
           "media4": {
             "iconFont": {
@@ -2366,10 +2366,10 @@
               "color": "#efefef"
             }
           },
-          "title5": "<a href=\"trondheim.html#extHeader13-2f\">Pop-up Yoga Café</a>",
+          "title5": "<a href=\"pamelding-signup.html\">Pop-up Yoga Café</a>",
           "text5": "Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta! Enten du er kjent med Yoga eller aldri har gjort det før, - du er velkommen. Det blir blant annet seminar med yoga- og meditasjonsmester Balakhilya das.&nbsp;<span style=\"font-style: normal;\">Muligheter til å kjøpe delig hjemmelaget vegetarmat på eventen.<br>Gratis inngang.<br><b>14:00 Kongens gate 55,&nbsp;Trondheim</b></span><br>",
           "date6": "<span style=\"font-style: normal;\">16 desember</span>",
-          "title6": "<a href=\"http://tmy.no/retreat\">Yoga Day Retreat</a>",
+          "title6": "<a href=\"pamelding-signup.html\">Yoga Day Retreat</a>",
           "text6": "<span style=\"font-style: normal;\">Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Med yoga, meditasjon, live musikk, vegetarmat, og seminar med Balakhilya das.<br></span><b style=\"font-style: normal;\">10:00 - 16:00 Storbuan Økosamfunn,&nbsp;Trondheim</b>",
           "media6": {
             "iconFont": {
@@ -2589,7 +2589,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">SEND MELDING</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
           },
           "media": {
             "image": {
@@ -3496,7 +3496,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5721.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5723.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3590,7 +3590,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">SEND MELDING</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
           },
           "media": {
             "image": {
@@ -3622,7 +3622,7 @@
           },
           "title1": "Oslo",
           "subTitle1": "Ready for offers & cooperation",
-          "text1": "Tel. 980 41 818<br><a href=\"mailto:oslomeditasjon@gmail.com\" class=\"text-black\">oslomeditasjon@gmail.com</a><br><a href=\"http://www.oslomeditasjon.no\" target=\"_blank\" class=\"text-black\">www.oslomeditasjon.no</a><br>",
+          "text1": "Tel. 980 41 818<br><a href=\"mailto:oslomeditasjon@gmail.com\" class=\"text-black\">oslo@yogavisdom.com</a><br>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-form1",
@@ -3636,7 +3636,7 @@
           },
           "title2": "Trondheim",
           "subTitle2": "Glad to meet new people",
-          "text2": "Tel. 410 75 816<br><a href=\"mailto:info@tmy.no\" class=\"text-black\">info@tmy.no</a><br><a href=\"http://www.tmy.no\" target=\"_blank\" class=\"text-black\">www.tmy.no</a>",
+          "text2": "Tel. 410 75 816<br><a href=\"mailto:info@tmy.no\" class=\"text-black\">trondheim@yogavisdom.no</a><br>",
           "form": {
             "action": "info@trondheimmeditasjon.no",
             "alerts": {
@@ -3847,7 +3847,7 @@
             "showButtons": true
           },
           "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Norge Desember 2017</span></div><div><br>OSLO 2-6 Des.<br>Yoga Day Retreat</div><div>Seminar om Karma</div><div>Foredrag 'Lost in the World'</div><div><br></div><div>TRONDHEIM 9-16 Des.</div><div>Foredrag 'Lost in the World'</div><div>Pop-up Yoga Café<br>Yoga Day Retreat</div>",
-          "text": "Er det mulig å leve et liv uten ensomhet, angst og stress?<br>Møt den verdenskjente eksperten i yoga-vitenskap, Balakhilya das!<br>Balakhilya das reiser rundt i verden for å hjelpe hver og en av oss<br>å finne sann og varig lykke i livet.<br>",
+          "text": "<span style=\"font-style: normal;\">Er det mulig å leve et liv uten ensomhet, angst og stress?<br>Møt den verdenskjente eksperten i yoga-vitenskap, Balakhilya das!<br>Balakhilya das reiser rundt i verden for å hjelpe hver og en av oss<br>å finne sann og varig lykke i livet.</span><br>",
           "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html\">MER INFO: OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html\">MER INFO: TRONDHEIM</a> <a data-app-btn=\"true\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\" href=\"pamelding-signup.html\">BOOK PLASS NÅ</a>",
           "media": {
             "image": {
@@ -4240,7 +4240,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">BOOK GRATIS PLASS - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33722.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33724.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4575,7 +4575,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">SEND MELDING</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
           },
           "media": {
             "image": {
