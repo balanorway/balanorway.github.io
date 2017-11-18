@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "påmelding-signup.html",
+    "currentPage": "pamelding-signup.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2177,7 +2177,7 @@
           "_params": {
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x16009.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x160012.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3548,7 +3548,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5710.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5713.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -4276,7 +4276,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33711.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33714.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4672,7 +4672,7 @@
         }
       ]
     },
-    "påmelding-signup.html": {
+    "pamelding-signup.html": {
       "settings": {
         "title": "Påmelding / Sign-up | yogavisdom.no",
         "meta_descr": "Balakhilya das in Norway - Påmelding / Sign-up"
