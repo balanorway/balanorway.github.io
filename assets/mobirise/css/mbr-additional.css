@@ -1691,3 +1691,9 @@ h6,
 #custom-html-4w .my-image {
   width: 100%;
 }
+#custom-html-4x {
+  /* Type valid CSS here */
+}
+#custom-html-4x .my-image {
+  width: 100%;
+}
