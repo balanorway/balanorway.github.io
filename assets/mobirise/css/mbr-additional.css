@@ -1621,3 +1621,73 @@ h6,
 #extForm1-4q P {
   color: #000000;
 }
+#menu-4v .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-4v .navbar-caption {
+  color: #ffffff;
+}
+#menu-4v .navbar-toggler {
+  color: #ffffff;
+}
+#menu-4v .close-icon::before,
+#menu-4v .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-4v .link,
+#menu-4v .dropdown-item {
+  color: #ffffff;
+}
+#menu-4v .link {
+  font-size: 1.15rem;
+}
+#menu-4v .dropdown-item,
+#menu-4v .nav-dropdown-sm .link {
+  font-size: 1.245rem;
+}
+#menu-4v .link:hover,
+#menu-4v .dropdown-item:hover,
+#menu-4v .link:focus,
+#menu-4v .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-4v .link[aria-expanded="true"],
+#menu-4v .dropdown-menu {
+  background: #77905d;
+}
+#menu-4v .nav-dropdown-sm .link:focus,
+#menu-4v .nav-dropdown-sm .link:hover,
+#menu-4v .nav-dropdown-sm .dropdown-item:focus,
+#menu-4v .nav-dropdown-sm .dropdown-item:hover {
+  background: #88a26f!important;
+}
+#menu-4v .navbar,
+#menu-4v .nav-dropdown-sm,
+#menu-4v .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-4v .nav-dropdown-sm .dropdown-menu {
+  background: #90a878;
+}
+#menu-4v .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-4v .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-4v .bg-color.transparent.opened .link:hover,
+#menu-4v .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-4v .link[aria-expanded="true"],
+#menu-4v .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-4v .btn {
+  font-size: 15px;
+}
+#custom-html-4w {
+  /* Type valid CSS here */
+}
+#custom-html-4w .my-image {
+  width: 100%;
+}
