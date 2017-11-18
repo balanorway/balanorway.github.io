@@ -4,11 +4,11 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 
 
@@ -896,9 +896,6 @@ h6,
 
 
 
-
-
-
 #header3-1s .mbr-section-title,
 #header3-1s .mbr-section-subtitle {
   text-align: center;
@@ -932,18 +929,8 @@ h6,
   font-family: 'Lato', sans-serif;
   font-size: 17px;
 }
-#extHeader13-21 H3 {
-  font-family: 'Open Sans Condensed', sans-serif;
-  color: #ffffff;
-}
-#extHeader13-21 P {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 22px;
-  color: #fac51c;
-}
-#extHeader13-21 H4 {
-  font-family: 'Open Sans Condensed', sans-serif;
-  color: #ffffff;
+#extHeader17-57 .btn {
+  font-size: 16px;
 }
 #extFeatures13-49 .etl-icon {
   color: #ffffff;
@@ -1051,9 +1038,6 @@ h6,
 
 
 
-
-
-
 #header3-26 .mbr-section-title,
 #header3-26 .mbr-section-subtitle {
   text-align: center;
@@ -1109,18 +1093,8 @@ h6,
 #msg-box8-28 p {
   color: #fff;
 }
-#extHeader13-2f H3 {
-  font-family: 'Open Sans Condensed', sans-serif;
-  color: #ffffff;
-}
-#extHeader13-2f P {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 22px;
-  color: #fac51c;
-}
-#extHeader13-2f H4 {
-  font-family: 'Open Sans Condensed', sans-serif;
-  color: #ffffff;
+#extHeader17-58 .btn {
+  font-size: 16px;
 }
 #extFeatures13-4a .etl-icon {
   color: #ffffff;
@@ -1235,12 +1209,6 @@ h6,
 
 
 
-
-
-
-
-
-
 #header3-15 .mbr-section-title,
 #header3-15 .mbr-section-subtitle {
   text-align: center;
@@ -1327,31 +1295,8 @@ h6,
 #msg-box4-48 H3 {
   font-family: 'Open Sans Condensed', sans-serif;
 }
-#extHeader13-2m H3 {
-  font-family: 'Open Sans Condensed', sans-serif;
-  color: #ffffff;
-}
-#extHeader13-2m P {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 22px;
-  color: #fac51c;
-}
-#extHeader13-2m H4 {
-  font-family: 'Open Sans Condensed', sans-serif;
-  color: #ffffff;
-}
-#extHeader13-2n H3 {
-  font-family: 'Open Sans Condensed', sans-serif;
-  color: #ffffff;
-}
-#extHeader13-2n P {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 22px;
-  color: #fac51c;
-}
-#extHeader13-2n H4 {
-  font-family: 'Open Sans Condensed', sans-serif;
-  color: #ffffff;
+#extHeader17-55 .btn {
+  font-size: 16px;
 }
 #extHeader6-3v SPAN {
   color: #ffffff;
@@ -1448,9 +1393,6 @@ h6,
 
 
 
-
-
-
 #header3-5 .mbr-section-title,
 #header3-5 .mbr-section-subtitle {
   text-align: center;
@@ -1475,6 +1417,9 @@ h6,
 }
 #extHeader6-2s B {
   color: #414141;
+}
+#extHeader6-2s .btn {
+  font-size: 11px;
 }
 #header3-1q .mbr-section-title,
 #header3-1q .mbr-section-subtitle {
@@ -1538,18 +1483,8 @@ h6,
 #msg-box4-45 H3 {
   font-family: 'Open Sans Condensed', sans-serif;
 }
-#extHeader13-42 H3 {
-  font-family: 'Open Sans Condensed', sans-serif;
-  color: #ffffff;
-}
-#extHeader13-42 P {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 22px;
-  color: #fac51c;
-}
-#extHeader13-42 H4 {
-  font-family: 'Open Sans Condensed', sans-serif;
-  color: #ffffff;
+#extHeader17-53 .btn {
+  font-size: 16px;
 }
 #menu-f .hide-buttons .nav-btn {
   display: none !important;

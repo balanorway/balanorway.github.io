@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "pamelding-signup.html",
+    "currentPage": "kontakt.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 179,
+    "uniqCompNum": 190,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -610,7 +610,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extHeader13-42\">PÅMELDING FOR SEMINAR</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"pamelding-signup.html\">PÅMELDING FOR SEMINAR</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -650,7 +650,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">SEND MELDING</a>"
           },
           "media": {
             "image": {
@@ -846,7 +846,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extHeader13-42\">PÅMELDING FOR SEMINAR</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"pamelding-signup.html\">PÅMELDING FOR SEMINAR</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -886,7 +886,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">SEND MELDING</a>"
           },
           "media": {
             "image": {
@@ -1044,7 +1044,7 @@
           },
           "title": "2 DES - YOGA DAY RETREAT<div>5 DES - SEMINAR OM KARMA</div><div>&nbsp;6 DES - FOREDRAG 'LOST IN THE WORLD'</div>",
           "text": "<span style=\"font-style: normal;\">Er det mulig å leve et liv uten ensomhet, angst og stress?<br>Møt den verdenskjente eksperten i yoga-vitenskap, Balakhilya das!<br>Balakhilya das reiser rundt i verden for å hjelpe hver og en av oss å finne sann og varig lykke.<br>Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, og ikke bare et som ser bra ut på utsiden.<br>Dette kan virkelig utgjøre en forskjell i livet ditt!</span>",
-          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html#extHeader13-21\">BOOK DIN GRATIS PLASS</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html#msg-box4-4l\">FÅ MER INFORMASJON</a>",
+          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"pamelding-signup.html\">BOOK DIN GRATIS PLASS</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html#msg-box4-4l\">FÅ MER INFORMASJON</a>",
           "media": {
             "image": {
               "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader6.png"
@@ -1227,7 +1227,7 @@
           "title1": "Lost in the World",
           "subtitle1": "Ensomhet",
           "caption1": "<span style=\"line-height: 1.5;\">Vårt samfunn utvikler seg raskere enn noensinne,&nbsp;</span>alltid med ny teknologi og gadgets, og stiller stadig nye forventninger.<span style=\"line-height: 1.5;\">&nbsp;Og vi er konstant tilgjengelig både online og offline - men fortsatt så opplever 4 av 10 nordmenn ensomhet (SSB 2015). Selv når du er sammen med nær familie eller gode venner kan du fortsatt føle deg tom og ensom innvendig.<br></span><br>Så hva er det vi lengter etter, og hvor kan det bli funnet?<br>Hør den verdenskjente eksperten i den yoga-vitenskapen, Balakhilya das, snakke om temaet \"Fortapt i verden\". Kom og opplev selv hvordan denne gamle og dype visdommen kan hjelpe deg å løse dine personlige problemer. Med en dyp innsikt og kunnskap kan Balakhilya das hjelpe deg på veien mot et liv fullt av glede, fred og harmoni.&nbsp;Dette kan virkelig forandre livet ditt!<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK DIN GRATIS PLASS</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK DIN GRATIS PLASS</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/rounded-corners-4-600x337.png",
@@ -1243,7 +1243,7 @@
           "title2": "Karma<br>",
           "subtitle2": "Hvorfor forferdelige ting skjer med gode mennesker",
           "caption2": "Når vi ser på verden vår kan mange ting virke veldig urettferdig. Hvorfor skjer forferdelige ting med gode eller uskyldige mennesker?<br><br>De fleste av oss har hørt om karma, som blir beskrevet gjennom utsagn som \"what goes around, comes around\", og \"man høster som man sår.\" Få med deg dette foredraget av Balakhilya das, Vedisk lærer og ekspert i Yogavisdom, og få innblikk i hemmeligheten om karma og lidelse.<br><br>På dette seminar vil du få klare og utdypende svar på spørsmål som:<br>- Hva kan jeg gjøre for å hindre at andre lider?<br>- Hvordan fungerer loven om karma, og hvordan påvirker den meg?<br>- Hvordan kan jeg leve et liv uten å skape karma?<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">BOOK DIN GRATIS PLASS</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">BOOK DIN GRATIS PLASS</a>",
           "media3": {
             "image": {
               "src": "file:///Users/missionharibol/Library/Application%20Support/Mobirise.com/Mobirise/projectData/yoga%20wisdom-600x400.jpg",
@@ -1298,35 +1298,34 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
+          "form": {
+            "action": "sledge@online.no",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email"
+              }
+            }
+          },
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
           ],
-          "_name": "extHeader13",
+          "_name": "extHeader17",
           "_styles": {
-            "H3": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#ffffff"
-            },
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "22px",
-              "color": "#fac51c"
-            },
-            "H4": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#ffffff"
+            ".btn": {
+              "font-size": "16px"
             }
           },
-          "_anchor": "extHeader13-21",
+          "_anchor": "extHeader17-57",
           "_params": {
+            "imageSize": 60,
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader17-bg-1.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1336,45 +1335,37 @@
             "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "inverse": false,
-            "showFormTitle": true,
+            "showImage": true,
             "showTitle": true,
-            "showText": true,
-            "countdown": "2017/12/02 12:00",
-            "showArrow": true
+            "showText": false,
+            "showButton": true,
+            "showArrow": false
           },
-          "title2": "BOOK GRATIS PLASS",
-          "form": {
-            "action": "info@tmy.no",
-            "alerts": {
-              "success": "Takk - du er påmeldt!"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-1400x815-1.png",
+              "link": "pamelding-signup.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "NAVN*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "EPOST*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "TELEFON*"
-              },
-              "message": {
-                "title": "Message",
-                "visible": true,
-                "customTitle": "HVILKEN EVENT?*"
-              }
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">MELD MEG PÅ I OSLO</a>",
-          "title": "EVENTER I OSLO",
-          "text": "<span style=\"font-style: normal;\">2 DECEMBER - YOGA DAY RETREAT<br>5 DECEMBER - SEMINAR OM KARMA<br>6 DECEMBER - FOREDRAG 'LOST IN THE WORLD'<br></span>"
+          "title": "<a href=\"pamelding-signup.html\">BOOK GRATIS PLASS</a><br>",
+          "text": "FOSLO<br>2.12 Yoga Day Retreat<br>5.12 Seminar om Karma<br>6.12 Foredrag 'Lost in the World'<br><br>TRONDHEIM<br>9.12 Foredrag 'Lost in the World'<br>10.12 Pop-up Yoga Café<br>16.12 Yoga Day Retreatull-screen intro with image at the top. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "button": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn text-xs-center btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"pamelding-signup.html\">KLIKK HER FOR Å BESTILLE PLASS</a>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1436,7 +1427,7 @@
             "showSubtitle": false,
             "showDates": true
           },
-          "mainTitle": "<span style=\"font-weight: normal;\">BALAKHILYA DAS I NORGE 2017</span>",
+          "mainTitle": "<span style=\"font-weight: normal;\">BALAKHILYA DAS&nbsp;<br></span><span style=\"font-weight: normal;\">NORGE 2017</span>",
           "mainSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
           "date1": "<span style=\"font-style: normal;\">2 desember</span><br>",
           "media1": {
@@ -1689,7 +1680,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extHeader13-42\">PÅMELDING FOR SEMINAR</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"pamelding-signup.html\">PÅMELDING FOR SEMINAR</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1729,7 +1720,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">SEND MELDING</a>"
           },
           "media": {
             "image": {
@@ -1888,7 +1879,7 @@
           },
           "title": "9 DES - FOREDRAG 'LOST IN THE WORLD'<br>───<br>10 DES - POP-UP YOGA CAFE<br>16 DES - YOGA DAY RETREAT",
           "text": "<span style=\"font-style: normal;\">Er det mulig å leve et liv uten ensomhet, angst og stress?<br>Møt den verdenskjente eksperten i yoga-vitenskap, Balakhilya das!<br>Balakhilya das reiser rundt i verden for å hjelpe hver og en av oss å finne sann og varig lykke.<br>Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, og ikke bare et som ser bra ut på utsiden.<br>Dette kan virkelig utgjøre en forskjell i livet ditt!</span>",
-          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html#extHeader13-2f\">BOOK DIN GRATIS PLASS</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html#features3-2j\">FÅ MER INFORMASJON</a>",
+          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"pamelding-signup.html\">BOOK DIN GRATIS PLASS</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html#features3-2j\">FÅ MER INFORMASJON</a>",
           "media": {
             "image": {
               "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader6.png"
@@ -1971,7 +1962,7 @@
           "title1": "Lost in the World",
           "subtitle1": "Om Ensomhet",
           "caption1": "Velkommen til en forelesning for oss alle!<br><br>Vårt samfunn utvikler seg raskere enn noensinne, alltid med ny teknologi og gadgets, og stiller stadig nye forventninger. Vi bruker twitter, snapchat, facebook, er tilgjengelig både online og offline - men fortsatt så opplever 4 av 10 nordmenn ensomhet (SSB 2015). Det har til og med kommet til det punktet hvor man kan hevde at \"vi er aldri alene - men vi føler oss mer ensomme enn noensinne.\" Selv når du er sammen med nær familie eller gode venner kan du fortsatt føle deg tom og ensom innvendig.<br><br>Så hva er det vi lengter etter, og hvor kan det bli funnet?<br><br>Hør den verdenskjente eksperten i yoga-vitenskap, Balakhilya das, snakke om temaet \"Fortapt i verden\". Kom og opplev selv hvordan denne gamle og dype visdommen kan hjelpe deg å løse dine personlige problemer. Med en dyp innsikt og kunnskap kommer Balakhilya das hjelpe deg på veien mot et liv fullt av glede, fred og harmoni.<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK GRATIS PLASS</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK GRATIS PLASS</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x337.png",
@@ -1987,7 +1978,7 @@
           "title2": "Pop-up Yoga Cafe<br>",
           "subtitle2": "Utover Yogamatta",
           "caption2": "Yoga Cafe - Utover Yogamatta<br><br>Opplev en ny verden! Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta. Enten du er kjent med Yoga eller aldri har gjort det før, - du er velkommen. Her blir det mat for både kropp og sjel i en avslappet og inspirerende atmosfære :-)<br><br>Kanskje du er en av mange som er forvirret når det kommer til alle de ulike retningene av yoga?<br>I dette interaktive seminaret kommer vår gjest, internasjonal Yoga og meditasjonsmester Balakhilya das, til å hjelpe oss med å forstå den dypere betydningen av Yoga.<br><br>På Trondheims første Yoga Café (!) får du muligheten til å utvide din oppfatning av yoga, stille spørsmål og oppdage gamle sannheter som hjelper deg med å takle stress og bekymringer. Du får også muligheten til å kjøpe enkel, men deilig hjemmelaget vegetarisk mat.<br><br>PS: Dette er et seminar, så du trenger ikke å ta med yogamatte :)<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">BOOK GRATIS PLASS</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">BOOK GRATIS PLASS</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/retreat-trd-no-600x337.png",
@@ -2003,7 +1994,7 @@
           "title3": "Yoga Day Retreat",
           "subtitle3": "Yoga, meditasjon, og seminar med Balakhilya das",
           "caption3": "Yoga er ikke bare fysiske øvelser, det er helhetlig livsstil som inkluderer mange aspekter for å leve et bedre liv. Det er en praktisk og hjelpsom vei til indre lykke!<br><br>Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Du kommer til å møte og kunne lære fra Balakhilya das, respektert autoritet på vedisk kunnskap og yoga-filosofien. Han presenterer dype og åndelig teori og praksis på måter som er forståelig og oppnåelig av hver enkelt person.<br><br>Du vil lære deg hvordan du enkelt kan legge til yoga og meditasjon i ditt eget liv, og dermed oppleve alle fordelene med denne livsstilen. Sammen kommer vi til å praktisere enkle meditasjonsteknikker, pusteøvelser med mantra, yoga asanas (øvelser) for både nybegynnere og viderekommende, guidet dyp avspenning, med mer. Vi arrangerer dessuten live musikkmeditasjon - en favoritt for mange.<br>Det vil også bli servert deilig vegetarmat :)<br>Velkommen!",
-          "button3": "<a data-app-btn=\"true\" href=\"http://tmy.no/retreat\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING<br></a>",
+          "button3": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING<br></a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -2149,35 +2140,34 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
+          "form": {
+            "action": "sledge@online.no",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email"
+              }
+            }
+          },
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
           ],
-          "_name": "extHeader13",
+          "_name": "extHeader17",
           "_styles": {
-            "H3": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#ffffff"
-            },
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "22px",
-              "color": "#fac51c"
-            },
-            "H4": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#ffffff"
+            ".btn": {
+              "font-size": "16px"
             }
           },
-          "_anchor": "extHeader13-2f",
+          "_anchor": "extHeader17-58",
           "_params": {
+            "imageSize": 60,
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x160018.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader17-bg-1.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2187,45 +2177,64 @@
             "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "inverse": false,
-            "showFormTitle": true,
+            "showImage": true,
             "showTitle": true,
-            "showText": true,
-            "countdown": "2017/12/09 18:00",
+            "showText": false,
+            "showButton": true,
             "showArrow": false
           },
-          "title2": "BOOK GRATIS PLASS",
-          "form": {
-            "action": "info@tmy.no",
-            "alerts": {
-              "success": "Takk - du er påmeldt!"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-1400x815-1.png",
+              "link": "pamelding-signup.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "NAVN*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "EPOST*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "TELEFON*"
-              },
-              "message": {
-                "title": "Message",
-                "visible": true,
-                "customTitle": "HVILKEN EVENT?*"
-              }
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">MELD MEG PÅ</a>",
-          "title": "EVENTER I TRONDHEIM<br>",
-          "text": "<span style=\"font-style: normal;\">&nbsp;SAT 9 DEC - LECTURE 'LOST IN THE WORLD'<br>SUN 10 DEC - POP-UP YOGA CAFE<br>SAT 16 DEC - YOGA DAY RETREAT</span><br>"
+          "title": "<a href=\"pamelding-signup.html\">BOOK GRATIS PLASS</a><br>",
+          "text": "FOSLO<br>2.12 Yoga Day Retreat<br>5.12 Seminar om Karma<br>6.12 Foredrag 'Lost in the World'<br><br>TRONDHEIM<br>9.12 Foredrag 'Lost in the World'<br>10.12 Pop-up Yoga Café<br>16.12 Yoga Day Retreatull-screen intro with image at the top. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "button": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn text-xs-center btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"pamelding-signup.html\">KLIKK HER FOR Å BESTILLE PLASS</a>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extCountdown1",
+          "_anchor": "extCountdown1-59",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "file:///Users/missionharibol/Library/Application%20Support/Mobirise.com/Mobirise/projectData/jumbotron_2.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "countdown": "2017/12/09 18:00"
+          },
+          "title": "DAGER IGJEN"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -2287,7 +2296,7 @@
             "showSubtitle": false,
             "showDates": true
           },
-          "mainTitle": "<span style=\"font-weight: normal;\">BALAKHILYA DAS I NORGE 2017</span>",
+          "mainTitle": "<span style=\"font-weight: normal;\">BALAKHILYA DAS </span><br><span style=\"font-weight: normal;\">NORGE 2017</span>",
           "mainSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
           "date1": "<span style=\"font-style: normal;\">2 desember</span><br>",
           "media1": {
@@ -2540,7 +2549,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extHeader13-42\">PÅMELDING FOR SEMINAR</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"pamelding-signup.html\">PÅMELDING FOR SEMINAR</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -2580,7 +2589,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">SEND MELDING</a>"
           },
           "media": {
             "image": {
@@ -2742,9 +2751,9 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Touring Norway December 2017</span><br></div><div><br>OSLO</div><div>2.12 Yoga Day Retreat</div><div>5.12 Seminar about Karma</div><div>6.12 Lecture 'Lost in the World'</div><div><br></div><div>TRONDHEIM</div><div>9.12 Lecture 'Lost in the World'</div><div>10.12 Pop-up Yoga Café</div><div>16.12 Yoga Day Retreat</div>",
-          "text": "<span style=\"font-style: normal;\">Meet a world-known&nbsp;expert in the Wisdom of Yoga.<br>We invite you to a different lecture: This is about you!<br>A life without loneliness, anxiety, and stress - is it even possible?&nbsp;</span><br><span style=\"font-style: normal;\"><br><b>BOOK YOUR FREE SEAT:</b></span>",
-          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"index-en.html#extHeader13-2m\">OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"index-en.html#extHeader13-2n\">TRONDHEIM</a>",
+          "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">In Norway December 2017</span><br></div><div><br>OSLO</div><div>Yoga Day Retreat</div><div>Seminar about Karma</div><div>Lecture 'Lost in the World'</div><div><br></div><div>TRONDHEIM</div><div>Lecture 'Lost in the World'</div><div>Pop-up Yoga Café</div><div>Yoga Day Retreat</div>",
+          "text": "<span style=\"font-style: normal;\">Meet a world-known&nbsp;expert in the Wisdom of Yoga.<br>We invite you to a different lecture: This is about you!<br>A life without loneliness, anxiety, and stress - is it even possible?&nbsp;</span><span style=\"font-style: normal;\"><br></span>",
+          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"en.html#features3-41\">MORE INFORMATION</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"pamelding-signup.html\">BOOK FREE SEAT</a>",
           "media": {
             "image": {
               "src": "file:///Users/missionharibol/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader6_1.png"
@@ -2874,7 +2883,7 @@
             "showSubtitle": false,
             "showDates": true
           },
-          "mainTitle": "<span style=\"font-weight: normal;\">BALAKHILYA DAS IN NORWAY&nbsp;</span>",
+          "mainTitle": "<span style=\"font-weight: normal;\">BALAKHILYA DAS </span><br><span style=\"font-weight: normal;\">NORWAY 2017&nbsp;</span>",
           "mainSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
           "date1": "<span style=\"font-style: normal;\">2 december</span><br>",
           "media1": {
@@ -3101,7 +3110,7 @@
           "title1": "Lost in the World",
           "subtitle1": "About Loneliness",
           "caption1": "Our society is progressing faster than ever, always with new gadgets and expectation to keep up with. We are constantly available both online and offline - and still 4 out of 10 Norwegians experience loneliness. One could say “We are never alone - but we feel more lonely than ever.” And even when you are with your close family or best friends - you may still sometimes have this gnawing feeling of emptiness and loneliness deep inside of you. <br><br>Where is this feeling coming from, and what is it that we are actually longing for?&nbsp;Hear world-known Yoga Wisdom expert and Vedic teacher Balakhilya das speak on “Lost in the World”. This enlightening seminar will help you on the path towards a life of joy, peace, and harmony. <br>This may just change your life!<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"en.html#extHeader13-2m\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" href=\"en.html#extHeader13-2n\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK FREE SEAT</a> ",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/rounded-corners-4-600x337.png",
@@ -3117,7 +3126,7 @@
           "title2": "Karma<br>",
           "subtitle2": "Why Bad Things Happen to Good People",
           "caption2": "<b>When you look at the world, many things may seem unfair.&nbsp;Why do bad things happen to good or innocent people?</b><br><br>Most of us have heard of the law of karma, which is described by familiar sayings like, “what goes around comes around,” and “as you sow, so shall you reap.” Come hear Balakhilya das, Vedic teacher and expert in the Yoga Wisdom, unravel the secret of Karma and suffering!<br><br>You will get clear and profound answers<br>to questions such as:<br>- What can I do to relieve the suffering of others?<br>- How is the law of karma working, and how does it affect me?<br>- How can I live a life without creating karma?<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"en.html#extHeader13-2m\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">SIGN UP - OSLO</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BOOK FREE SEAT - OSLO</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x337-5.png",
@@ -3133,7 +3142,7 @@
           "title3": "Pop-up Yoga Cafe",
           "subtitle3": "Beyond the Yoga Mat",
           "caption3": "Experience the world of Yoga - discover how there is much more to it than what goes on on the Yoga mat! No matter if you have done Yoga before or not, this seminar is for you. There will be food for both body and soul in a relaxed and inspiring atmosphere.<br><br>In this interactive seminar our special guest speaker, - international Yoga and meditation master Balakhilya das, will help us understand the deeper meaning of Yoga.<br><br>At Trondheim’s first Yoga Café you will get the chance to broaden your perception of Yoga, ask questions, and discover ancient truths that help you relieve stress and worries. You will also get the possibility to buy simple yet delicious homemade vegatarian food.<br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"en.html#extHeader13-2n\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">SIGN UP - TRONDHEIM</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">BOOK FREE SEAT - TRONDHEIM</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -3229,7 +3238,7 @@
           },
           "title": "YOGA DAY RETREAT<br>Oslo 2 Dec<br>Trondheim 16 Dec",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"en.html#extHeader13-2m\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://tmy.no/retreat-en\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"pamelding-signup.html\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://tmy.no/retreat-en\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -3292,114 +3301,34 @@
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://tmy.no/retreat-en\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>"
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader13",
-          "_styles": {
-            "H3": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#ffffff"
-            },
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "22px",
-              "color": "#fac51c"
-            },
-            "H4": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "extHeader13-2m",
-          "_params": {
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1250-1.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "inverse": false,
-            "showFormTitle": true,
-            "showTitle": true,
-            "showText": true,
-            "countdown": "2017/12/02 12:00",
-            "showArrow": true
-          },
-          "title2": "BOOK YOUR FREE SEAT - OSLO",
           "form": {
-            "action": "info@tmy.no",
+            "action": "sledge@online.no",
             "alerts": {
-              "success": "Thanks - you are signed up!"
+              "success": "Thanks for filling out form!"
             },
             "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "NAME*"
-              },
               "email": {
                 "title": "Email",
-                "visible": true,
-                "customTitle": "EMAIL*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "PHONE*"
-              },
-              "message": {
-                "title": "Message",
-                "visible": true,
-                "customTitle": "WHICH EVENT?*"
+                "customTitle": "Enter Your Email"
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SIGN ME UP IN OSLO<br></a>",
-          "title": "EVENTS IN OSLO",
-          "text": "<span style=\"font-style: normal;\">2 DECEMBER - YOGA DAY RETREAT</span><br><span style=\"font-style: normal;\">5 DECEMBER - SEMINAR ABOUT KARMA<br>6 DECEMBER - LECTURE 'LOST IN THE WORLD'<br></span>"
-        },
-        {
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
           ],
-          "_name": "extHeader13",
+          "_name": "extHeader17",
           "_styles": {
-            "H3": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#ffffff"
-            },
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "22px",
-              "color": "#fac51c"
-            },
-            "H4": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#ffffff"
+            ".btn": {
+              "font-size": "16px"
             }
           },
-          "_anchor": "extHeader13-2n",
+          "_anchor": "extHeader17-55",
           "_params": {
+            "imageSize": 60,
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1600-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader17-bg-1.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3409,45 +3338,64 @@
             "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "inverse": false,
-            "showFormTitle": true,
+            "showImage": true,
             "showTitle": true,
-            "showText": true,
-            "countdown": "2017/12/09 18:00",
+            "showText": false,
+            "showButton": true,
             "showArrow": false
           },
-          "title2": "BOOK FREE SEAT - &nbsp;TRONDHEIM<br>",
-          "form": {
-            "action": "info@tmy.no",
-            "alerts": {
-              "success": "Thanks - you are signed up!"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-1400x815-1.png",
+              "link": "pamelding-signup.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "NAME*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "EMAIL*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "PHONE*"
-              },
-              "message": {
-                "title": "Message",
-                "visible": true,
-                "customTitle": "WHICH EVENT?*"
-              }
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SIGN ME UP IN TRONDHEIM</a>",
-          "title": "EVENTS IN TRONDHEIM<br>",
-          "text": "<span style=\"line-height: 1.5;\"><span style=\"font-style: normal;\">&nbsp;SAT 9 DEC - LECTURE 'LOST IN THE WORLD'</span></span><br><span style=\"font-style: normal;\">SUN 10 DEC - POP-UP YOGA CAFE</span><span style=\"font-style: normal;\"><br>SAT 16 DEC - YOGA DAY RETREAT<br></span>"
+          "title": "<a href=\"pamelding-signup.html\">BOOK FREE SEAT</a><br>",
+          "text": "FOSLO<br>2.12 Yoga Day Retreat<br>5.12 Seminar om Karma<br>6.12 Foredrag 'Lost in the World'<br><br>TRONDHEIM<br>9.12 Foredrag 'Lost in the World'<br>10.12 Pop-up Yoga Café<br>16.12 Yoga Day Retreatull-screen intro with image at the top. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "button": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn text-xs-center btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"pamelding-signup.html\">CLICK HERE TO BOOK YOUR FREE SEATS</a>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extCountdown1",
+          "_anchor": "extCountdown1-56",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "file:///Users/missionharibol/Library/Application%20Support/Mobirise.com/Mobirise/projectData/jumbotron_2.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "countdown": "2017/12/02 12:00"
+          },
+          "title": "DAYS LEFT"
         },
         {
           "text2": "<label class=\"blackColor\" for=\"modal\">Watch Video</label>",
@@ -3548,7 +3496,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5719.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5721.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3642,7 +3590,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">SEND MELDING</a>"
           },
           "media": {
             "image": {
@@ -3674,7 +3622,7 @@
           },
           "title1": "Oslo",
           "subTitle1": "Ready for offers & cooperation",
-          "text1": "Oslo Meditasjonsskole<br>Tel. 980 41 818<br><a href=\"mailto:oslomeditasjon@gmail.com\" class=\"text-black\">oslomeditasjon@gmail.com</a><br><a href=\"http://www.oslomeditasjon.no\" target=\"_blank\" class=\"text-black\">www.oslomeditasjon.no</a><br>",
+          "text1": "Tel. 980 41 818<br><a href=\"mailto:oslomeditasjon@gmail.com\" class=\"text-black\">oslomeditasjon@gmail.com</a><br><a href=\"http://www.oslomeditasjon.no\" target=\"_blank\" class=\"text-black\">www.oslomeditasjon.no</a><br>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-form1",
@@ -3688,7 +3636,7 @@
           },
           "title2": "Trondheim",
           "subTitle2": "Glad to meet new people",
-          "text2": "Trondheim Meditasjon &amp; Yoga<br>Tel. 410 75 816<br><a href=\"mailto:info@tmy.no\" class=\"text-black\">info@tmy.no</a><br><a href=\"http://www.tmy.no\" target=\"_blank\" class=\"text-black\">www.tmy.no</a>",
+          "text2": "Tel. 410 75 816<br><a href=\"mailto:info@tmy.no\" class=\"text-black\">info@tmy.no</a><br><a href=\"http://www.tmy.no\" target=\"_blank\" class=\"text-black\">www.tmy.no</a>",
           "form": {
             "action": "info@trondheimmeditasjon.no",
             "alerts": {
@@ -3806,7 +3754,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extHeader13-42\">PÅMELDING FOR SEMINAR</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"pamelding-signup.html\">PÅMELDING FOR SEMINAR</a></li>"
         }
       ]
     },
@@ -3874,6 +3822,9 @@
             },
             "B": {
               "color": "#414141"
+            },
+            ".btn": {
+              "font-size": "11px"
             }
           },
           "_anchor": "extHeader6-2s",
@@ -3895,9 +3846,9 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Norges-turné Desember 2017</span></div><div><br>OSLO 2-6 Des.<br>Yoga Day Retreat</div><div>Seminar om Karma</div><div>Foredrag 'Lost in the World'</div><div><br></div><div>TRONDHEIM 9-16 Des.</div><div>Foredrag 'Lost in the World'</div><div>Pop-up Yoga Café<br>Yoga Day Retreat</div>",
-          "text": "Er det mulig å leve et liv uten ensomhet, angst og stress?<br>Møt den verdenskjente eksperten i yoga-vitenskap, Balakhilya das!<br>Balakhilya das reiser rundt i verden for å hjelpe hver og en av oss<br>å finne sann og varig lykke i livet.<br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\"><b>BOOK DIN PLASS - GRATIS:</b></span>",
-          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html\">OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html\">TRONDHEIM</a>",
+          "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Norge Desember 2017</span></div><div><br>OSLO 2-6 Des.<br>Yoga Day Retreat</div><div>Seminar om Karma</div><div>Foredrag 'Lost in the World'</div><div><br></div><div>TRONDHEIM 9-16 Des.</div><div>Foredrag 'Lost in the World'</div><div>Pop-up Yoga Café<br>Yoga Day Retreat</div>",
+          "text": "Er det mulig å leve et liv uten ensomhet, angst og stress?<br>Møt den verdenskjente eksperten i yoga-vitenskap, Balakhilya das!<br>Balakhilya das reiser rundt i verden for å hjelpe hver og en av oss<br>å finne sann og varig lykke i livet.<br>",
+          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html\">MER INFO: OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html\">MER INFO: TRONDHEIM</a> <a data-app-btn=\"true\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\" href=\"pamelding-signup.html\">BOOK PLASS NÅ</a>",
           "media": {
             "image": {
               "src": "file:///Users/missionharibol/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader6.png"
@@ -3969,6 +3920,19 @@
           "text": "<blockquote><p><span style=\"font-style: normal;\"><b>Til alle dere der ute som har funnet meg og denne nettsiden; velkommen.</b></span></p><p><span style=\"font-style: normal;\"><b>Jeg er veldig glad for at du er her. Det er mitt håp at du vil kunne ta noe med deg herfra som vil fungere som et ledende lys i livet ditt.</b></span></p><p><span style=\"font-style: normal;\">&nbsp; &nbsp;&nbsp;</span></p><p><span style=\"font-style: normal;\">Jeg kom til denne helhetlige yogafilosofien på en indirekte måte. Jeg begynte å bli interessert i hatha yoga (fysisk yoga) som en måte å forbedre surfingen min, som på den tiden (1969) var hele mitt liv. Fordelene var umiddelbart åpenbare, og jeg begynte å se nærmere på emnet. Ved å lese begynte jeg å trene enkel meditasjon, spiste vegetarisk mat, og brukte mer og mer tid i dypere kontemplasjon på meningen av mitt liv. Jeg hadde alltid vært en reisende, men nå begynte jeg på en indre reise. Underveis ble min verden, - både den ytre og den indre, stadig mer fredelig og rolig.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">I 1971 var jeg så utrolig heldig (uten tilfeldighet er jeg sikker på) å få komme i kontakt med mine åndelige lærere. Under deres ekspertise og veiledning mottok jeg og begynte å følge den gamle vitenskapen kalt Bhakti Yoga som jeg har fortsatt å gjøre til den dag i dag. Og hvilken vakker og tilfredsstillende reise det har vært!</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Så jeg ønsker på det sterkeste at du kan få den samme sjansen og velsignelsen som jeg har hatt, ufortjent som jeg er.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Beste ønsker,</span></p><p><span style=\"font-style: normal;\">Balakhilya das</span></p></blockquote>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-54",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"pamelding-signup.html\" data-toolbar=\"-mbrBtnMove\">BOOK DIN GRATIS PLASS</a>  "
+        },
+        {
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -4029,7 +3993,7 @@
             "showSubtitle": false,
             "showDates": true
           },
-          "mainTitle": "<span style=\"font-weight: normal;\">BALAKHILYA DAS I NORGE 2017</span>",
+          "mainTitle": "<span style=\"font-weight: normal;\">BALAKHILYA DAS </span><br><span style=\"font-weight: normal;\">NORGE 2017</span>",
           "mainSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
           "date1": "<span style=\"font-style: normal;\">2 desember</span><br>",
           "media1": {
@@ -4257,7 +4221,7 @@
           "title1": "Lost in the World",
           "subtitle1": "<span style=\"font-style: normal;\">Om ensomhet</span>",
           "caption1": "<b>Velkommen til et foredrag om deg!</b><br><b><br></b>Samfunnet vårt utvikler seg raskere enn noensinne, med stadig nye gadgets og forventninger å holde tritt med. Man kan si \"vi er aldri alene - men vi føler oss mer ensomme enn noensinne\". Og selv når du er sammen med din nærmeste familie eller dine beste venner, kan det likevel hende at du kjenner denne gnagende følelsen av tomhet og ensomhet dypt inne i deg. Hvor kommer denne følelsen fra, og hva er det vi faktisk lengter etter?<br><br>Hør verdenskjent Yogavisdom-ekspert og Vedisk lærer Balakhilya das om temaet \"Lost in the World\". Dette opplysende seminaret vil hjelpe deg på veien mot et liv med glede, fred og harmoni.&nbsp;<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK GRATIS PLASS</a> ",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/rounded-corners-4-600x337.png",
@@ -4273,10 +4237,10 @@
           "title2": "Karma<br>",
           "subtitle2": "Hvorfor forferdelige ting skjer med gode mennesker",
           "caption2": "<b>Når vi ser på verden vår kan mange ting virke veldig urettferdig. </b><b>Hvorfor skjer forferdelige ting med gode eller uskyldige mennesker?<br><br></b>De fleste av oss har hørt om karma, som blir beskrevet gjennom utsagn som \"what goes around, comes around\", og \"man høster som man sår.\" Få med deg dette foredraget av Balakhilya das, Vedisk lærer og ekspert i Yogavisdom, og få innblikk i hemmeligheten om karma og lidelse.<br><br>Du vil få klare og utdypende svar på spørsmål som:<br>- Hva kan jeg gjøre for å hindre at andre lider?<br>- Hvordan fungerer loven om karma, og hvordan påvirker den meg?<br>- Hvordan kan jeg leve et liv uten å skape karma?<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"oslo.html#extHeader13-21\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - OSLO</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">BOOK GRATIS PLASS - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33720.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33722.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4289,7 +4253,7 @@
           "title3": "Pop-up Yoga Cafe",
           "subtitle3": "<span style=\"font-style: normal;\">Utover Yogamatta</span>",
           "caption3": "<span style=\"line-height: 1.5;\">Opplev en ny verden!&nbsp;</span><span style=\"line-height: 1.5;\">Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta. Her blir det mat for både kropp og sjel i en avslappet og inspirerende atmosfære.</span><br><br>I dette interaktive seminaret kommer vår gjest, internasjonal Yoga og meditasjonsmester Balakhilya das, til å hjelpe oss med å forstå den dypere betydningen av Yoga. <span style=\"line-height: 1.5;\">På Trondheims første Yoga Café (!) får du muligheten til å utvide din oppfatning av yoga, stille spørsmål og oppdage gamle sannheter som hjelper deg med å takle stress og bekymringer. Du får også muligheten til å kjøpe enkel, men deilig hjemmelaget vegetarisk mat.</span><br><br>P.S. Du trenger ikke å ta med yogamatte :)<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"trondheim.html#extHeader13-2f\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">PÅMELDING - TRONDHEIM</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BOOK GRATIS PLASS - TRONDHEIM</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -4385,38 +4349,32 @@
           },
           "title": "YOGA DAY RETREAT<br>Oslo 2 des.<br>Trondheim 16. des",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"oslo.html\" data-toolbar=\"-mbrBtnMove\">OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://tmy.no/retreat\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"oslo.html\" data-toolbar=\"-mbrBtnMove\">MER INFO: OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://tmy.no/retreat\" data-toolbar=\"-mbrBtnMove\">MER INFO: TRONDHEIM</a>"
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
+          "form": {
+            "action": "sledge@online.no",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email"
+              }
+            }
+          },
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
           ],
-          "_name": "extHeader13",
-          "_styles": {
-            "H3": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#ffffff"
-            },
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "22px",
-              "color": "#fac51c"
-            },
-            "H4": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "extHeader13-42",
+          "_name": "extHeader17",
+          "_anchor": "extHeader17-53",
           "_params": {
+            "imageSize": 60,
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1600-4.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader17-bg.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4426,45 +4384,69 @@
             "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "inverse": false,
-            "showFormTitle": true,
+            "showImage": true,
             "showTitle": true,
-            "showText": true,
-            "countdown": "2017/12/02 12:00",
+            "showText": false,
+            "showButton": true,
             "showArrow": false
           },
-          "title2": "BOOK DIN GRATIS PLASS<br>",
-          "form": {
-            "action": "info@tmy.no",
-            "alerts": {
-              "success": "Takk - du er påmeldt!"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-1400x815.png",
+              "link": "pamelding-signup.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "NAVN*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "EPOST*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "TELEFON*"
-              },
-              "message": {
-                "title": "Message",
-                "visible": true,
-                "customTitle": "HVILKET EVENT OG HVILKEN BY?*"
-              }
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">MELD MEG PÅ</a>",
-          "title": "<span style=\"line-height: 1.1;\">BALAKHILYA DAS&nbsp;<br></span>NORGES-TURNE",
-          "text": "<span style=\"font-style: normal;\"><span style=\"line-height: 1.5;\"><b>OSLO<br></b>2.12 Yoga Day Retreat<br>5.12 Seminar om Karma</span></span><br><span style=\"font-style: normal;\"><span style=\"line-height: 1.5;\">6.12 Foredrag 'Lost in the World'</span></span><br><span style=\"font-style: normal;\"><span style=\"line-height: 1.5;\"><br></span></span><span style=\"font-style: normal;\"><span style=\"line-height: 1.5;\"><b>TRONDHEIM<br></b></span></span><span style=\"font-style: normal;\"><span style=\"line-height: 1.5;\">9.12 Foredrag '</span></span>Lost in the World'<br><span style=\"font-style: normal;\"><span style=\"line-height: 1.5;\">10.12 Pop-up Yoga Café<br></span></span>16.12 Yoga Day Retreat"
+          "title": "<a href=\"pamelding-signup.html\">BOOK GRATIS PLASS</a><br>",
+          "text": "FOSLO<br>2.12 Yoga Day Retreat<br>5.12 Seminar om Karma<br>6.12 Foredrag 'Lost in the World'<br><br>TRONDHEIM<br>9.12 Foredrag 'Lost in the World'<br>10.12 Pop-up Yoga Café<br>16.12 Yoga Day Retreatull-screen intro with image at the top. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "button": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn text-xs-center btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"pamelding-signup.html\">KLIKK HER FOR Å BESTILLE PLASS</a>",
+          "_styles": {
+            ".btn": {
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extCountdown1",
+          "_anchor": "extCountdown1-52",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "countdown": "2017/12/02 12:00"
+          },
+          "title": "DAGER IGJEN"
         },
         {
           "_styles": {
@@ -4553,7 +4535,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extHeader13-42\">PÅMELDING FOR SEMINAR</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"pamelding-signup.html\">PÅMELDING FOR SEMINAR</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -4593,7 +4575,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">SEND MELDING</a>"
           },
           "media": {
             "image": {
@@ -4765,7 +4747,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extHeader13-42\">PÅMELDING FOR SEMINAR</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"pamelding-signup.html\">PÅMELDING FOR SEMINAR</a></li>"
         },
         {
           "_customTemplate": true,
