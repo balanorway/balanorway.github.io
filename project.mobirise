@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "en.html",
+    "currentPage": "pamelding-signup.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 190,
+    "uniqCompNum": 191,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -650,7 +650,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
           },
           "media": {
             "image": {
@@ -886,7 +886,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
           },
           "media": {
             "image": {
@@ -1345,7 +1345,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-1400x815-1.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-1-1400x815.png",
               "link": "pamelding-signup.html",
               "alt": "",
               "title": "",
@@ -1720,7 +1720,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
           },
           "media": {
             "image": {
@@ -2187,7 +2187,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-1400x815-1.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-1-1400x815.png",
               "link": "pamelding-signup.html",
               "alt": "",
               "title": "",
@@ -2589,7 +2589,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
           },
           "media": {
             "image": {
@@ -3348,7 +3348,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-1400x815-1.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-1-1400x815.png",
               "link": "pamelding-signup.html",
               "alt": "",
               "title": "",
@@ -3496,7 +3496,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-5723.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-570.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3590,7 +3590,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
           },
           "media": {
             "image": {
@@ -4240,7 +4240,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">BOOK GRATIS PLASS - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x33724.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x3371.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4369,6 +4369,11 @@
             "Extension"
           ],
           "_name": "extHeader17",
+          "_styles": {
+            ".btn": {
+              "font-size": "16px"
+            }
+          },
           "_anchor": "extHeader17-53",
           "_params": {
             "imageSize": 60,
@@ -4394,7 +4399,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-1400x815.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-1-1400x815.png",
               "link": "pamelding-signup.html",
               "alt": "",
               "title": "",
@@ -4414,12 +4419,7 @@
           },
           "title": "<a href=\"pamelding-signup.html\">BOOK GRATIS PLASS</a><br>",
           "text": "FOSLO<br>2.12 Yoga Day Retreat<br>5.12 Seminar om Karma<br>6.12 Foredrag 'Lost in the World'<br><br>TRONDHEIM<br>9.12 Foredrag 'Lost in the World'<br>10.12 Pop-up Yoga Café<br>16.12 Yoga Day Retreatull-screen intro with image at the top. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "button": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn text-xs-center btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"pamelding-signup.html\">KLIKK HER FOR Å BESTILLE PLASS</a>",
-          "_styles": {
-            ".btn": {
-              "font-size": "16px"
-            }
-          }
+          "button": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn text-xs-center btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"pamelding-signup.html\">KLIKK HER FOR Å BESTILLE PLASS</a>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -4575,7 +4575,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
           },
           "media": {
             "image": {
@@ -4776,12 +4776,12 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-4x",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script type=\"text/javascript\" src=\"//downloads.mailchimp.com/js/signup-forms/popup/embed.js\" data-dojo-config=\"usePlainJson: true, isDebug: false\"></script>",
             "<script type=\"text/javascript\">require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us2.list-manage.com\",\"uuid\":\"d88f27c253d243b4b85912640\",\"lid\":\"914963da23\"}) })</script>"
-          ]
+          ],
+          "_anchor": "custom-html-4x"
         },
         {
           "_tags": [
@@ -4811,6 +4811,20 @@
           "title": "FULL SCREEN INTRO",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-images.mailchimp.com/embedcode/classic-10_7.css\" rel=\"stylesheet\" type=\"text/css\">\n<style type=\"text/css\">\n\t#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }\n\t/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.\n\t   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */\n</style>\n<div id=\"mc_embed_signup\">\n<form action=\"https://yogavisdom.us2.list-manage.com/subscribe/post?u=d88f27c253d243b4b85912640&amp;id=914963da23\" method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\" class=\"validate\" target=\"_blank\" novalidate=\"\">\n    <div id=\"mc_embed_signup_scroll\">\n\t<h2>Book din gratis plass / Reserve your free seat</h2>\n<div class=\"indicates-required\"><span class=\"asterisk\">*</span> indicates required</div>\n<div class=\"mc-field-group\">\n\t<label for=\"mce-EMAIL\">Epost / Email  <span class=\"asterisk\">*</span>\n</label>\n\t<input type=\"email\" value=\"\" name=\"EMAIL\" class=\"required email\" id=\"mce-EMAIL\">\n</div>\n<div class=\"mc-field-group\">\n\t<label for=\"mce-NAME\">Navn / Name  <span class=\"asterisk\">*</span>\n</label>\n\t<input type=\"text\" value=\"\" name=\"NAME\" class=\"required\" id=\"mce-NAME\">\n</div>\n<div class=\"mc-field-group input-group\">\n    <strong>Språk / Languange  <span class=\"asterisk\">*</span>\n</strong>\n    <ul><li><input type=\"radio\" value=\"Norsk\" name=\"LANGUANGE\" id=\"mce-LANGUANGE-0\"><label for=\"mce-LANGUANGE-0\">Norsk</label></li>\n<li><input type=\"radio\" value=\"English\" name=\"LANGUANGE\" id=\"mce-LANGUANGE-1\"><label for=\"mce-LANGUANGE-1\">English</label></li>\n</ul>\n</div>\n<div class=\"mc-field-group size1of2\">\n\t<label for=\"mce-TELEPHONE\">Telefon / Phone </label>\n\t<input type=\"number\" name=\"TELEPHONE\" class=\"\" value=\"\" id=\"mce-TELEPHONE\">\n</div>\n<div class=\"mc-field-group input-group\">\n    <strong>Hvilke eventer? / Which events? </strong>\n    <ul><li><input type=\"checkbox\" value=\"1\" name=\"group[1][1]\" id=\"mce-group[1]-1-0\"><label for=\"mce-group[1]-1-0\">Oslo 2.12 - Yoga Day Retreat</label></li>\n<li><input type=\"checkbox\" value=\"2\" name=\"group[1][2]\" id=\"mce-group[1]-1-1\"><label for=\"mce-group[1]-1-1\">Oslo 5.12 - Karma</label></li>\n<li><input type=\"checkbox\" value=\"4\" name=\"group[1][4]\" id=\"mce-group[1]-1-2\"><label for=\"mce-group[1]-1-2\">Oslo 6.12 - Lost in the World</label></li>\n<li><input type=\"checkbox\" value=\"8\" name=\"group[1][8]\" id=\"mce-group[1]-1-3\"><label for=\"mce-group[1]-1-3\">Trd 9.12 - Lost in the World</label></li>\n<li><input type=\"checkbox\" value=\"16\" name=\"group[1][16]\" id=\"mce-group[1]-1-4\"><label for=\"mce-group[1]-1-4\">Trd 10.12 - Yoga Café</label></li>\n<li><input type=\"checkbox\" value=\"32\" name=\"group[1][32]\" id=\"mce-group[1]-1-5\"><label for=\"mce-group[1]-1-5\">Trd 16.12 - Yoga Day Retreat</label></li>\n</ul>\n</div>\n\t<div id=\"mce-responses\" class=\"clear\">\n\t\t<div class=\"response\" id=\"mce-error-response\" style=\"display:none\"></div>\n\t\t<div class=\"response\" id=\"mce-success-response\" style=\"display:none\"></div>\n\t</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->\n    <div style=\"position: absolute; left: -5000px;\" aria-hidden=\"true\"><input type=\"text\" name=\"b_d88f27c253d243b4b85912640_914963da23\" tabindex=\"-1\" value=\"\"></div>\n    <div class=\"clear\"><input type=\"submit\" value=\"Subscribe\" name=\"subscribe\" id=\"mc-embedded-subscribe\" class=\"button\"></div>\n    </div>\n</form>\n</div>\n\n<!--End mc_embed_signup-->",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-5a",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     }
