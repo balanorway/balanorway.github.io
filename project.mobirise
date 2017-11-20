@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya das Norway MB3",
-    "currentPage": "pamelding-signup.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -650,7 +650,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">MER INFO: OSLO</a>"
           },
           "media": {
             "image": {
@@ -886,7 +886,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">MER INFO: OSLO</a>"
           },
           "media": {
             "image": {
@@ -1720,7 +1720,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">MER INFO: OSLO</a>"
           },
           "media": {
             "image": {
@@ -2589,7 +2589,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">MER INFO: OSLO</a>"
           },
           "media": {
             "image": {
@@ -3590,7 +3590,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">MER INFO: OSLO</a>"
           },
           "media": {
             "image": {
@@ -4575,7 +4575,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">DOWNLOAD FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">MER INFO: OSLO</a>"
           },
           "media": {
             "image": {
@@ -4822,9 +4822,9 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-5a",
           "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-5a"
         }
       ]
     }
