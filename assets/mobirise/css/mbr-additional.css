@@ -896,6 +896,8 @@ h6,
 
 
 
+
+
 #header3-1s .mbr-section-title,
 #header3-1s .mbr-section-subtitle {
   text-align: center;
@@ -915,6 +917,20 @@ h6,
 #extHeader6-4k SPAN {
   font-size: 19px;
 }
+#msg-box8-5c .mbr-section-title,
+#msg-box8-5c p {
+  color: #fff;
+}
+#msg-box8-5c .mbr-section-title {
+  color: #faaf40;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 60px;
+}
+#gallery1-5b .mbr-gallery-item > div > span {
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+}
 #features3-2h H4 {
   font-size: 30px;
 }
@@ -928,6 +944,9 @@ h6,
 #features3-2h H5 {
   font-family: 'Lato', sans-serif;
   font-size: 17px;
+}
+#features3-2h SPAN {
+  font-size: 19px;
 }
 #extHeader17-57 .btn {
   font-size: 16px;
@@ -1296,7 +1315,7 @@ h6,
   font-family: 'Open Sans Condensed', sans-serif;
 }
 #extHeader17-55 .btn {
-  font-size: 16px;
+  font-size: 15px;
 }
 #extHeader6-3v SPAN {
   color: #ffffff;
