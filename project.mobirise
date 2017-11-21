@@ -1435,7 +1435,7 @@
             }
           },
           "title1": "<a href=\"oslo.html#extHeader13-21\">Yoga Day Retreat</a>",
-          "text1": "<span style=\"font-style: normal;\">Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Med yoga, meditasjon, live musikk, vegetarmat, og seminar med&nbsp;Balakhilya das. Kostnad 200,-.<br><b>12:00 Rådhusgata 20,&nbsp;Oslo</b></span><br>",
+          "text1": "<span style=\"font-style: normal;\">Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Med yoga, meditasjon, live musikk, vegetarmat, og seminar med&nbsp;Balakhilya das.<br>Kostnad 200,-.<br><b>12:00 Rådhusgata 20,&nbsp;Oslo</b></span><br>",
           "date2": "<span style=\"font-style: normal;\">5 desember<br></span><br>",
           "title2": "<a href=\"oslo.html#features3-2h\">Seminar om Karma</a>",
           "text2": "<span style=\"font-style: normal;\">Hvorfor forferdelige ting skjer med gode eller uskyldige mennesker,&nbsp;og hvordan vi kan leve i denne verden uten å skape karma.&nbsp;Gratis inngang.</span><br><b><span style=\"font-style: normal;\">18:00 Litteraturhuset</span>,&nbsp;<span style=\"font-style: normal;\">Wergelandsveien</span> <span style=\"font-style: normal;\">29</span>,&nbsp;<span style=\"font-style: normal;\">Oslo</span></b><br>",
@@ -1463,10 +1463,10 @@
             }
           },
           "title3": "<a href=\"oslo.html#features3-2h\">Foredrag: Lost in the World</a>",
-          "text3": "<span style=\"font-style: normal;\">Folk liker å ha folk rundt seg, ting som skjer hele tiden. Men hvorfor opplever mange ensomhet - selv i en gruppe med venner eller familie? <br></span>Velkommen til et foredrag om deg!<br><span style=\"font-style: normal;\">Gratis inngang. <br><b>18:00 Litteraturhuset,&nbsp;Wergelandsveien 29,&nbsp;Oslo&nbsp;</b></span><br>",
+          "text3": "<span style=\"font-style: normal;\">Folk liker å ha folk rundt seg, ting som skjer hele tiden. Men hvorfor opplever mange ensomhet - selv i en gruppe med venner eller familie? <br>Velkommen til et foredrag for alle!<br>Gratis inngang. <br><b>18:00 Litteraturhuset,&nbsp;Wergelandsveien 29,&nbsp;Oslo&nbsp;</b></span><br>",
           "date4": "<span style=\"font-style: normal;\">9 desember</span><br>",
           "title4": "<a href=\"trondheim.html\">Foredrag: Lost in the World</a>",
-          "text4": "<span style=\"font-style: normal;\">Folk liker å ha folk rundt seg, ting som skjer hele tiden. Men hvorfor opplever mange ensomhet - selv i en gruppe med venner eller familie?<br></span>Velkommen til et foredrag om deg!<br><span style=\"font-style: normal;\">Gratis inngang.</span><br><span style=\"font-style: normal;\"><b>18:00 Kjøpmannsgata 12,&nbsp;Trondheim</b><br></span>",
+          "text4": "<span style=\"font-style: normal;\">Folk liker å ha folk rundt seg, ting som skjer hele tiden. Men hvorfor opplever mange ensomhet - selv i en gruppe med venner eller familie?<br>Velkommen til et foredrag for meg og deg!<br>Gratis inngang.</span><br><span style=\"font-style: normal;\"><b>18:00 Kjøpmannsgata 12,&nbsp;Trondheim</b><br></span>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
@@ -1491,10 +1491,10 @@
             }
           },
           "title5": "<a href=\"trondheim.html\">Pop-up Yoga Café</a>",
-          "text5": "Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta! Enten du er kjent med Yoga eller aldri har gjort det før, - du er velkommen. Det blir blant annet seminar med yoga- og meditasjonsmester Balakhilya das.&nbsp;<span style=\"font-style: normal;\">Muligheter til å kjøpe delig hjemmelaget vegetarmat på eventen.<br>Gratis inngang.<br><b>14:00 Kongens gate 55,&nbsp;Trondheim</b></span><br>",
+          "text5": "<span style=\"font-style: normal;\">Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta! Enten du er kjent med Yoga eller aldri har gjort det før, - du er velkommen. Det blir blant annet seminar med yoga- og meditasjonsmester Balakhilya das.&nbsp;Muligheter til å kjøpe delig hjemmelaget vegetarmat på eventen.<br>Gratis inngang.</span><br><b style=\"font-style: normal;\">14:00 Kongens gate 55,&nbsp;Trondheim</b><br>",
           "date6": "<span style=\"font-style: normal;\">16 desember</span>",
           "title6": "<a href=\"http://tmy.no/retreat\">Yoga Day Retreat</a>",
-          "text6": "<span style=\"font-style: normal;\">Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Med yoga, meditasjon, live musikk, vegetarmat, og seminar med Balakhilya das. Kostnad 150/100,-.<br><b>10:00 - 16:00 Storbuan Økosamfunn,&nbsp;Trondheim</b></span>",
+          "text6": "<span style=\"font-style: normal;\">Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Med yoga, meditasjon, live musikk, vegetarmat, og seminar med Balakhilya das.<br>Kostnad 200/150,-.<br><b>10:00 - 16:00 Storbuan Økosamfunn,&nbsp;Trondheim</b></span>",
           "media6": {
             "iconFont": {
               "class": "mbr-iconfont-extFeatures2",
@@ -3489,7 +3489,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-572.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-574.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -4233,7 +4233,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">BOOK GRATIS PLASS - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x3373.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x3375.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
