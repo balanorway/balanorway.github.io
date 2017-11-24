@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "yogavisdom.no MB3",
-    "currentPage": "oslo.html",
+    "currentPage": "trondheim.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 193,
+    "uniqCompNum": 194,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -650,7 +650,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN GRATIS PLASS</a>"
           },
           "media": {
             "image": {
@@ -886,7 +886,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN GRATIS PLASS</a>"
           },
           "media": {
             "image": {
@@ -1713,7 +1713,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN GRATIS PLASS</a>"
           },
           "media": {
             "image": {
@@ -1946,7 +1946,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "trondheim.html#extHeader13-2f",
+              "link": "pamelding-signup.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1962,15 +1962,15 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "trondheim.html#extHeader13-2f",
+              "link": "pamelding-signup.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "title2": "Pop-up Yoga Cafe<br>",
+          "title2": "Pop-up Yoga Café<br>",
           "subtitle2": "Utover Yogamatta",
-          "caption2": "Yoga Cafe - Utover Yogamatta<br><br>Opplev en ny verden! Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta. Enten du er kjent med Yoga eller aldri har gjort det før, - du er velkommen. Her blir det mat for både kropp og sjel i en avslappet og inspirerende atmosfære :-)<br><br>Kanskje du er en av mange som er forvirret når det kommer til alle de ulike retningene av yoga?<br>I dette interaktive seminaret kommer vår gjest, internasjonal Yoga og meditasjonsmester Balakhilya das, til å hjelpe oss med å forstå den dypere betydningen av Yoga.<br><br>På Trondheims første Yoga Café (!) får du muligheten til å utvide din oppfatning av yoga, stille spørsmål og oppdage gamle sannheter som hjelper deg med å takle stress og bekymringer. Du får også muligheten til å kjøpe enkel, men deilig hjemmelaget vegetarisk mat.<br><br>PS: Dette er et seminar, så du trenger ikke å ta med yogamatte :)<br>",
+          "caption2": "Yoga Café - Utover Yogamatta<br><br>Opplev en ny verden! Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta. Enten du er kjent med Yoga eller aldri har gjort det før, - du er velkommen. Her blir det mat for både kropp og sjel i en avslappet og inspirerende atmosfære :-)<br><br>Kanskje du er en av mange som er forvirret når det kommer til alle de ulike retningene av yoga?<br>I dette interaktive seminaret kommer vår gjest, internasjonal Yoga og meditasjonsmester Balakhilya das, til å hjelpe oss med å forstå den dypere betydningen av Yoga.<br><br>På Trondheims første Yoga Café (!) får du muligheten til å utvide din oppfatning av yoga, stille spørsmål og oppdage gamle sannheter som hjelper deg med å takle stress og bekymringer. Du får også muligheten til å kjøpe enkel, men deilig hjemmelaget vegetarisk mat.<br><br>PS: Dette er et seminar, så du trenger ikke å ta med yogamatte :)<br>",
           "button2": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">BOOK GRATIS PLASS</a>",
           "media3": {
             "image": {
@@ -2582,7 +2582,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN GRATIS PLASS</a>"
           },
           "media": {
             "image": {
@@ -3489,7 +3489,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-574.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-572.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3583,7 +3583,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN GRATIS PLASS</a>"
           },
           "media": {
             "image": {
@@ -4201,11 +4201,11 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x337-1.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x337.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "oslo.html#extHeader13-21",
+              "link": "pamelding-signup.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -4221,7 +4221,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "oslo.html#extHeader13-21",
+              "link": "pamelding-signup.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -4233,11 +4233,11 @@
           "button2": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">BOOK GRATIS PLASS - OSLO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x3375.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x337.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "hva-skjer.html#msg-box8-7l",
+              "link": "pamelding-signup.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -4568,7 +4568,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN GRATIS PLASS</a>"
           },
           "media": {
             "image": {
@@ -4777,33 +4777,38 @@
           "_anchor": "custom-html-4x"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-4y",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-5d",
           "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/artem-sapegin-2000x1333.jpg",
-            "bgColor": "#a07e49",
+            "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
+            "overlayColor": "#222",
             "showTitle": false,
             "showText": false,
-            "showButtons": false
+            "showButton": false
           },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_customTemplate": true,
