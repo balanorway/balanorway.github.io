@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "yogavisdom.no MB3",
-    "currentPage": "index.html",
+    "currentPage": "oslo.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -650,7 +650,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">MER INFO: OSLO</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN PLASS</a>"
           },
           "media": {
             "image": {
@@ -886,7 +886,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">MER INFO: OSLO</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN PLASS</a>"
           },
           "media": {
             "image": {
@@ -1713,7 +1713,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">MER INFO: OSLO</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN PLASS</a>"
           },
           "media": {
             "image": {
@@ -2582,7 +2582,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">MER INFO: OSLO</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN PLASS</a>"
           },
           "media": {
             "image": {
@@ -3489,7 +3489,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-570.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-571.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3583,7 +3583,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">MER INFO: OSLO</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN PLASS</a>"
           },
           "media": {
             "image": {
@@ -4213,7 +4213,7 @@
           },
           "title1": "Lost in the World",
           "subtitle1": "<span style=\"font-style: normal;\">Om ensomhet</span>",
-          "caption1": "<b>Velkommen til et foredrag om deg!</b><br><b><br></b>Samfunnet vårt utvikler seg raskere enn noensinne, med stadig nye gadgets og forventninger å holde tritt med. Man kan si \"vi er aldri alene - men vi føler oss mer ensomme enn noensinne\". Og selv når du er sammen med din nærmeste familie eller dine beste venner, kan det likevel hende at du kjenner denne gnagende følelsen av tomhet og ensomhet dypt inne i deg. Hvor kommer denne følelsen fra, og hva er det vi faktisk lengter etter?<br><br>Hør verdenskjent Yogavisdom-ekspert og Vedisk lærer Balakhilya das om temaet \"Lost in the World\". Dette opplysende seminaret vil hjelpe deg på veien mot et liv med glede, fred og harmoni.&nbsp;<br>",
+          "caption1": "<b>Velkommen til et foredrag for alle!</b><br><b><br></b>Samfunnet vårt utvikler seg raskere enn noensinne, med stadig nye gadgets og forventninger å holde tritt med. Man kan si \"vi er aldri alene - men vi føler oss mer ensomme enn noensinne\". Og selv når du er sammen med din nærmeste familie eller dine beste venner, kan det likevel hende at du kjenner denne gnagende følelsen av tomhet og ensomhet dypt inne i deg. Hvor kommer denne følelsen fra, og hva er det vi faktisk lengter etter?<br><br>Hør verdenskjent Yogavisdom-ekspert og Vedisk lærer Balakhilya das om temaet \"Lost in the World\". Dette opplysende seminaret vil hjelpe deg på veien mot et liv med glede, fred og harmoni.&nbsp;<br>",
           "button1": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK GRATIS PLASS</a> ",
           "media2": {
             "image": {
@@ -4568,7 +4568,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">MER INFO: OSLO</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN PLASS</a>"
           },
           "media": {
             "image": {
