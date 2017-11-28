@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "yogavisdom.no MB3",
-    "currentPage": "trondheim.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -650,7 +650,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN GRATIS PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">MER INFO: OSLO</a>"
           },
           "media": {
             "image": {
@@ -886,7 +886,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN GRATIS PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">MER INFO: OSLO</a>"
           },
           "media": {
             "image": {
@@ -1219,8 +1219,8 @@
           },
           "title1": "2. DESEMBER",
           "subtitle1": "<span style=\"font-style: normal;\">12:00 Rådhusgata 20, Oslo</span>",
-          "caption1": "Program of the Yoga Day:<br>12:00 – 13:30 Hatha yoga with ralaxation Yoga Nidra<br>13:30 – 13:45 Snacks and tea<br>13:45 – 15:30 Lecture about Yoga lifestyle in connection to Ayurveda (the ancient yoga science about health and harmony) given by Balakhilya das<br>15:30 – 16:00 Meditation with Yoga Sound<br>16:00 - 17:00 Vegetarian dinner and dessert<br><br>Price: 200kr to cover food expenses<br>(Pay when you show up)<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK PLASS</a>",
+          "caption1": "Program of the Yoga Day:<br>12:00 – 13:30 Hatha yoga with relaxation Yoga Nidra<br>13:30 – 13:45 Snacks and tea<br>13:45 – 15:30 Lecture about Yoga lifestyle in connection to Ayurveda (the ancient yoga science about health and harmony) given by Balakhilya das<br>15:30 – 16:00 Meditation with Yoga Sound<br>16:00 - 17:00 Vegetarian dinner and dessert<br><br>Please sign up for the event here and make the payment of 200,- to reserve your seat:<br><a href=\"http://bit.ly/2Ad2cOE\">http://bit.ly/2Ad2cOE</a><br><br>Price: 200kr<br>Bank account: Norges Meditasjonsskole, kto.nr: 6230.05.87602.&nbsp;Please confirm your payment via sms: 45692117 or epost: oslomeditasjon@gmail.com<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://bit.ly/2Ad2cOE\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK PLASS</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/rounded-corners-4-600x337.png",
@@ -1713,7 +1713,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN GRATIS PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">MER INFO: OSLO</a>"
           },
           "media": {
             "image": {
@@ -2582,7 +2582,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN GRATIS PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">MER INFO: OSLO</a>"
           },
           "media": {
             "image": {
@@ -3489,7 +3489,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-572.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-570.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3583,7 +3583,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN GRATIS PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">MER INFO: OSLO</a>"
           },
           "media": {
             "image": {
@@ -4568,7 +4568,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN GRATIS PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">MER INFO: OSLO</a>"
           },
           "media": {
             "image": {
