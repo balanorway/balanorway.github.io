@@ -1090,7 +1090,7 @@ h6,
 }
 #features3-2j H5 {
   font-family: 'Lato', sans-serif;
-  font-size: 17px;
+  font-size: 23px;
 }
 #msg-box5-3b P {
   text-align: right;
@@ -1575,6 +1575,8 @@ h6,
 #extForm1-4q P {
   color: #000000;
 }
+
+
 #menu-4v .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1654,4 +1656,33 @@ h6,
 #msg-box8-5d .mbr-section-title,
 #msg-box8-5d p {
   color: #fff;
+}
+#extFeatures13-5e .etl-icon {
+  color: #ffffff;
+}
+#extFeatures13-5e .mbr-section-title {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 36px;
+  color: #ffffff;
+}
+#extFeatures13-5e .mbr-section-title SPAN {
+  color: #ffffff;
+}
+#extFeatures13-5e SPAN {
+  color: #ffffff;
+  text-align: center;
+}
+#extFeatures13-5e P {
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+}
+#extFeatures13-5e H4 {
+  color: #f3c649;
+}
+#extFeatures13-5e .date SPAN {
+  font-size: 23px;
+}
+#extFeatures13-5e .date P {
+  font-size: 23px;
 }
