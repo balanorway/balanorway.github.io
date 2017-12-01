@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 194,
+    "uniqCompNum": 195,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1218,8 +1218,8 @@
             }
           },
           "title1": "2. DESEMBER",
-          "subtitle1": "<span style=\"font-style: normal;\">12:00 Rådhusgata 20, Oslo</span>",
-          "caption1": "Program of the Yoga Day:<br>12:00 – 13:30 Hatha yoga with relaxation Yoga Nidra<br>13:30 – 13:45 Snacks and tea<br>13:45 – 15:30 Lecture about Yoga lifestyle in connection to Ayurveda (the ancient yoga science about health and harmony) given by Balakhilya das<br>15:30 – 16:00 Meditation with Yoga Sound<br>16:00 - 17:00 Vegetarian dinner and dessert<br><br>Please sign up for the event here and make the payment of 200,- to reserve your seat:<br><a href=\"http://bit.ly/2Ad2cOE\">http://bit.ly/2Ad2cOE</a><br><br>Price: 200kr<br>Bank account: Norges Meditasjonsskole, kto.nr: 6230.05.87602.&nbsp;Please confirm your payment via sms: 45692117 or epost: oslomeditasjon@gmail.com<br>",
+          "subtitle1": "<span style=\"font-style: normal;\">Vinderen Skole, Haakon den Godes vei 17</span>",
+          "caption1": "Program of the Yoga Day:<br>12:00 – 13:30 Hatha yoga with relaxation Yoga Nidra<br>13:30 – 13:45 Snacks and tea<br>13:45 – 15:30 Lecture about Yoga lifestyle in connection to Ayurveda (the ancient yoga science about health and harmony) given by Balakhilya das<br>15:30 – 16:00 Meditation with Yoga Sound<br>16:00 - 17:00 Vegetarian dinner and dessert<br><br><b>The new address is:</b><br><span style=\"font-size: 18px; line-height: 1.5;\">Vinderen Skole, Haakon den Godes vei 17, 0373 Oslo</span><br><br>- 2 min walk from Vinderen metro station<br>- Free parking place for everybody<br>- 3 metro stations from the center of Oslo<br><br>Please sign up for the event here and make the payment of 200,- to reserve your seat:<br><a href=\"http://bit.ly/2Ad2cOE\">http://bit.ly/2Ad2cOE</a><br><br>Price: 200kr<br>Bank account: Norges Meditasjonsskole, kto.nr: 6230.05.87602.&nbsp;Please confirm your payment via sms: 45692117 or epost: oslomeditasjon@gmail.com<br><br>If you have yoga mat please take it :)<br>",
           "button1": "<a data-app-btn=\"true\" href=\"http://bit.ly/2Ad2cOE\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK PLASS</a>",
           "media2": {
             "image": {
@@ -1914,7 +1914,7 @@
             "H5": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "17px"
+              "font-size": "23px"
             }
           },
           "_anchor": "features3-2j",
@@ -1952,8 +1952,8 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Lost in the World",
-          "subtitle1": "Om Ensomhet",
+          "title1": "5. desember",
+          "subtitle1": "<b style=\"font-style: normal;\">Lost in the World<br></b><span style=\"font-style: normal;\">18:00 Kjøpmannsgt 12</span>",
           "caption1": "Velkommen til en forelesning for oss alle!<br><br>Vårt samfunn utvikler seg raskere enn noensinne, alltid med ny teknologi og gadgets, og stiller stadig nye forventninger. Vi bruker twitter, snapchat, facebook, er tilgjengelig både online og offline - men fortsatt så opplever 4 av 10 nordmenn ensomhet (SSB 2015). Det har til og med kommet til det punktet hvor man kan hevde at \"vi er aldri alene - men vi føler oss mer ensomme enn noensinne.\" Selv når du er sammen med nær familie eller gode venner kan du fortsatt føle deg tom og ensom innvendig.<br><br>Så hva er det vi lengter etter, og hvor kan det bli funnet?<br><br>Hør den verdenskjente eksperten i yoga-vitenskap, Balakhilya das, snakke om temaet \"Fortapt i verden\". Kom og opplev selv hvordan denne gamle og dype visdommen kan hjelpe deg å løse dine personlige problemer. Med en dyp innsikt og kunnskap kommer Balakhilya das hjelpe deg på veien mot et liv fullt av glede, fred og harmoni.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK GRATIS PLASS</a>",
           "media2": {
@@ -1968,8 +1968,8 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Pop-up Yoga Café<br>",
-          "subtitle2": "Utover Yogamatta",
+          "title2": "6 desember<br>",
+          "subtitle2": "<span style=\"font-style: normal;\"><b>Pop-up Yoga Café<br></b>14:00 Kjøpmannsgt 12</span>",
           "caption2": "Yoga Café - Utover Yogamatta<br><br>Opplev en ny verden! Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta. Enten du er kjent med Yoga eller aldri har gjort det før, - du er velkommen. Her blir det mat for både kropp og sjel i en avslappet og inspirerende atmosfære :-)<br><br>Kanskje du er en av mange som er forvirret når det kommer til alle de ulike retningene av yoga?<br>I dette interaktive seminaret kommer vår gjest, internasjonal Yoga og meditasjonsmester Balakhilya das, til å hjelpe oss med å forstå den dypere betydningen av Yoga.<br><br>På Trondheims første Yoga Café (!) får du muligheten til å utvide din oppfatning av yoga, stille spørsmål og oppdage gamle sannheter som hjelper deg med å takle stress og bekymringer. Du får også muligheten til å kjøpe enkel, men deilig hjemmelaget vegetarisk mat.<br><br>PS: Dette er et seminar, så du trenger ikke å ta med yogamatte :)<br>",
           "button2": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">BOOK GRATIS PLASS</a>",
           "media3": {
@@ -1984,8 +1984,8 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Yoga Day Retreat",
-          "subtitle3": "Yoga, meditasjon, og seminar med Balakhilya das",
+          "title3": "16. desember",
+          "subtitle3": "<span style=\"font-style: normal;\"><b>Yoga Day Retreat<br></b>Storbuan Økosamfunn</span>",
           "caption3": "Yoga er ikke bare fysiske øvelser, det er helhetlig livsstil som inkluderer mange aspekter for å leve et bedre liv. Det er en praktisk og hjelpsom vei til indre lykke!<br><br>Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Du kommer til å møte og kunne lære fra Balakhilya das, respektert autoritet på vedisk kunnskap og yoga-filosofien. Han presenterer dype og åndelig teori og praksis på måter som er forståelig og oppnåelig av hver enkelt person.<br><br>Du vil lære deg hvordan du enkelt kan legge til yoga og meditasjon i ditt eget liv, og dermed oppleve alle fordelene med denne livsstilen. Sammen kommer vi til å praktisere enkle meditasjonsteknikker, pusteøvelser med mantra, yoga asanas (øvelser) for både nybegynnere og viderekommende, guidet dyp avspenning, med mer. Vi arrangerer dessuten live musikkmeditasjon - en favoritt for mange.<br>Det vil også bli servert deilig vegetarmat :)<br>Velkommen!",
           "button3": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING<br></a>",
           "media4": {
@@ -2891,7 +2891,7 @@
             }
           },
           "title1": "<a href=\"en.html#extHeader13-2m\">Yoga Day Retreat</a>",
-          "text1": "<span style=\"font-style: normal;\">This retreat is an opportunity for you who really want to find harmony on all levels - body, mind, and soul. With soothing yoga, simple meditation, live music, tasty vegetarian food, and seminar with Balakhilya das.<br><b>12:00 Rådhusgata 20</b></span><b>,&nbsp;<span style=\"font-style: normal;\">Oslo</span></b><br>",
+          "text1": "<span style=\"font-style: normal;\">This retreat is an opportunity for you who really want to find harmony on all levels - body, mind, and soul. With soothing yoga, simple meditation, live music, tasty vegetarian food, and seminar with Balakhilya das.<br></span><b><span style=\"font-style: normal;\">Oslo</span></b><br>",
           "date2": "<span style=\"font-style: normal;\">5 december<br></span><br>",
           "title2": "<a href=\"en.html#extHeader13-2m\">Seminar about Karma</a>",
           "text2": "<span style=\"font-style: normal;\">When you look at the world, many things may seem unfair. Why do actually bad things happen to good or even innocent people? In this seminar, Balakhilya das explores the problem of karma &amp; suffering, and sheds light on a profound solution to this very real issue that all of us are faced with.&nbsp;Free entrance.<br><b>18:00 Litteraturhuset</b></span><b>,&nbsp;<span style=\"font-style: normal;\">Wergelandsveien</span> <span style=\"font-style: normal;\">29</span>,&nbsp;<span style=\"font-style: normal;\">Oslo</span></b><br>",
@@ -3489,7 +3489,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-571.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-570.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -4001,7 +4001,7 @@
             }
           },
           "title1": "<a href=\"oslo.html\">Yoga Day Retreat</a>",
-          "text1": "<span style=\"font-style: normal;\">Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Med yoga, meditasjon, live musikk, vegetarmat, og seminar med&nbsp;Balakhilya das.<br><b>12:00 Rådhusgata 20,&nbsp;Oslo</b></span><br>",
+          "text1": "<span style=\"font-style: normal;\">Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Med yoga, meditasjon, live musikk, vegetarmat, og seminar med&nbsp;Balakhilya das.</span><br>",
           "date2": "<span style=\"font-style: normal;\">5 desember<br></span><br>",
           "title2": "<a href=\"oslo.html\">Seminar om Karma</a>",
           "text2": "<span style=\"font-style: normal;\">Hvorfor forferdelige ting skjer med gode eller uskyldige mennesker,&nbsp;og hvordan vi kan leve i denne verden uten å skape karma.&nbsp;Gratis inngang.</span><br><div style=\"text-align: left;\"><b><span style=\"line-height: 1.5; font-style: normal;\">18:00 Litteraturhuset</span><span style=\"line-height: 1.5;\">,&nbsp;</span><span style=\"line-height: 1.5; font-style: normal;\">Wergelandsveien</span><span style=\"text-align: left; line-height: 1.5;\"> </span><span style=\"line-height: 1.5; font-style: normal;\">29</span><span style=\"line-height: 1.5;\">,&nbsp;</span><span style=\"line-height: 1.5; font-style: normal;\">Oslo</span></b></div>",
@@ -4823,6 +4823,233 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_anchor": "custom-html-5a"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures13",
+          "_styles": {
+            ".etl-icon": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "36px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "18px"
+            },
+            "H4": {
+              "color": "#f3c649"
+            },
+            ".date SPAN": {
+              "font-size": "23px"
+            },
+            ".date P": {
+              "font-size": "23px"
+            }
+          },
+          "_anchor": "extFeatures13-5e",
+          "_params": {
+            "iconsColor": "#ffffff",
+            "blocks": "6",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader14-bg-22.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showSubtitle": false,
+            "showDates": true
+          },
+          "mainTitle": "<span style=\"font-weight: normal;\">BALAKHILYA DAS </span><br><span style=\"font-weight: normal;\">NORGE 2017</span>",
+          "mainSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "date1": "<span style=\"font-style: normal;\">2 desember</span><br>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
+              "name": "leaf-1",
+              "family": "icon54",
+              "active": true,
+              "size": "1",
+              "color": "#41a85f"
+            }
+          },
+          "title1": "<a href=\"oslo.html\">Yoga Day Retreat</a>",
+          "text1": "<span style=\"font-style: normal;\">Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Med yoga, meditasjon, live musikk, vegetarmat, og seminar med&nbsp;Balakhilya das.<br><b>12:00 Rådhusgata 20,&nbsp;Oslo</b></span><br>",
+          "date2": "<span style=\"font-style: normal;\">5 desember<br></span><br>",
+          "title2": "<a href=\"oslo.html\">Seminar om Karma</a>",
+          "text2": "<span style=\"font-style: normal;\">Hvorfor forferdelige ting skjer med gode eller uskyldige mennesker,&nbsp;og hvordan vi kan leve i denne verden uten å skape karma.&nbsp;Gratis inngang.</span><br><div style=\"text-align: left;\"><b><span style=\"line-height: 1.5; font-style: normal;\">18:00 Litteraturhuset</span><span style=\"line-height: 1.5;\">,&nbsp;</span><span style=\"line-height: 1.5; font-style: normal;\">Wergelandsveien</span><span style=\"text-align: left; line-height: 1.5;\"> </span><span style=\"line-height: 1.5; font-style: normal;\">29</span><span style=\"line-height: 1.5;\">,&nbsp;</span><span style=\"line-height: 1.5; font-style: normal;\">Oslo</span></b></div>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "three-arrowfork",
+              "family": "iconsMind",
+              "active": true,
+              "size": "1",
+              "color": "#41a85f"
+            }
+          },
+          "date3": "<span style=\"font-style: normal;\">6 desember</span><br>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "question",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": "1",
+              "color": "#41a85f"
+            }
+          },
+          "title3": "<a href=\"oslo.html\">Foredrag: Lost in the World</a>",
+          "text3": "<span style=\"font-style: normal;\">Folk liker å ha folk rundt seg, ting som skjer hele tiden. Men hvorfor opplever mange ensomhet - selv i en gruppe med venner eller familie? <br></span>Velkommen til et foredrag om deg!<br><span style=\"font-style: normal;\">Gratis inngang. <br><b>18:00 Litteraturhuset,&nbsp;Wergelandsveien 29,&nbsp;Oslo</b></span><b>&nbsp;</b><br>",
+          "date4": "<span style=\"font-style: normal;\">9 desember</span><br>",
+          "title4": "<a href=\"trondheim.html\">Foredrag: Lost in the World</a>",
+          "text4": "<span style=\"font-style: normal;\">Folk liker å ha folk rundt seg, ting som skjer hele tiden. Men hvorfor opplever mange ensomhet - selv i en gruppe med venner eller familie?<br></span>Velkommen til et foredrag om deg!<br><span style=\"font-style: normal;\">Gratis inngang.</span><br><span style=\"font-style: normal;\"><b>18:00 Kjøpmannsgata 12,&nbsp;Trondheim</b><br></span>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "people-oncloud",
+              "family": "iconsMind",
+              "active": true,
+              "size": "1",
+              "color": "#41a85f"
+            }
+          },
+          "date5": "<span style=\"font-style: normal;\">10 desember</span>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "laptop",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": "1",
+              "color": "#efefef"
+            }
+          },
+          "title5": "<a href=\"trondheim.html\">Pop-up Yoga Café</a>",
+          "text5": "Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta! Enten du er kjent med Yoga eller aldri har gjort det før, - du er velkommen. Det blir blant annet seminar med yoga- og meditasjonsmester Balakhilya das.&nbsp;<span style=\"font-style: normal;\">Muligheter til å kjøpe delig hjemmelaget vegetarmat på eventen.<br>Gratis inngang.<br><b>14:00 Kongens gate 55,&nbsp;Trondheim</b></span><br>",
+          "date6": "<span style=\"font-style: normal;\">16 desember</span>",
+          "title6": "<a href=\"http://tmy.no/retreat\">Yoga Day Retreat</a>",
+          "text6": "<span style=\"font-style: normal;\">Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Med yoga, meditasjon, live musikk, vegetarmat, og seminar med Balakhilya das.<br><b>10:00 - 16:00 Storbuan Økosamfunn,&nbsp;Trondheim</b></span>",
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
+              "name": "question",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": "1",
+              "color": "#efefef"
+            }
+          },
+          "date7": "7 July 2016",
+          "media7": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "upload",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title7": "7. Responsive Design",
+          "text7": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date8": "8 August 2016",
+          "title8": "8. Smart Watch",
+          "text8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media8": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "date9": "9 September 2016",
+          "media9": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title9": "9. Design out of the box",
+          "text9": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date10": "10 October 2016",
+          "title10": "10. Awesome Reports",
+          "text10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media10": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "date11": "11 November 2016",
+          "media11": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title11": "11. Design out of the box",
+          "text11": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date12": "12 December 2016",
+          "title12": "12. Awesome Reports",
+          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media12": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "bottomTitle": "<span style=\"font-weight: normal;\">NORGESBESØK<br>AVSLUTTES</span>"
         }
       ]
     }
