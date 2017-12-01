@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "yogavisdom.no MB3",
-    "currentPage": "oslo.html",
+    "currentPage": "en.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -650,7 +650,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
           },
           "media": {
             "image": {
@@ -886,7 +886,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
           },
           "media": {
             "image": {
@@ -1713,7 +1713,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
           },
           "media": {
             "image": {
@@ -2582,7 +2582,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
           },
           "media": {
             "image": {
@@ -2947,7 +2947,7 @@
             }
           },
           "title5": "<a href=\"en.html#extHeader13-2n\">Pop-up Yoga Café</a>",
-          "text5": "<span style=\"font-style: normal;\">Let’s go beyond the yoga mat: What is the point of doing yoga? And how can I find harmony and joy in my life through the yoga lifestyle? This evening is a chance for yoga practitioners and others to meet &nbsp;international yoga wisdom expert Balakhilya das.<br>Free entrance.<br><b>14:00 Kongens gate 55</b></span><b>,&nbsp;<span style=\"font-style: normal;\">Trondheim</span></b><br>",
+          "text5": "<span style=\"font-style: normal;\">Let’s go beyond the yoga mat: What is the point of doing yoga? And how can I find harmony and joy in my life through the yoga lifestyle? This evening is a chance for yoga practitioners and others to meet &nbsp;international yoga wisdom expert Balakhilya das.<br>Free entrance.<br></span><b><span style=\"font-style: normal;\">Kjøpmannsgata 12,</span>&nbsp;<span style=\"font-style: normal;\">Trondheim</span></b><br>",
           "date6": "<span style=\"font-style: normal;\">16 december</span>",
           "title6": "<a href=\"http://tmy.no/retreat-en\">Yoga Day Retreat</a>",
           "text6": "<span style=\"font-style: normal;\">This retreat is an opportunity for you who really want to find harmony on all levels - body, mind, and soul. With soothing yoga, simple meditation, live music, tasty vegetarian food, and seminar with Balakhilya das.<br><b>10:00 - 16:00 Storbuan Økosamfunn,&nbsp;Trondheim</b></span>",
@@ -3090,51 +3090,51 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x337-6.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "oslo.html#extHeader13-21",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Lost in the World",
-          "subtitle1": "About Loneliness",
-          "caption1": "Our society is progressing faster than ever, always with new gadgets and expectation to keep up with. We are constantly available both online and offline - and still 4 out of 10 Norwegians experience loneliness. One could say “We are never alone - but we feel more lonely than ever.” And even when you are with your close family or best friends - you may still sometimes have this gnawing feeling of emptiness and loneliness deep inside of you. <br><br>Where is this feeling coming from, and what is it that we are actually longing for?&nbsp;Hear world-known Yoga Wisdom expert and Vedic teacher Balakhilya das speak on “Lost in the World”. This enlightening seminar will help you on the path towards a life of joy, peace, and harmony. <br>This may just change your life!<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK FREE SEAT</a> ",
-          "media2": {
-            "image": {
               "src": "@PROJECT_PATH@/assets/images/rounded-corners-4-600x337.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "oslo.html#extHeader13-21",
+              "link": "pamelding-signup.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "title2": "Karma<br>",
-          "subtitle2": "Why Bad Things Happen to Good People",
-          "caption2": "<b>When you look at the world, many things may seem unfair.&nbsp;Why do bad things happen to good or innocent people?</b><br><br>Most of us have heard of the law of karma, which is described by familiar sayings like, “what goes around comes around,” and “as you sow, so shall you reap.” Come hear Balakhilya das, Vedic teacher and expert in the Yoga Wisdom, unravel the secret of Karma and suffering!<br><br>You will get clear and profound answers<br>to questions such as:<br>- What can I do to relieve the suffering of others?<br>- How is the law of karma working, and how does it affect me?<br>- How can I live a life without creating karma?<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BOOK FREE SEAT - OSLO</a>",
-          "media3": {
+          "title1": "Karma",
+          "subtitle1": "5 December in Oslo",
+          "caption1": "When you look at the world, many things may seem unfair. Why do bad things happen to good or innocent people?<br><br>Most of us have heard of the law of karma, which is described by familiar sayings like, “what goes around comes around,” and “as you sow, so shall you reap.” Come hear Balakhilya das, Vedic teacher and expert in the Yoga Wisdom, unravel the secret of Karma and suffering!<br><br>You will get clear and profound answers<br>to questions such as:<br>- What can I do to relieve the suffering of others?<br>- How is the law of karma working, and how does it affect me?<br>- How can I live a life without creating karma?<br><br>5 December 18:00<br>Litteraturhuset, Wergelandsveien 29<br>Oslo<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK FREE SEAT - OSLO</a> ",
+          "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x337-5.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x337.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "hva-skjer.html#msg-box8-7l",
+              "link": "pamelding-signup.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Lost in the World<br>",
+          "subtitle2": "6 December in Oslo<div>9 December in Trondheim</div>",
+          "caption2": "Our society is progressing faster than ever, always with new gadgets and expectation to keep up with. We are constantly available both online and offline - and still 4 out of 10 Norwegians experience loneliness. One could say “We are never alone - but we feel more lonely than ever.” And even when you are with your close family or best friends - you may still sometimes have this gnawing feeling of emptiness and loneliness deep inside of you. <br><br>Where is this feeling coming from, and what is it that we are actually longing for? Hear world-known Yoga Wisdom expert and Vedic teacher Balakhilya das speak on “Lost in the World”. This enlightening seminar will help you on the path towards a life of joy, peace, and harmony. <br>This may just change your life!<br><br><b>Oslo:</b> 5 December 18:00<br>Litteraturhuset, Wergelandsveien 29<br><b>Trondheim:</b> 9 December 18:00<br>Kjøpmannsgata 12",
+          "button2": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BOOK FREE SEAT</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x337.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "pamelding-signup.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             }
           },
           "title3": "Pop-up Yoga Cafe",
-          "subtitle3": "Beyond the Yoga Mat",
-          "caption3": "Experience the world of Yoga - discover how there is much more to it than what goes on on the Yoga mat! No matter if you have done Yoga before or not, this seminar is for you. There will be food for both body and soul in a relaxed and inspiring atmosphere.<br><br>In this interactive seminar our special guest speaker, - international Yoga and meditation master Balakhilya das, will help us understand the deeper meaning of Yoga.<br><br>At Trondheim’s first Yoga Café you will get the chance to broaden your perception of Yoga, ask questions, and discover ancient truths that help you relieve stress and worries. You will also get the possibility to buy simple yet delicious homemade vegatarian food.<br><br>",
+          "subtitle3": "10 December in Trondheim",
+          "caption3": "Experience the world of Yoga - discover how there is much more to it than what goes on on the Yoga mat! No matter if you have done Yoga before or not, this seminar is for you. There will be food for both body and soul in a relaxed and inspiring atmosphere.<br><br>In this interactive seminar our special guest speaker, - international Yoga and meditation master Balakhilya das, will help us understand the deeper meaning of Yoga.<br><br>At Trondheim’s first Yoga Café you will get the chance to broaden your perception of Yoga, ask questions, and discover ancient truths that help you relieve stress and worries. You will also get the possibility to buy simple yet delicious homemade vegatarian food.<br><br>10 December<br>Kjøpmannsgata 12<br>",
           "button3": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">BOOK FREE SEAT - TRONDHEIM</a>",
           "media4": {
             "image": {
@@ -3489,7 +3489,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-570.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-571.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3583,7 +3583,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
           },
           "media": {
             "image": {
@@ -4173,7 +4173,7 @@
             "H5": {
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "17px"
+              "font-size": "19px"
             }
           },
           "_anchor": "features3-2r",
@@ -4201,22 +4201,6 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x337.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "pamelding-signup.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Lost in the World",
-          "subtitle1": "<span style=\"font-style: normal;\">Om ensomhet</span>",
-          "caption1": "<b>Velkommen til et foredrag for alle!</b><br><b><br></b>Samfunnet vårt utvikler seg raskere enn noensinne, med stadig nye gadgets og forventninger å holde tritt med. Man kan si \"vi er aldri alene - men vi føler oss mer ensomme enn noensinne\". Og selv når du er sammen med din nærmeste familie eller dine beste venner, kan det likevel hende at du kjenner denne gnagende følelsen av tomhet og ensomhet dypt inne i deg. Hvor kommer denne følelsen fra, og hva er det vi faktisk lengter etter?<br><br>Hør verdenskjent Yogavisdom-ekspert og Vedisk lærer Balakhilya das om temaet \"Lost in the World\". Dette opplysende seminaret vil hjelpe deg på veien mot et liv med glede, fred og harmoni.&nbsp;<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK GRATIS PLASS</a> ",
-          "media2": {
-            "image": {
               "src": "@PROJECT_PATH@/assets/images/rounded-corners-4-600x337.png",
               "class": "card-img-top",
               "width": 600,
@@ -4227,9 +4211,25 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Karma<br>",
-          "subtitle2": "Hvorfor forferdelige ting skjer med gode mennesker",
-          "caption2": "<b>Når vi ser på verden vår kan mange ting virke veldig urettferdig. </b><b>Hvorfor skjer forferdelige ting med gode eller uskyldige mennesker?<br><br></b>De fleste av oss har hørt om karma, som blir beskrevet gjennom utsagn som \"what goes around, comes around\", og \"man høster som man sår.\" Få med deg dette foredraget av Balakhilya das, Vedisk lærer og ekspert i Yogavisdom, og få innblikk i hemmeligheten om karma og lidelse.<br><br>Du vil få klare og utdypende svar på spørsmål som:<br>- Hva kan jeg gjøre for å hindre at andre lider?<br>- Hvordan fungerer loven om karma, og hvordan påvirker den meg?<br>- Hvordan kan jeg leve et liv uten å skape karma?<br>",
+          "title1": "Karma",
+          "subtitle1": "<span style=\"font-style: normal;\">5. desember i Oslo<br></span>",
+          "caption1": "Når vi ser på verden vår kan mange ting virke veldig urettferdig. Hvorfor skjer forferdelige ting med gode eller uskyldige mennesker?<br><br>De fleste av oss har hørt om karma, som blir beskrevet gjennom utsagn som \"what goes around, comes around\", og \"man høster som man sår.\" Få med deg dette foredraget av Balakhilya das, Vedisk lærer og ekspert i Yogavisdom, og få innblikk i hemmeligheten om karma og lidelse.<br><br>Du vil få klare og utdypende svar på spørsmål som:<br>- Hva kan jeg gjøre for å hindre at andre lider?<br>- Hvordan fungerer loven om karma, og hvordan påvirker den meg?<br>- Hvordan kan jeg leve et liv uten å skape karma?<br><br>Oslo 5. desember, 18:00<br>Litteraturhuset, Wergelandsveien 29<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK GRATIS PLASS</a> ",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x337.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "pamelding-signup.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Lost in the World<br>",
+          "subtitle2": "6. desember i Oslo<br>9. desember i Trondheim<br>",
+          "caption2": "<span style=\"line-height: 1.5;\">Samfunnet vårt utvikler seg raskere enn noensinne, med stadig nye gadgets og forventninger å holde tritt med. Man kan si \"vi er aldri alene - men vi føler oss mer ensomme enn noensinne\". Og selv når du er sammen med din nærmeste familie eller dine beste venner, kan det likevel hende at du kjenner denne gnagende følelsen av tomhet og ensomhet dypt inne i deg. Hvor kommer denne følelsen fra, og hva er det vi faktisk lengter etter?</span><br><br>Hør verdenskjent Yogavisdom-ekspert og Vedisk lærer Balakhilya das om temaet \"Lost in the World\". Dette opplysende seminaret vil hjelpe deg på veien mot et liv med glede, fred og harmoni. <br><br><b>Oslo:</b> 6. desember, 18:00<br>Litteraturhuset, Wergelandsveien 29<br><b>Trondheim:</b> 9. desember, 18:00<br>Kjøpmannsgata 12<br>",
           "button2": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">BOOK GRATIS PLASS - OSLO</a>",
           "media3": {
             "image": {
@@ -4244,8 +4244,8 @@
             }
           },
           "title3": "Pop-up Yoga Cafe",
-          "subtitle3": "<span style=\"font-style: normal;\">Utover Yogamatta</span>",
-          "caption3": "<span style=\"line-height: 1.5;\">Opplev en ny verden!&nbsp;</span><span style=\"line-height: 1.5;\">Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta. Her blir det mat for både kropp og sjel i en avslappet og inspirerende atmosfære.</span><br><br>I dette interaktive seminaret kommer vår gjest, internasjonal Yoga og meditasjonsmester Balakhilya das, til å hjelpe oss med å forstå den dypere betydningen av Yoga. <span style=\"line-height: 1.5;\">På Trondheims første Yoga Café (!) får du muligheten til å utvide din oppfatning av yoga, stille spørsmål og oppdage gamle sannheter som hjelper deg med å takle stress og bekymringer. Du får også muligheten til å kjøpe enkel, men deilig hjemmelaget vegetarisk mat.</span><br><br>P.S. Du trenger ikke å ta med yogamatte :)<br>",
+          "subtitle3": "<span style=\"font-style: normal;\">10. desember i Trondheim<br></span>",
+          "caption3": "<span style=\"line-height: 1.5;\">Opplev en ny verden!&nbsp;</span><span style=\"line-height: 1.5;\">Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta. Her blir det mat for både kropp og sjel i en avslappet og inspirerende atmosfære.</span><br><br>I dette interaktive seminaret kommer vår gjest, internasjonal Yoga og meditasjonsmester Balakhilya das, til å hjelpe oss med å forstå den dypere betydningen av Yoga. <span style=\"line-height: 1.5;\">På Trondheims første Yoga Café (!) får du muligheten til å utvide din oppfatning av yoga, stille spørsmål og oppdage gamle sannheter som hjelper deg med å takle stress og bekymringer. Du får også muligheten til å kjøpe enkel, men deilig hjemmelaget vegetarisk mat.</span><br><br>P.S. Du trenger ikke å ta med yogamatte :)<br><br>Trondheim 10. desember<br>Kjøpmannsgata 12<br>",
           "button3": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BOOK GRATIS PLASS - TRONDHEIM</a>",
           "media4": {
             "image": {
@@ -4568,7 +4568,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\">BOOK DIN PLASS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
           },
           "media": {
             "image": {
