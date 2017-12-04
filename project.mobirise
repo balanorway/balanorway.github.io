@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "yogavisdom.no MB3",
-    "currentPage": "en.html",
+    "currentPage": "pamelding-signup.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -428,10 +428,10 @@
             }
           },
           "title5": "<a href=\"trondheim.html\">Pop-up Yoga Café</a>",
-          "text5": "Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta! Enten du er kjent med Yoga eller aldri har gjort det før, - du er velkommen. Det blir blant annet seminar med yoga- og meditasjonsmester Balakhilya das.&nbsp;<span style=\"font-style: normal;\">Muligheter til å kjøpe delig hjemmelaget vegetarmat på eventen.<br>Gratis inngang.<br><b>14:00 Kongens gate 55,&nbsp;Trondheim</b></span><br>",
+          "text5": "Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta! Enten du er kjent med Yoga eller aldri har gjort det før, - du er velkommen. Det blir blant annet seminar med yoga- og meditasjonsmester Balakhilya das.&nbsp;<span style=\"font-style: normal;\">Muligheter til å kjøpe delig hjemmelaget vegetarmat på eventen.<br>Gratis inngang.<br><b>14:00 Kjøpmannsgata 12,&nbsp;Trondheim</b></span><br>",
           "date6": "<span style=\"font-style: normal;\">16 desember</span>",
           "title6": "<a href=\"http://tmy.no/retreat\">Yoga Day Retreat</a>",
-          "text6": "<span style=\"font-style: normal;\">Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Med yoga, meditasjon, live musikk, vegetarmat, og seminar med Balakhilya das.<br><b>10:00 - 16:00 Storbuan Økosamfunn,&nbsp;Trondheim</b></span>",
+          "text6": "<span style=\"font-style: normal;\">Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Med yoga, meditasjon, live musikk, vegetarmat, og seminar med Balakhilya das.<br><b>10:00 - 20:00 Storbuan Økosamfunn,&nbsp;Trondheim</b></span>",
           "media6": {
             "iconFont": {
               "class": "mbr-iconfont-extFeatures2",
@@ -650,7 +650,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "media": {
             "image": {
@@ -886,7 +886,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "media": {
             "image": {
@@ -1713,7 +1713,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "media": {
             "image": {
@@ -1969,7 +1969,7 @@
             }
           },
           "title2": "6 desember<br>",
-          "subtitle2": "<span style=\"font-style: normal;\"><b>Pop-up Yoga Café<br></b>14:00 Kjøpmannsgt 12</span>",
+          "subtitle2": "<span style=\"font-style: normal;\"><b>Pop-up Yoga Café<br></b>14:00 Kjøpmannsgata 12</span>",
           "caption2": "Yoga Café - Utover Yogamatta<br><br>Opplev en ny verden! Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta. Enten du er kjent med Yoga eller aldri har gjort det før, - du er velkommen. Her blir det mat for både kropp og sjel i en avslappet og inspirerende atmosfære :-)<br><br>Kanskje du er en av mange som er forvirret når det kommer til alle de ulike retningene av yoga?<br>I dette interaktive seminaret kommer vår gjest, internasjonal Yoga og meditasjonsmester Balakhilya das, til å hjelpe oss med å forstå den dypere betydningen av Yoga.<br><br>På Trondheims første Yoga Café (!) får du muligheten til å utvide din oppfatning av yoga, stille spørsmål og oppdage gamle sannheter som hjelper deg med å takle stress og bekymringer. Du får også muligheten til å kjøpe enkel, men deilig hjemmelaget vegetarisk mat.<br><br>PS: Dette er et seminar, så du trenger ikke å ta med yogamatte :)<br>",
           "button2": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">BOOK GRATIS PLASS</a>",
           "media3": {
@@ -1985,7 +1985,7 @@
             }
           },
           "title3": "16. desember",
-          "subtitle3": "<span style=\"font-style: normal;\"><b>Yoga Day Retreat<br></b>Storbuan Økosamfunn</span>",
+          "subtitle3": "<span style=\"font-style: normal;\"><b>Yoga Day Retreat<br></b>10:00-20:00 Storbuan Økosamfunn</span>",
           "caption3": "Yoga er ikke bare fysiske øvelser, det er helhetlig livsstil som inkluderer mange aspekter for å leve et bedre liv. Det er en praktisk og hjelpsom vei til indre lykke!<br><br>Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Du kommer til å møte og kunne lære fra Balakhilya das, respektert autoritet på vedisk kunnskap og yoga-filosofien. Han presenterer dype og åndelig teori og praksis på måter som er forståelig og oppnåelig av hver enkelt person.<br><br>Du vil lære deg hvordan du enkelt kan legge til yoga og meditasjon i ditt eget liv, og dermed oppleve alle fordelene med denne livsstilen. Sammen kommer vi til å praktisere enkle meditasjonsteknikker, pusteøvelser med mantra, yoga asanas (øvelser) for både nybegynnere og viderekommende, guidet dyp avspenning, med mer. Vi arrangerer dessuten live musikkmeditasjon - en favoritt for mange.<br>Det vil også bli servert deilig vegetarmat :)<br>Velkommen!",
           "button3": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING<br></a>",
           "media4": {
@@ -2360,10 +2360,10 @@
             }
           },
           "title5": "<a href=\"pamelding-signup.html\">Pop-up Yoga Café</a>",
-          "text5": "Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta! Enten du er kjent med Yoga eller aldri har gjort det før, - du er velkommen. Det blir blant annet seminar med yoga- og meditasjonsmester Balakhilya das.&nbsp;<span style=\"font-style: normal;\">Muligheter til å kjøpe delig hjemmelaget vegetarmat på eventen.<br>Gratis inngang.<br><b>14:00 Kongens gate 55,&nbsp;Trondheim</b></span><br>",
+          "text5": "Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta! Enten du er kjent med Yoga eller aldri har gjort det før, - du er velkommen. Det blir blant annet seminar med yoga- og meditasjonsmester Balakhilya das.&nbsp;<span style=\"font-style: normal;\">Muligheter til å kjøpe delig hjemmelaget vegetarmat på eventen.<br>Gratis inngang.<br><b>14:00 Kjøpmannsgata 12,&nbsp;Trondheim</b></span><br>",
           "date6": "<span style=\"font-style: normal;\">16 desember</span>",
           "title6": "<a href=\"pamelding-signup.html\">Yoga Day Retreat</a>",
-          "text6": "<span style=\"font-style: normal;\">Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Med yoga, meditasjon, live musikk, vegetarmat, og seminar med Balakhilya das.<br></span><b style=\"font-style: normal;\">10:00 - 16:00 Storbuan Økosamfunn,&nbsp;Trondheim</b>",
+          "text6": "<span style=\"font-style: normal;\">Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Med yoga, meditasjon, live musikk, vegetarmat, og seminar med Balakhilya das.<br></span><b style=\"font-style: normal;\">10:00 - 20:00 Storbuan Økosamfunn,&nbsp;Trondheim</b>",
           "media6": {
             "iconFont": {
               "class": "mbr-iconfont-extFeatures2",
@@ -2582,7 +2582,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "media": {
             "image": {
@@ -2947,10 +2947,10 @@
             }
           },
           "title5": "<a href=\"en.html#extHeader13-2n\">Pop-up Yoga Café</a>",
-          "text5": "<span style=\"font-style: normal;\">Let’s go beyond the yoga mat: What is the point of doing yoga? And how can I find harmony and joy in my life through the yoga lifestyle? This evening is a chance for yoga practitioners and others to meet &nbsp;international yoga wisdom expert Balakhilya das.<br>Free entrance.<br></span><b><span style=\"font-style: normal;\">Kjøpmannsgata 12,</span>&nbsp;<span style=\"font-style: normal;\">Trondheim</span></b><br>",
+          "text5": "<span style=\"font-style: normal;\">Let’s go beyond the yoga mat: What is the point of doing yoga? And how can I find harmony and joy in my life through the yoga lifestyle? This evening is a chance for yoga practitioners and others to meet &nbsp;international yoga wisdom expert Balakhilya das.<br>Free entrance.<br></span><b><span style=\"font-style: normal;\">14:00 Kjøpmannsgata 12,</span>&nbsp;<span style=\"font-style: normal;\">Trondheim</span></b><br>",
           "date6": "<span style=\"font-style: normal;\">16 december</span>",
           "title6": "<a href=\"http://tmy.no/retreat-en\">Yoga Day Retreat</a>",
-          "text6": "<span style=\"font-style: normal;\">This retreat is an opportunity for you who really want to find harmony on all levels - body, mind, and soul. With soothing yoga, simple meditation, live music, tasty vegetarian food, and seminar with Balakhilya das.<br><b>10:00 - 16:00 Storbuan Økosamfunn,&nbsp;Trondheim</b></span>",
+          "text6": "<span style=\"font-style: normal;\">This retreat is an opportunity for you who really want to find harmony on all levels - body, mind, and soul. With soothing yoga, simple meditation, live music, tasty vegetarian food, and seminar with Balakhilya das.<br><b>10:00 - 20:00 Storbuan Økosamfunn,&nbsp;Trondheim</b></span>",
           "media6": {
             "iconFont": {
               "class": "mbr-iconfont-extFeatures2",
@@ -3134,7 +3134,7 @@
           },
           "title3": "Pop-up Yoga Cafe",
           "subtitle3": "10 December in Trondheim",
-          "caption3": "Experience the world of Yoga - discover how there is much more to it than what goes on on the Yoga mat! No matter if you have done Yoga before or not, this seminar is for you. There will be food for both body and soul in a relaxed and inspiring atmosphere.<br><br>In this interactive seminar our special guest speaker, - international Yoga and meditation master Balakhilya das, will help us understand the deeper meaning of Yoga.<br><br>At Trondheim’s first Yoga Café you will get the chance to broaden your perception of Yoga, ask questions, and discover ancient truths that help you relieve stress and worries. You will also get the possibility to buy simple yet delicious homemade vegatarian food.<br><br>10 December<br>Kjøpmannsgata 12<br>",
+          "caption3": "Experience the world of Yoga - discover how there is much more to it than what goes on on the Yoga mat! No matter if you have done Yoga before or not, this seminar is for you. There will be food for both body and soul in a relaxed and inspiring atmosphere.<br><br>In this interactive seminar our special guest speaker, - international Yoga and meditation master Balakhilya das, will help us understand the deeper meaning of Yoga.<br><br>At Trondheim’s first Yoga Café you will get the chance to broaden your perception of Yoga, ask questions, and discover ancient truths that help you relieve stress and worries. You will also get the possibility to buy simple yet delicious homemade vegatarian food.<br><br>10 December 14:00<br>Kjøpmannsgata 12<br>",
           "button3": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">BOOK FREE SEAT - TRONDHEIM</a>",
           "media4": {
             "image": {
@@ -3489,7 +3489,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-571.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-570.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3583,7 +3583,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "media": {
             "image": {
@@ -4057,10 +4057,10 @@
             }
           },
           "title5": "<a href=\"trondheim.html\">Pop-up Yoga Café</a>",
-          "text5": "Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta! Enten du er kjent med Yoga eller aldri har gjort det før, - du er velkommen. Det blir blant annet seminar med yoga- og meditasjonsmester Balakhilya das.&nbsp;<span style=\"font-style: normal;\">Muligheter til å kjøpe delig hjemmelaget vegetarmat på eventen.<br>Gratis inngang.<br><b>14:00 Kongens gate 55,&nbsp;Trondheim</b></span><br>",
+          "text5": "Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta! Enten du er kjent med Yoga eller aldri har gjort det før, - du er velkommen. Det blir blant annet seminar med yoga- og meditasjonsmester Balakhilya das.&nbsp;<span style=\"font-style: normal;\">Muligheter til å kjøpe delig hjemmelaget vegetarmat på eventen.<br>Gratis inngang.<br><b>14:00 Kjøpmannsgata 12,&nbsp;Trondheim</b></span><br>",
           "date6": "<span style=\"font-style: normal;\">16 desember</span>",
           "title6": "<a href=\"http://tmy.no/retreat\">Yoga Day Retreat</a>",
-          "text6": "<span style=\"font-style: normal;\">Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Med yoga, meditasjon, live musikk, vegetarmat, og seminar med Balakhilya das.<br><b>10:00 - 16:00 Storbuan Økosamfunn,&nbsp;Trondheim</b></span>",
+          "text6": "<span style=\"font-style: normal;\">Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Med yoga, meditasjon, live musikk, vegetarmat, og seminar med Balakhilya das.<br><b>10:00 - 20:00 Storbuan Økosamfunn,&nbsp;Trondheim</b></span>",
           "media6": {
             "iconFont": {
               "class": "mbr-iconfont-extFeatures2",
@@ -4245,7 +4245,7 @@
           },
           "title3": "Pop-up Yoga Cafe",
           "subtitle3": "<span style=\"font-style: normal;\">10. desember i Trondheim<br></span>",
-          "caption3": "<span style=\"line-height: 1.5;\">Opplev en ny verden!&nbsp;</span><span style=\"line-height: 1.5;\">Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta. Her blir det mat for både kropp og sjel i en avslappet og inspirerende atmosfære.</span><br><br>I dette interaktive seminaret kommer vår gjest, internasjonal Yoga og meditasjonsmester Balakhilya das, til å hjelpe oss med å forstå den dypere betydningen av Yoga. <span style=\"line-height: 1.5;\">På Trondheims første Yoga Café (!) får du muligheten til å utvide din oppfatning av yoga, stille spørsmål og oppdage gamle sannheter som hjelper deg med å takle stress og bekymringer. Du får også muligheten til å kjøpe enkel, men deilig hjemmelaget vegetarisk mat.</span><br><br>P.S. Du trenger ikke å ta med yogamatte :)<br><br>Trondheim 10. desember<br>Kjøpmannsgata 12<br>",
+          "caption3": "<span style=\"line-height: 1.5;\">Opplev en ny verden!&nbsp;</span><span style=\"line-height: 1.5;\">Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta. Her blir det mat for både kropp og sjel i en avslappet og inspirerende atmosfære.</span><br><br>I dette interaktive seminaret kommer vår gjest, internasjonal Yoga og meditasjonsmester Balakhilya das, til å hjelpe oss med å forstå den dypere betydningen av Yoga. <span style=\"line-height: 1.5;\">På Trondheims første Yoga Café (!) får du muligheten til å utvide din oppfatning av yoga, stille spørsmål og oppdage gamle sannheter som hjelper deg med å takle stress og bekymringer. Du får også muligheten til å kjøpe enkel, men deilig hjemmelaget vegetarisk mat.</span><br><br>P.S. Du trenger ikke å ta med yogamatte :)<br><br>Trondheim 10. desember, 14:00<br>Kjøpmannsgata 12<br>",
           "button3": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BOOK GRATIS PLASS - TRONDHEIM</a>",
           "media4": {
             "image": {
@@ -4568,7 +4568,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "media": {
             "image": {
@@ -4956,10 +4956,10 @@
             }
           },
           "title5": "<a href=\"trondheim.html\">Pop-up Yoga Café</a>",
-          "text5": "Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta! Enten du er kjent med Yoga eller aldri har gjort det før, - du er velkommen. Det blir blant annet seminar med yoga- og meditasjonsmester Balakhilya das.&nbsp;<span style=\"font-style: normal;\">Muligheter til å kjøpe delig hjemmelaget vegetarmat på eventen.<br>Gratis inngang.<br><b>14:00 Kongens gate 55,&nbsp;Trondheim</b></span><br>",
+          "text5": "Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta! Enten du er kjent med Yoga eller aldri har gjort det før, - du er velkommen. Det blir blant annet seminar med yoga- og meditasjonsmester Balakhilya das.&nbsp;<span style=\"font-style: normal;\">Muligheter til å kjøpe delig hjemmelaget vegetarmat på eventen.<br>Gratis inngang.<br><b>14:00 Kjøpmannsgata 12,&nbsp;Trondheim</b></span><br>",
           "date6": "<span style=\"font-style: normal;\">16 desember</span>",
           "title6": "<a href=\"http://tmy.no/retreat\">Yoga Day Retreat</a>",
-          "text6": "<span style=\"font-style: normal;\">Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Med yoga, meditasjon, live musikk, vegetarmat, og seminar med Balakhilya das.<br><b>10:00 - 16:00 Storbuan Økosamfunn,&nbsp;Trondheim</b></span>",
+          "text6": "<span style=\"font-style: normal;\">Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Med yoga, meditasjon, live musikk, vegetarmat, og seminar med Balakhilya das.<br><b>10:00 - 20:00 Storbuan Økosamfunn,&nbsp;Trondheim</b></span>",
           "media6": {
             "iconFont": {
               "class": "mbr-iconfont-extFeatures2",
