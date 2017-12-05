@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "yogavisdom.no MB3",
-    "currentPage": "pamelding-signup.html",
+    "currentPage": "en.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -650,7 +650,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
           },
           "media": {
             "image": {
@@ -886,7 +886,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
           },
           "media": {
             "image": {
@@ -1713,7 +1713,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
           },
           "media": {
             "image": {
@@ -2582,7 +2582,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
           },
           "media": {
             "image": {
@@ -3101,7 +3101,7 @@
             }
           },
           "title1": "Karma",
-          "subtitle1": "5 December in Oslo",
+          "subtitle1": "<span style=\"font-style: normal;\">5 December in Oslo</span>",
           "caption1": "When you look at the world, many things may seem unfair. Why do bad things happen to good or innocent people?<br><br>Most of us have heard of the law of karma, which is described by familiar sayings like, “what goes around comes around,” and “as you sow, so shall you reap.” Come hear Balakhilya das, Vedic teacher and expert in the Yoga Wisdom, unravel the secret of Karma and suffering!<br><br>You will get clear and profound answers<br>to questions such as:<br>- What can I do to relieve the suffering of others?<br>- How is the law of karma working, and how does it affect me?<br>- How can I live a life without creating karma?<br><br>5 December 18:00<br>Litteraturhuset, Wergelandsveien 29<br>Oslo<br>",
           "button1": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK FREE SEAT - OSLO</a> ",
           "media2": {
@@ -3117,7 +3117,7 @@
             }
           },
           "title2": "Lost in the World<br>",
-          "subtitle2": "6 December in Oslo<div>9 December in Trondheim</div>",
+          "subtitle2": "<span style=\"font-style: normal;\">6 December in Oslo</span><div><span style=\"font-style: normal;\">9 December in Trondheim</span></div>",
           "caption2": "Our society is progressing faster than ever, always with new gadgets and expectation to keep up with. We are constantly available both online and offline - and still 4 out of 10 Norwegians experience loneliness. One could say “We are never alone - but we feel more lonely than ever.” And even when you are with your close family or best friends - you may still sometimes have this gnawing feeling of emptiness and loneliness deep inside of you. <br><br>Where is this feeling coming from, and what is it that we are actually longing for? Hear world-known Yoga Wisdom expert and Vedic teacher Balakhilya das speak on “Lost in the World”. This enlightening seminar will help you on the path towards a life of joy, peace, and harmony. <br>This may just change your life!<br><br><b>Oslo:</b> 5 December 18:00<br>Litteraturhuset, Wergelandsveien 29<br><b>Trondheim:</b> 9 December 18:00<br>Kjøpmannsgata 12",
           "button2": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BOOK FREE SEAT</a>",
           "media3": {
@@ -3133,7 +3133,7 @@
             }
           },
           "title3": "Pop-up Yoga Cafe",
-          "subtitle3": "10 December in Trondheim",
+          "subtitle3": "<span style=\"font-style: normal;\">10 December in Trondheim</span>",
           "caption3": "Experience the world of Yoga - discover how there is much more to it than what goes on on the Yoga mat! No matter if you have done Yoga before or not, this seminar is for you. There will be food for both body and soul in a relaxed and inspiring atmosphere.<br><br>In this interactive seminar our special guest speaker, - international Yoga and meditation master Balakhilya das, will help us understand the deeper meaning of Yoga.<br><br>At Trondheim’s first Yoga Café you will get the chance to broaden your perception of Yoga, ask questions, and discover ancient truths that help you relieve stress and worries. You will also get the possibility to buy simple yet delicious homemade vegatarian food.<br><br>10 December 14:00<br>Kjøpmannsgata 12<br>",
           "button3": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">BOOK FREE SEAT - TRONDHEIM</a>",
           "media4": {
@@ -3583,7 +3583,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
           },
           "media": {
             "image": {
@@ -4568,7 +4568,7 @@
             "showSubtitle": false,
             "showText": true,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE INFORMATION</a>"
           },
           "media": {
             "image": {
