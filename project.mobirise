@@ -430,7 +430,7 @@
           "title5": "<a href=\"trondheim.html\">Pop-up Yoga Café</a>",
           "text5": "Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta! Enten du er kjent med Yoga eller aldri har gjort det før, - du er velkommen. Det blir blant annet seminar med yoga- og meditasjonsmester Balakhilya das.&nbsp;<span style=\"font-style: normal;\">Muligheter til å kjøpe delig hjemmelaget vegetarmat på eventen.<br>Gratis inngang.<br><b>14:00 Kjøpmannsgata 12,&nbsp;Trondheim</b></span><br>",
           "date6": "<span style=\"font-style: normal;\">16 desember</span>",
-          "title6": "<a href=\"http://tmy.no/retreat\">Yoga Day Retreat</a>",
+          "title6": "<a href=\"http://tmy.no/retreat\">Meditation Retreat</a>",
           "text6": "<span style=\"font-style: normal;\">Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Med yoga, meditasjon, live musikk, vegetarmat, og seminar med Balakhilya das.<br><b>10:00 - 20:00 Storbuan Økosamfunn,&nbsp;Trondheim</b></span>",
           "media6": {
             "iconFont": {
@@ -550,13 +550,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#77905d"
+              "background": "#0a1c30"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#88a26f!important"
+              "background": "#0f2e4e!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#90a878"
+              "background": "#12355b"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -786,13 +786,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#77905d"
+              "background": "#0a1c30"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#88a26f!important"
+              "background": "#0f2e4e!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#90a878"
+              "background": "#12355b"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1613,13 +1613,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#77905d"
+              "background": "#0a1c30"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#88a26f!important"
+              "background": "#0f2e4e!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#90a878"
+              "background": "#12355b"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1870,7 +1870,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "9 DES - FOREDRAG 'LOST IN THE WORLD'<br>───<br>10 DES - POP-UP YOGA CAFE<br>16 DES - YOGA DAY RETREAT",
+          "title": "9 DES - FOREDRAG 'LOST IN THE WORLD'<br>───<br>10 DES - POP-UP YOGA CAFE<br>16 DES - MEDITATION RETREAT",
           "text": "<span style=\"font-style: normal;\">Er det mulig å leve et liv uten ensomhet, angst og stress?<br>Møt den verdenskjente eksperten i yoga-vitenskap, Balakhilya das!<br>Balakhilya das reiser rundt i verden for å hjelpe hver og en av oss å finne sann og varig lykke.<br>Oppdag hvordan du kan leve et liv som faktisk føles bra på innsiden, og ikke bare et som ser bra ut på utsiden.<br>Dette kan virkelig utgjøre en forskjell i livet ditt!</span>",
           "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"pamelding-signup.html\">BOOK DIN GRATIS PLASS</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html#features3-2j\">FÅ MER INFORMASJON</a>",
           "media": {
@@ -1985,9 +1985,9 @@
             }
           },
           "title3": "16. desember",
-          "subtitle3": "<span style=\"font-style: normal;\"><b>Yoga Day Retreat<br></b>10:00-20:00 Storbuan Økosamfunn</span>",
+          "subtitle3": "<span style=\"font-style: normal;\"><b>Meditation Retreat<br></b>10:00-20:00 Storbuan Økosamfunn</span>",
           "caption3": "Yoga er ikke bare fysiske øvelser, det er helhetlig livsstil som inkluderer mange aspekter for å leve et bedre liv. Det er en praktisk og hjelpsom vei til indre lykke!<br><br>Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Du kommer til å møte og kunne lære fra Balakhilya das, respektert autoritet på vedisk kunnskap og yoga-filosofien. Han presenterer dype og åndelig teori og praksis på måter som er forståelig og oppnåelig av hver enkelt person.<br><br>Du vil lære deg hvordan du enkelt kan legge til yoga og meditasjon i ditt eget liv, og dermed oppleve alle fordelene med denne livsstilen. Sammen kommer vi til å praktisere enkle meditasjonsteknikker, pusteøvelser med mantra, yoga asanas (øvelser) for både nybegynnere og viderekommende, guidet dyp avspenning, med mer. Vi arrangerer dessuten live musikkmeditasjon - en favoritt for mange.<br>Det vil også bli servert deilig vegetarmat :)<br>Velkommen!",
-          "button3": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PÅMELDING<br></a>",
+          "button3": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BOOK PLASS<br></a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -2362,7 +2362,7 @@
           "title5": "<a href=\"pamelding-signup.html\">Pop-up Yoga Café</a>",
           "text5": "Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta! Enten du er kjent med Yoga eller aldri har gjort det før, - du er velkommen. Det blir blant annet seminar med yoga- og meditasjonsmester Balakhilya das.&nbsp;<span style=\"font-style: normal;\">Muligheter til å kjøpe delig hjemmelaget vegetarmat på eventen.<br>Gratis inngang.<br><b>14:00 Kjøpmannsgata 12,&nbsp;Trondheim</b></span><br>",
           "date6": "<span style=\"font-style: normal;\">16 desember</span>",
-          "title6": "<a href=\"pamelding-signup.html\">Yoga Day Retreat</a>",
+          "title6": "<a href=\"pamelding-signup.html\">Meditation Retreat</a>",
           "text6": "<span style=\"font-style: normal;\">Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Med yoga, meditasjon, live musikk, vegetarmat, og seminar med Balakhilya das.<br></span><b style=\"font-style: normal;\">10:00 - 20:00 Storbuan Økosamfunn,&nbsp;Trondheim</b>",
           "media6": {
             "iconFont": {
@@ -2482,13 +2482,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#77905d"
+              "background": "#0a1c30"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#88a26f!important"
+              "background": "#0f2e4e!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#90a878"
+              "background": "#12355b"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2744,7 +2744,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">In Norway December 2017</span><br></div><div><br>OSLO</div><div>Yoga Day Retreat</div><div>Seminar about Karma</div><div>Lecture 'Lost in the World'</div><div><br></div><div>TRONDHEIM</div><div>Lecture 'Lost in the World'</div><div>Pop-up Yoga Café</div><div>Yoga Day Retreat</div>",
+          "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">In Norway December 2017</span><br></div><div><br>OSLO</div><div>Yoga Day Retreat</div><div>Seminar about Karma</div><div>Lecture 'Lost in the World'</div><div><br></div><div>TRONDHEIM</div><div>Lecture 'Lost in the World'</div><div>Pop-up Yoga Café</div><div>Meditation Retreat</div>",
           "text": "<span style=\"font-style: normal;\">We invite you to a different experience: This is about you!<br>Meet a world-known&nbsp;expert in the Wisdom of Yoga,&nbsp;</span><br><span style=\"font-style: normal;\">helping us toward a life without &nbsp;loneliness, anxiety, and stress.<br></span>",
           "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"en.html#features3-41\">MORE INFORMATION</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"pamelding-signup.html\">BOOK YOUR SEATS</a>",
           "media": {
@@ -2949,7 +2949,7 @@
           "title5": "<a href=\"en.html#extHeader13-2n\">Pop-up Yoga Café</a>",
           "text5": "<span style=\"font-style: normal;\">Let’s go beyond the yoga mat: What is the point of doing yoga? And how can I find harmony and joy in my life through the yoga lifestyle? This evening is a chance for yoga practitioners and others to meet &nbsp;international yoga wisdom expert Balakhilya das.<br>Free entrance.<br></span><b><span style=\"font-style: normal;\">14:00 Kjøpmannsgata 12,</span>&nbsp;<span style=\"font-style: normal;\">Trondheim</span></b><br>",
           "date6": "<span style=\"font-style: normal;\">16 december</span>",
-          "title6": "<a href=\"http://tmy.no/retreat-en\">Yoga Day Retreat</a>",
+          "title6": "<a href=\"http://tmy.no/retreat-en\">Meditation Retreat</a>",
           "text6": "<span style=\"font-style: normal;\">This retreat is an opportunity for you who really want to find harmony on all levels - body, mind, and soul. With soothing yoga, simple meditation, live music, tasty vegetarian food, and seminar with Balakhilya das.<br><b>10:00 - 20:00 Storbuan Økosamfunn,&nbsp;Trondheim</b></span>",
           "media6": {
             "iconFont": {
@@ -3172,66 +3172,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_styles": {
-            "H3": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            }
-          },
-          "_anchor": "msg-box4-47",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/blkd-retreat-rounded-en-1400x786.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false,
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "YOGA DAY RETREAT<br>Oslo 2 Dec<br>Trondheim 16 Dec",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.facebook.com/events/370839916672399\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://tmy.no/retreat-en\" data-toolbar=\"-mbrBtnMove\">TRONDHEIM</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -3687,13 +3627,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#77905d"
+              "background": "#0a1c30"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#88a26f!important"
+              "background": "#0f2e4e!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#90a878"
+              "background": "#12355b"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3839,7 +3779,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Norge Desember 2017</span></div><div><br>OSLO 2-6 Des.<br>Yoga Day Retreat</div><div>Seminar om Karma</div><div>Foredrag 'Lost in the World'</div><div><br></div><div>TRONDHEIM 9-16 Des.</div><div>Foredrag 'Lost in the World'</div><div>Pop-up Yoga Café<br>Yoga Day Retreat</div>",
+          "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Norge Desember 2017</span></div><div><br>OSLO 2-6 Des.<br>Yoga Day Retreat</div><div>Seminar om Karma</div><div>Foredrag 'Lost in the World'</div><div><br></div><div>TRONDHEIM 9-16 Des.</div><div>Foredrag 'Lost in the World'</div><div>Pop-up Yoga Café<br>Meditation Retreat</div>",
           "text": "<span style=\"font-style: normal;\">Er det mulig å leve et liv uten ensomhet, angst og stress?<br>Møt den verdenskjente eksperten i yoga-vitenskap, Balakhilya das!<br>Balakhilya das reiser rundt i verden for å hjelpe hver og en av oss<br>å finne sann og varig lykke i livet.</span><br>",
           "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"oslo.html\">MER INFO: OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html\">MER INFO: TRONDHEIM</a> <a data-app-btn=\"true\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\" href=\"pamelding-signup.html\">BOOK PLASS NÅ</a>",
           "media": {
@@ -4059,7 +3999,7 @@
           "title5": "<a href=\"trondheim.html\">Pop-up Yoga Café</a>",
           "text5": "Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta! Enten du er kjent med Yoga eller aldri har gjort det før, - du er velkommen. Det blir blant annet seminar med yoga- og meditasjonsmester Balakhilya das.&nbsp;<span style=\"font-style: normal;\">Muligheter til å kjøpe delig hjemmelaget vegetarmat på eventen.<br>Gratis inngang.<br><b>14:00 Kjøpmannsgata 12,&nbsp;Trondheim</b></span><br>",
           "date6": "<span style=\"font-style: normal;\">16 desember</span>",
-          "title6": "<a href=\"http://tmy.no/retreat\">Yoga Day Retreat</a>",
+          "title6": "<a href=\"http://tmy.no/retreat\">Meditation Retreat</a>",
           "text6": "<span style=\"font-style: normal;\">Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Med yoga, meditasjon, live musikk, vegetarmat, og seminar med Balakhilya das.<br><b>10:00 - 20:00 Storbuan Økosamfunn,&nbsp;Trondheim</b></span>",
           "media6": {
             "iconFont": {
@@ -4283,66 +4223,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_styles": {
-            "H3": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            }
-          },
-          "_anchor": "msg-box4-45",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/blkdretreat-rounded-no-1400x786.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false,
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "YOGA DAY RETREAT<br>Oslo 2 des.<br>Trondheim 16. des",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.facebook.com/events/370839916672399\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MER INFO: OSLO</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://tmy.no/retreat\" data-toolbar=\"-mbrBtnMove\">MER INFO: TRONDHEIM</a>"
         },
         {
           "form": {
@@ -4961,7 +4841,7 @@
           "title5": "<a href=\"trondheim.html\">Pop-up Yoga Café</a>",
           "text5": "Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta! Enten du er kjent med Yoga eller aldri har gjort det før, - du er velkommen. Det blir blant annet seminar med yoga- og meditasjonsmester Balakhilya das.&nbsp;<span style=\"font-style: normal;\">Muligheter til å kjøpe delig hjemmelaget vegetarmat på eventen.<br>Gratis inngang.<br><b>14:00 Kjøpmannsgata 12,&nbsp;Trondheim</b></span><br>",
           "date6": "<span style=\"font-style: normal;\">16 desember</span>",
-          "title6": "<a href=\"http://tmy.no/retreat\">Yoga Day Retreat</a>",
+          "title6": "<a href=\"http://tmy.no/retreat\">Meditation Retreat</a>",
           "text6": "<span style=\"font-style: normal;\">Denne retreaten er en mulighet for deg som ønsker å lære hvordan å finne harmoni på alle nivåer - kropp, sinn, og sjel. Med yoga, meditasjon, live musikk, vegetarmat, og seminar med Balakhilya das.<br><b>10:00 - 20:00 Storbuan Økosamfunn,&nbsp;Trondheim</b></span>",
           "media6": {
             "iconFont": {
