@@ -580,15 +580,19 @@
           "_name": "menu",
           "_anchor": "menu-m",
           "_params": {
-            "bgColor": "#12355b",
-            "fontSize": "1.15",
-            "fontName": {},
+            "bgColor": "#28324e",
+            "fontSize": "1.05",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
@@ -609,7 +613,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"pamelding-signup.html\">PÅMELDING FOR SEMINAR</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-2r\">EVENTER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm1-4q\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"pamelding-signup.html\">BILLETTER</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1407,15 +1411,19 @@
           "_name": "menu",
           "_anchor": "menu-24",
           "_params": {
-            "bgColor": "#12355b",
-            "fontSize": "1.15",
-            "fontName": {},
+            "bgColor": "#28324e",
+            "fontSize": "1.05",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
@@ -1436,7 +1444,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"pamelding-signup.html\">PÅMELDING FOR SEMINAR</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-2r\">EVENTER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm1-4q\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"pamelding-signup.html\">BILLETTER</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -2276,15 +2284,19 @@
           "_name": "menu",
           "_anchor": "menu-2d",
           "_params": {
-            "bgColor": "#12355b",
-            "fontSize": "1.15",
-            "fontName": {},
+            "bgColor": "#28324e",
+            "fontSize": "1.05",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
@@ -2305,7 +2317,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"pamelding-signup.html\">PÅMELDING FOR SEMINAR</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-2r\">EVENTER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm1-4q\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"pamelding-signup.html\">BILLETTER</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -3421,15 +3433,19 @@
           "_name": "menu",
           "_anchor": "menu-1e",
           "_params": {
-            "bgColor": "#12355b",
-            "fontSize": "1.15",
-            "fontName": {},
+            "bgColor": "#28324e",
+            "fontSize": "1.05",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
@@ -3450,7 +3466,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"pamelding-signup.html\">PÅMELDING FOR SEMINAR</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-2r\">EVENTER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm1-4q\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"pamelding-signup.html\">BILLETTER</a></li>"
         }
       ]
     },
@@ -3542,9 +3558,9 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Trondheim desember 2018</span></div><div><br></div><div><span style=\"color: rgb(71, 85, 119); font-family: Ubuntu, sans-serif; font-size: 25px; line-height: 1.1;\">7.12 Foredrag 'Life Without Anxiety'</span><br></div><div>8.12 Foredrag 'Reincarnation'<br>9.12 Meditasjons-retreat</div>",
+          "title": "Balakhilya das<div><span style=\"color: rgb(71, 85, 119); font-size: 30px; line-height: 1.1;\">Trondheim desember 2018</span></div><div><br></div><div><span style=\"color: rgb(71, 85, 119); font-family: Ubuntu, sans-serif; font-size: 25px; line-height: 1.1;\">7.12 Foredrag 'Life Without Anxiety'</span><br></div><div>8.12 Foredrag 'Reincarnation'<br>9.12 Mini-Retreat</div>",
           "text": "<span style=\"font-style: normal;\">Er det mulig å leve et liv uten ensomhet, angst og stress?<br>Møt den verdenskjente eksperten i yoga-vitenskap, Balakhilya das.<br>Balakhilya das reiser verden rundt for å hjelpe hver og en av oss<br>å finne sann og varig lykke i livet.</span><br>",
-          "DualButtons": " <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"trondheim.html\">MER INFO</a> <a data-app-btn=\"true\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\" href=\"pamelding-signup.html\">GRATIS BILLETTER</a>",
+          "DualButtons": " <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"index.html#features3-2r\">MER INFO</a> <a data-app-btn=\"true\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\" href=\"pamelding-signup.html\">GRATIS BILLETTER</a>",
           "media": {
             "image": {
               "src": "file:///Users/missionharibol/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extHeader6.png"
@@ -3574,7 +3590,7 @@
             "H3": {
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#faaf40"
+              "color": "#28324e"
             }
           },
           "_tags": [
@@ -3588,7 +3604,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "Velkommen hit.",
+          "title": "Velkommen hit",
           "meta": "<span style=\"font-style: normal;\">Av Balakhilya das, 3 November 2017<br></span>"
         },
         {
@@ -3664,7 +3680,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-4-600x337.png",
+              "src": "@PROJECT_PATH@/assets/images/life-without-anxiety-picture-16-9-small-600x338-1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3674,13 +3690,13 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Karma",
-          "subtitle1": "<span style=\"font-style: normal;\">5. desember i Oslo<br></span>",
-          "caption1": "Når vi ser på verden vår kan mange ting virke veldig urettferdig. Hvorfor skjer forferdelige ting med gode eller uskyldige mennesker?<br><br>De fleste av oss har hørt om karma, som blir beskrevet gjennom utsagn som \"what goes around, comes around\", og \"man høster som man sår.\" Få med deg dette foredraget av Balakhilya das, Vedisk lærer og ekspert i Yogavisdom, og få innblikk i hemmeligheten om karma og lidelse.<br><br>Du vil få klare og utdypende svar på spørsmål som:<br>- Hva kan jeg gjøre for å hindre at andre lider?<br>- Hvordan fungerer loven om karma, og hvordan påvirker den meg?<br>- Hvordan kan jeg leve et liv uten å skape karma?<br><br>Oslo 5. desember, 18:00<br>Litteraturhuset, Wergelandsveien 29<br>",
+          "title1": "Life Without Anxiety",
+          "subtitle1": "<span style=\"font-style: normal;\">7. desember kl. 18:00<br>NTNU Gløshaugen, Realfagbyget R5</span>",
+          "caption1": "We invite you to a different lecture.  <br>It's about you!  <br><br>A life without anxiety, worries, fears, stress - is it even possible? We are good at keeping appearances, while we may feel lost inside at times.&nbsp;<span style=\"line-height: 1.5;\">Discover how to live a life that actually feels good on the inside, not one that just looks good on the outside.&nbsp;</span><br><br>Yogi and lecturer Balakhilya das travels around the world presenting topics related to life itself and how to arrange your life to experience true and lasting happiness. <br>",
           "button1": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">BOOK GRATIS PLASS</a> ",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-600x337.png",
+              "src": "@PROJECT_PATH@/assets/images/reincarnation-picture-small-600x338.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3690,13 +3706,13 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Lost in the World<br>",
-          "subtitle2": "6. desember i Oslo<br>9. desember i Trondheim<br>",
-          "caption2": "<span style=\"line-height: 1.5;\">Samfunnet vårt utvikler seg raskere enn noensinne, med stadig nye gadgets og forventninger å holde tritt med. Man kan si \"vi er aldri alene - men vi føler oss mer ensomme enn noensinne\". Og selv når du er sammen med din nærmeste familie eller dine beste venner, kan det likevel hende at du kjenner denne gnagende følelsen av tomhet og ensomhet dypt inne i deg. Hvor kommer denne følelsen fra, og hva er det vi faktisk lengter etter?</span><br><br>Hør verdenskjent Yogavisdom-ekspert og Vedisk lærer Balakhilya das om temaet \"Lost in the World\". Dette opplysende seminaret vil hjelpe deg på veien mot et liv med glede, fred og harmoni. <br><br><b>Oslo:</b> 6. desember, 18:00<br>Litteraturhuset, Wergelandsveien 29<br><b>Trondheim:</b> 9. desember, 18:00<br>Kjøpmannsgata 12<br>",
+          "title2": "Reincarnation<br>",
+          "subtitle2": "<span style=\"line-height: 1.7857;\">8. desember kl. 19:00<br>Kjøpmannsgata 12</span><br>",
+          "caption2": "Are you ready for the truth? <br><br>Hear yoga master Balakhilya das explain the reality of reincarnation and how it deeply affects each and every one of us. What happens when we die? <br>Who are we really? <br><br>Be prepared for new yet ancient perspectives. Come to understand life itself, and unlock the door to inner fulfillment, peace, and joy in your everyday life.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">BOOK GRATIS PLASS</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners-yogacafe-600x337.png",
+              "src": "@PROJECT_PATH@/assets/images/retreat-16-9-small-600x338.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3706,9 +3722,9 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Pop-up Yoga Cafe",
-          "subtitle3": "<span style=\"font-style: normal;\">10. desember i Trondheim<br></span>",
-          "caption3": "<span style=\"line-height: 1.5;\">Opplev en ny verden!&nbsp;</span><span style=\"line-height: 1.5;\">Kom og oppdag hvordan Yoga er mye mer enn det som foregår på Yogamatta. Her blir det mat for både kropp og sjel i en avslappet og inspirerende atmosfære.</span><br><br>I dette interaktive seminaret kommer vår gjest, internasjonal Yoga og meditasjonsmester Balakhilya das, til å hjelpe oss med å forstå den dypere betydningen av Yoga. <span style=\"line-height: 1.5;\">På Trondheims første Yoga Café (!) får du muligheten til å utvide din oppfatning av yoga, stille spørsmål og oppdage gamle sannheter som hjelper deg med å takle stress og bekymringer. Du får også muligheten til å kjøpe enkel, men deilig hjemmelaget vegetarisk mat.</span><br><br>P.S. Du trenger ikke å ta med yogamatte :)<br><br>Trondheim 10. desember, 14:00<br>Kjøpmannsgata 12<br>",
+          "title3": "Mini-Retreat",
+          "subtitle3": "<span style=\"font-style: normal;\">9. desember kl. 14:00<br>Kjøpmannsgata 12</span>",
+          "caption3": "Yoga is not just physical exercises, it is a holistic lifestyle that includes many aspects for living a better life. It provides a practical and easy way towards inner happiness and actual satisfaction in your life.&nbsp;<span style=\"line-height: 1.5;\">This retreat is an opportunity for you who really want to find harmony on all levels - body, mind, and soul. </span><br><span style=\"line-height: 1.5;\"><br></span><span style=\"line-height: 1.5;\">Hear and learn from Vedic authority and expert in Yoga Wisdom, Balakhilya das. He will show you how you can easily add yoga and meditation in your own life, and thus experience all the benefits of this lifestyle. Together we will practice simple meditation techniques, breathing exercises with mantra, yoga asanas (exercises) for both beginners and more advanced practitioners, guided deep relaxation, and more. We also arrange sessions with live music meditation - a favorite for many! All accompanied by a delicious vegetarian lunch.</span><br>",
           "button3": "<a data-app-btn=\"true\" href=\"pamelding-signup.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BOOK GRATIS PLASS</a>",
           "media4": {
             "image": {
@@ -3788,7 +3804,7 @@
                 "tags": "MEDITATION",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/193053132",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-09-10-12-55-23-10.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-09-10-12-55-23-16.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "GUIDED MEDITATION WITH MANTRA<br>Balakhilya das",
@@ -3798,7 +3814,7 @@
                 "tags": "MY IDENTITY",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/232350800",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-09-10-12-55-40-11.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-09-10-12-55-40-17.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "FINDING THE TRUE SELF<br>Acharya das",
@@ -3808,7 +3824,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232630164",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-572.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-06-12-04-578.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "LET LOVE INTO YOUR LIFE<br>Balakhilya das",
@@ -3818,7 +3834,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/233208239",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-03-11-22-523.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-03-11-22-529.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "<p>THE QUEST FOR HAPPINESS<br><span style=\"font-size: 0.9em; line-height: 1.5;\">Radha Krishna das</span></p>",
@@ -3828,7 +3844,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/232338238",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-03-11-26-004.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-03-11-26-0010.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "<p>HAPPINESS &amp; MINDFULNESS - IS THERE A CONNECTION?<br><span style=\"font-size: 0.9em; line-height: 1.5;\">Acharya das</span></p>",
@@ -3838,7 +3854,7 @@
                 "tags": "MEDITATION",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232637715",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-03-11-24-495.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-03-11-24-4911.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "<p>YOGA - UNDERSTANDING THE GOAL AND DIFFERENT PATHS<br><span style=\"font-size: 0.9em; line-height: 1.5;\">Balakhilya das</span></p>",
@@ -3872,25 +3888,27 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0a1c30"
+              "background": "#171c2c"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#0f2e4e!important"
+              "background": "#232c44!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#12355b"
+              "background": "#28324e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3915,25 +3933,29 @@
           "_name": "menu",
           "_anchor": "menu-f",
           "_params": {
-            "bgColor": "#12355b",
-            "fontSize": "1.15",
-            "fontName": {},
+            "bgColor": "#28324e",
+            "fontSize": "1.05",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/usasmall-121x128.png",
+              "src": "@PROJECT_PATH@/assets/images/small-pic-119x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "en.html",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -3944,7 +3966,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-2r\">EVENTER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm1-4q\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"pamelding-signup.html\">MELD DEG PÅ</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-2r\">EVENTER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm1-4q\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"pamelding-signup.html\">BILLETTER</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -4127,15 +4149,19 @@
           "_name": "menu",
           "_anchor": "menu-4v",
           "_params": {
-            "bgColor": "#12355b",
-            "fontSize": "1.15",
-            "fontName": {},
+            "bgColor": "#28324e",
+            "fontSize": "1.05",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
@@ -4156,7 +4182,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"videoer.html\">VIDEOER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"pamelding-signup.html\">PÅMELDING FOR SEMINAR</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-2r\">EVENTER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm1-4q\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"pamelding-signup.html\">BILLETTER</a></li>"
         },
         {
           "_customTemplate": true,

@@ -1331,6 +1331,7 @@ h6,
 
 
 
+
 #header3-5 .mbr-section-title,
 #header3-5 .mbr-section-subtitle {
   text-align: center;
@@ -1365,7 +1366,7 @@ h6,
 }
 #header3-1q H3 {
   font-family: 'Open Sans Condensed', sans-serif;
-  color: #faaf40;
+  color: #28324e;
 }
 #content2-1r P {
   font-family: 'Open Sans', sans-serif;
@@ -1405,13 +1406,14 @@ h6,
 #menu-f .link,
 #menu-f .dropdown-item {
   color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-f .link {
-  font-size: 1.15rem;
+  font-size: 1.05rem;
 }
 #menu-f .dropdown-item,
 #menu-f .nav-dropdown-sm .link {
-  font-size: 1.245rem;
+  font-size: 1.137rem;
 }
 #menu-f .link:hover,
 #menu-f .dropdown-item:hover,
@@ -1421,19 +1423,19 @@ h6,
 }
 #menu-f .link[aria-expanded="true"],
 #menu-f .dropdown-menu {
-  background: #0a1c30;
+  background: #171c2c;
 }
 #menu-f .nav-dropdown-sm .link:focus,
 #menu-f .nav-dropdown-sm .link:hover,
 #menu-f .nav-dropdown-sm .dropdown-item:focus,
 #menu-f .nav-dropdown-sm .dropdown-item:hover {
-  background: #0f2e4e!important;
+  background: #232c44!important;
 }
 #menu-f .navbar,
 #menu-f .nav-dropdown-sm,
 #menu-f .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-f .nav-dropdown-sm .dropdown-menu {
-  background: #12355b;
+  background: #28324e;
 }
 #menu-f .bg-color.transparent .link {
   color: #ffffff;
