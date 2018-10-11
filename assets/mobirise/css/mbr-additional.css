@@ -672,6 +672,16 @@ h6,
   font-family: 'Open Sans', sans-serif;
   font-size: 17px;
 }
+#header3-5n .mbr-section-title,
+#header3-5n .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5n H3 {
+  color: #28324e;
+}
+#header3-5n SMALL {
+  color: #28262b;
+}
 #features3-2r H4 {
   font-size: 30px;
 }
