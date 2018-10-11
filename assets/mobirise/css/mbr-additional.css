@@ -647,11 +647,15 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #header6-5i .mbr-section-text {
-  color: #ffffff;
+  color: #28262b;
+  font-size: 17px;
 }
 #header6-5i .mbr-section-title SPAN {
   font-family: 'Open Sans Condensed', sans-serif;
-  color: #ffffff;
+  color: #28324e;
+}
+#header6-5i .btn {
+  font-size: 16px;
 }
 #header3-1q .mbr-section-title,
 #header3-1q .mbr-section-subtitle {

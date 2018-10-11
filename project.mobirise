@@ -1064,7 +1064,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-2r\">EVENTER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm1-4q\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"pamelding-signup.html\">BILLETTER</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-2r\">EVENTER 2018</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#features3-2r\">BILLETTER</a></li>"
         }
       ]
     },
@@ -1189,12 +1189,16 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".mbr-section-text": {
-              "color": "#ffffff"
+              "color": "#28262b",
+              "font-size": "17px"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#ffffff"
+              "color": "#28324e"
+            },
+            ".btn": {
+              "font-size": "16px"
             }
           },
           "_tags": [
@@ -1214,8 +1218,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#000000",
+            "overlayOpacity": "0.6",
+            "overlayColor": "#ffffff",
             "inverse": true,
             "showTitle": true,
             "showText": true,
@@ -1241,8 +1245,8 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Balakhilya das<br>Trondheim 2018</span>",
-          "text": "Møt den verdenskjente eksperten i yoga-vitenskap, Balakhilya das.<br>Balakhilya das reiser verden rundt for å hjelpe hver og en av oss<br>å finne sann og varig lykke i livet.<br><br>Fredag 7.12 - Foredrag 'Life Without Anxiety'<br>Lørdag 8.12 - Foredrag 'Reincarnation'<br>Søndag 9.12 - Mini-Retreat<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html#features3-2r\" data-toolbar=\"-mbrBtnMove\">BILLETTER</a>"
+          "text": "Møt den verdenskjente eksperten i yoga-vitenskap, Balakhilya das.<br>Balakhilya das reiser verden rundt for å hjelpe hver og en av oss<br>å finne sann og varig lykke i livet.<br><br><b>Fredag 7.12 - Foredrag 'Life Without Anxiety'<br>Lørdag 8.12 - Foredrag 'Reincarnation'<br>Søndag 9.12 - Mini-Retreat</b><br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#features3-2r\" data-toolbar=\"-mbrBtnMove\">BILLETTER</a> "
         },
         {
           "_styles": {
@@ -1511,7 +1515,7 @@
           },
           "title": "<p>Yoga Wisdom</p>",
           "text": "<p>Watch the inspiring lectures below, or click to access the full homepage of Balakhilya das</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://balakhilya.com\" data-toolbar=\"-mbrBtnMove\">BALAKHILYA.COM</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://balakhilya.com\" data-toolbar=\"-mbrBtnMove\">BALAKHILYA.COM</a>"
         },
         {
           "_inherit": "gallery1",
@@ -1557,7 +1561,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/233208239",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-03-11-22-52-10.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-03-11-22-52-13.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "<p>THE QUEST FOR HAPPINESS<br><span style=\"font-size: 0.9em; line-height: 1.5;\">Radha Krishna das</span></p>",
@@ -1567,7 +1571,7 @@
                 "tags": "HAPPINESS",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/232338238",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-03-11-26-00-11.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-03-11-26-00-14.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "<p>HAPPINESS &amp; MINDFULNESS - IS THERE A CONNECTION?<br><span style=\"font-size: 0.9em; line-height: 1.5;\">Acharya das</span></p>",
@@ -1577,7 +1581,7 @@
                 "tags": "MEDITATION",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/channels/scienceofyoga/232637715",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-03-11-24-49-12.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-03-11-24-49-15.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "<p>YOGA - UNDERSTANDING THE GOAL AND DIFFERENT PATHS<br><span style=\"font-size: 0.9em; line-height: 1.5;\">Balakhilya das</span></p>",
@@ -1689,7 +1693,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-2r\">EVENTER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm1-4q\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"pamelding-signup.html\">BILLETTER</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-2r\">EVENTER 2018</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#features3-2r\">BILLETTER</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1904,7 +1908,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">YOGAVISDOM.NO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-2r\">EVENTER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm1-4q\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"pamelding-signup.html\">BILLETTER</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-2r\">EVENTER 2018</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"en.html\" aria-expanded=\"false\">IN ENGLISH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#features3-2r\">BILLETTER</a></li>"
         },
         {
           "_customTemplate": true,
