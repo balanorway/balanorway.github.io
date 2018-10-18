@@ -38,7 +38,7 @@
       ]
     },
     "versionFirst": "4.6.7",
-    "uniqCompNum": 584,
+    "uniqCompNum": 585,
     "versionPublish": "4.8.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2465,6 +2465,23 @@
           "_JSplaceholders": [
             "<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>",
             "<script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='NAME';ftypes[1]='text';fnames[4]='SURNAME';ftypes[4]='text';fnames[2]='PHONE';ftypes[2]='number';fnames[3]='LANGUAGE';ftypes[3]='radio';}(jQuery));var $mcj = jQuery.noConflict(true);</script>"
+          ]
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "{JS_CODE_0}{JS_CODE_1}",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-g8",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\" src=\"//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js\" data-dojo-config=\"usePlainJson: true, isDebug: false\"></script>",
+            "<script type=\"text/javascript\">window.dojoRequire([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us2.list-manage.com\",\"uuid\":\"d88f27c253d243b4b85912640\",\"lid\":\"914963da23\",\"uniqueMethods\":true}) })</script>"
           ]
         }
       ]
