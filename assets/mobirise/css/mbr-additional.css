@@ -3133,6 +3133,28 @@ body {
 .cid-qNL5kgSmcU .icons-menu .mbr-iconfont:hover {
   color: #c1c1c1 !important;
 }
+.cid-r6RhFdY37q {
+  padding-top: 15px;
+  padding-bottom: 60px;
+  background: #f7f7f7;
+  background: linear-gradient(0deg, #ffffff, #f7f7f7);
+}
+.cid-r6RhFdY37q .image-block {
+  margin: auto;
+}
+.cid-r6RhFdY37q figcaption {
+  position: relative;
+}
+.cid-r6RhFdY37q figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-r6RhFdY37q .image-block {
+    width: 100% !important;
+  }
+}
 #custom-html-g7 {
   /* Type valid CSS here */
 }
